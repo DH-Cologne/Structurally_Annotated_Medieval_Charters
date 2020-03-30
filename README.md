@@ -3,7 +3,7 @@ A set of CEI annotated medieval german royal charters (originating from the virt
 
 Die CEI-annotierten Urkunden in diesem Repository stammen aus dem virtuellen Urkundenarchiv [Monasterium.net](https://www.monasterium.net/mom/home). Sie wurden eigenständig um die Annotation der Formularbestandteile (\<protocol\>, \<invocatio\>, \<dispositio\> etc.) ergänzt. Jede Datei enthält die originalen Meta-Daten der Urkunden (Stand ca. Herbst 2018), so dass diese identifizierbar sind. Weiter unten in dieser Readme befindet sich außerdem eine Konkordanz mit Hinweisen zu den jeweiligen Archiven und Sammlungen, aus denen die Urkunden stammen.
 
-Dieses Korpus wurde im Rahmen der Entwicklung eines Programms zur automatischen Erkennung und Klassifikation von Urkundenbestandteilen angelegt. Die Urkunden aus dem Korpus werden dort als Trainingsdaten für einen Machine Learning Algorithmus genutzt, der für die Klassifikation eingesetzt wird. Das Repository zum Programm findet sich unter  <https://github.com/AlinaOs/Medieval-Charter-Classification>.
+Dieses Korpus wurde im Rahmen der Entwicklung eines Programms zur automatischen Erkennung und Klassifikation von Urkundenbestandteilen angelegt. Die Urkunden aus dem Korpus werden dort als Trainingsdaten für einen Machine Learning Algorithmus genutzt, der für die Klassifikation eingesetzt wird. Das Repository zum Programm findet sich unter  <https://github.com/DH-Cologne/Medieval-Charter-Classification>
 
 ## Konkordanz ##
 Es folgt eine Auflistung der auf Monasterium.net vertretenen Archive und Sammlungen, aus denen Urkunden zum Training des Machine Learning-Algorithmus benutzt worden sind.
