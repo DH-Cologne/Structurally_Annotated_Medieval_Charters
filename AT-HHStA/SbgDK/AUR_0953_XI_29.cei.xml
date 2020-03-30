@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgDK/AUR_0953_XI_29</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-20T10:09:50+02:00</atom:published>
+    <atom:updated>2010-04-23T18:49:54+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg DK" id="585678"
+            n="HHStA-Sbg DK$20" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 80-81.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 80.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_0953_XI_29" old="585678">AUR 0953 XI 29</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Otto I. bestätigt dem Eb Herolt die demselben von Papst
+                        Agapit II. (seit 946) gegen Zahlung eines Zinses zu Eigen übertragenen Orte
+                        Winhöring (Bezirksamt Altötting), Antiesen (südlich Schärding) und
+                        Volinpah.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Aufhausen</cei:placeName>
+                        <cei:dateRange to="9531129" from="9531129">29. November 953</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_953_XI_29-201">
+                            <cei:graphic url="AUR_953_XI_29-201.jpg"
+                                >AUR_953_XI_29-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_953_XI_29-101">
+                            <cei:graphic url="AUR_953_XI_29-101.jpg"
+                                >AUR_953_XI_29-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth>
+                            <cei:sealDesc>Posse VII, 1.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 64
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III kal. decembr.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 045 - Juvavia Anh. 179 n° 65 aus C = OÖ. U.-B. 2, 59 n°
+                                43. - Mon. Germ. Dipl. 1, 252 n° 170 aus A. - Juvavia 361 § 271b. -
+                                Stumpf, RK n° 230. - Böhmer-v. Ottenthal, RJ<cei:sup>2</cei:sup> 2
+                                n° 236.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Koch-Sternfeld, Beyträge etc. 2, 69.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina annuente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Nos itaque de statu regni nostri regali more, ut iustitiae
+                            solidamentum augeretur, tractantes loca sancta nostris etiam privilegiis
+                            corroborari decrevimus.</cei:arenga>
+                        <cei:publicatio> Quapropter noverit omnium fidelium presentium scilicet et
+                            futurorum industria,</cei:publicatio>
+                        <cei:narratio>quod venerabilis Iuuauensis ecclesie archiepiscopus Heroldus
+                            nostram adiit regalitatem postulans, ut nostrae auctoritatis precepto
+                            confirmaremus quedam loca his denotata nominibus:</cei:narratio>
+                        <cei:dispositio> Uuiniheringa, Antesena, Volinpah cum adiacentiis omnibus et
+                            appenditiis, hoc est cum barscalkis<cei:sup>a)</cei:sup> et aliis
+                                serviis<cei:sup>b)</cei:sup>, mansis etiam silvis pratis pascuis
+                            aquis aquarumque decursibus ac molendinis quesitis et inquirendis, sibi
+                            etiam a religioso<cei:sup>c)</cei:sup> papa Romane sedis Agapito
+                            proprialiter tradita in haec scilicet verba, ut singulis quibusque in
+                            annis tres libras<cei:sup>d)</cei:sup> argenti ad altare sancti Petri
+                            apostolorum principis Rome principaliter constructum detulisset aut
+                            transmisisset, et si hoc forte per neglegentiam quadam instante
+                            necessitate aliquo in anno subheretur<cei:sup>e)</cei:sup>, in sequenti
+                            impleretur; si vero in tertio aut in quarto anno subtractum fuisset, ad
+                            prioris dominii statum iam dicta reverterentur loca.</cei:dispositio>
+                        <cei:corroboratio>Nos autem eius assecuti petitionem hoc presens iussimus
+                            conscribi preceptum manu nostra firmatum et anuli nostri
+                                imppressione<cei:sup>f)</cei:sup> munitum, ne quis succedentium
+                            regum vel comitum ullam haberet potestatem suprascriptis in prediis sibi
+                            habendi vel in benefitium dandi, sed sub venerabilis archiepiscopi iam
+                            dicti eiusque successorum potestate iuxta id quod supra scriptum est,
+                            perpetualiter permaneret.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Ottonis invictissimi regis (MF).
+                            <cei:lb/>Liutulfus cancellarius ad vicem antedicti episcopi recognovit.
+                            <cei:lb/>SR.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data III kal. decembr., anno incarnationis domini
+                            DCCCCLIiI, indict. VII, regnante pio rege Ottone anno XVIII; actum
+                            Ufhusa; </cei:datatio>
+                        <cei:apprecatio>in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup><cei:quote>k</cei:quote> aus
+                            <cei:quote>c</cei:quote> korr. A. <cei:sup>b</cei:sup> A.
+                            <cei:sup>c</cei:sup><cei:quote>li</cei:quote> aus g korr. A.
+                            <cei:sup>d</cei:sup><cei:quote>l</cei:quote> aus
+                            <cei:quote>b</cei:quote> korr. A. <cei:sup>e</cei:sup> statt
+                            <cei:quote>substraheretur</cei:quote>. <cei:sup>f</cei:sup>
+                        A.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

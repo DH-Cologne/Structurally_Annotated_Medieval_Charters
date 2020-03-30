@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/StPCanReg/0976_VII_22</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:20:25+01:00</atom:published>
+    <atom:updated>2010-06-15T19:51:59+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="St. Poelten, Can Reg" id="633688"
+            n="St. Poelten, Can Reg$1" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>LAMPEL, Urkunden Sanct Pölten (=FRA I, Wien 1981) S.
+                            1-3</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>LAMPEL, Urkunden Sanct Pölten (=FRA I, Wien 1981) S. 1</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0976_VII_22" old="633688">0976 VII 22</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto II. bestätigt dem Bistum Passau und den diesem
+                        unterworfenen Klöstern St. Florian, St. Pölten und Kremsmünster die von den
+                        Kaisern Karl I., Ludwig I. und Otto I. verliehenen Rechte und
+                        Freiheiten.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="9760722" from="9760722">22. Juli 976</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Hauptstaatsarchiv München
+                                (http://www.gda.bayern.de)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:condition>Mäusefraß</cei:condition>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedr. Siegel, unverletzt.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod I, II, III des
+                            Hochstiftes Passau (Hauptstaatsarchiv München)</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XI. kal. Augusti</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>MB. 28<cei:sup>a</cei:sup> 216 Nr. 147 (aus dem Orig.) =
+                                Urkdb. d. L. o. d. Enns 2, 63; Buchinger, Gesch. d. Fürstentums
+                                Passau, 2, 493 (a. d. O.); Hund, Metrop. 1, 360 (München 1620) und
+                                239 (Regensb. 1719) = Lünig, Spicileg. eccl. 2 (Reichsarchiv
+                                    17<cei:sup>a</cei:sup>) 765, = Hansiz, Germ. sacr. 1, 220 -
+                                Böhmer, Reg. 511; Stumpf, Verz. d. Kaiserurk. 681.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina favente clementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Constat nos divina donante gratia ceteris mortalibus
+                            supereminere, unde oportet ut cuius precellimus munere, eius studeamus
+                            modis omnibus parere voluntati. </cei:arenga>
+                        <cei:publicatio>Quapropter comperiat omnium fidelium nostrorum praesentium
+                            scilicet a et futurorum industria,</cei:publicatio>
+                        <cei:narratio> quia vir venerabilis Piligrimus sanctae Pataviensis
+                            aecclesiae episcopus optulit nobis auctoritates inmunitatum piae
+                            recordationis imperatorum Karoli atque Hludowici nec non domni et
+                            genitoris nostril Ottonis piissimi imperatoris, in quibus continebatur
+                            insertum qualiter ipsi praedictam sedem quae est constructa in honore
+                            sancti Stephani protomartyris Christi, ubi etiam beatissimus b confessor
+                            Christi Valentinuscorpore requiescit, cum pertinentibus monasteriis, id
+                            est cella c sancti Floriani martiris atque Treisma ad monasterium Sancti
+                            Ypoliti nec non Chremisa<cei:sup>a</cei:sup> quae est in honore sancti
+                            salvatoris fundata et consecrate cum reliquis cellulis sibi subiectis et
+                            rebus vel hominibus ad se pertinentibus vel aspicientibus sub
+                            inmunitatis suae defensione consistere fecerant et confirmaverant, ut
+                            quicquid ex liberalitate regum regina rumque, ducum vel
+                                caeterorum<cei:sup>b</cei:sup> fidelium eidem sedi collatum fuerat
+                            per petuo in cuius dicione consisteret. Ob firmitatis namque studium
+                            petiit excellentiam nostram praedictus presul, ut morem parentum
+                            sequentes eandem sedem cum omnibus sibi subiectis simili modo sub nostra
+                            constitueremus defensione et inmunitatis tuitione.<cei:sup>c</cei:sup>
+                            Cuius precibus ob amorem dei et reverentiam ipsius sanctae sedis
+                            assensum prebuimus et hanc nostrae auctoritatis inmunitatem firmitatis
+                            gratia erga ipsum sanctum locum </cei:narratio>
+                        <cei:dispositio>fieri decrevimus per quam precipimus atque iubemus, ut sicut
+                            a praedictis piis principibus constat eandem sedem sub eorum inmunitate
+                            hactenus consistere, ita deinceps sub nostra permaneat defensione. Et
+                            quicquid eidem aecclesiae retroactis temporibus
+                                collatum<cei:sup>d</cei:sup> fuerat<cei:sup>e</cei:sup> et modernis
+                                confertur<cei:sup>f</cei:sup> vel quae deinceps collate fuerint, per
+                            hanc auctoritatem nostram absque alicuius contrarietate teneat atque
+                            possideat. Et nullus iudex publicus vel quilibet superioris vel
+                            inferioris ordinis reipublicae procurator in monasteria cellulas
+                            aecclesias loca vel agros seu reliquas possessiones memoratae aecclesiae
+                            quas moderno tempore iuste et legaliter possidere videtur vel quae
+                            deinceps in iure ipsius sancti loci voluerit divina pietas augere, ad
+                            causas iudiciario more audiendas vel freda aut tributa exigenda aut
+                            mansiones vel paratas faciendas aut fideiussores tollendos seu homines
+                            ipsius aecclesiae tam ingenuos quam et servos super terram ipsius
+                            commanentes iniuste distringendos nec ullas redibitiones aut illicitas
+                            occasiones requirendas ullo umquam tempore ingredi audeat vel ea quae
+                            memorata sunt penitus exigere praesumat, sed liceat memorato praesuli
+                            suisque successoribus cum omnibus sibi subiectis et rebus vel hominibus
+                            ad se aspicientibus sub inmunitatis nostrae defensione quieto ordine
+                            possidere. Et quicquid de rebus aecclesiae praedictae ius fisci nostri
+                            exigere poterat, totum in luminaribus ipsius aecclesiae et stipendiis
+                            pauperum servorumque dei ibidem deo famulantium concessimus, ut in
+                            perpetuum illic proficiat in augmentum, quatenus eiusdem sedis episcopi
+                            una cum clero et populo sibi commisso pro nobis et stabilitate regni
+                            nostri domini misericordiam adtentius exorare valeant.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec inmunitatis et donationis nostrae auctoritas
+                            plenissimam in Christi nomine per cuncta volventis mundi
+                                curricula<cei:sup>g</cei:sup> obtineat stabilitatis
+                                firmitudinem,<cei:sup>h</cei:sup> manu propria<cei:sup>i</cei:sup>
+                            subter firmavimus et anuli nostri impressione iussimus insigniri.
+                        </cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio>Signum domni Ottonis (M)<cei:sup>j</cei:sup>
+                                invictissimi<cei:sup>k</cei:sup> imperatoris augusti. Egbertus
+                            cancellarius ad vicem Uuilligisi archicappellani
+                            notavi.</cei:subscriptio>
+                        <cei:datatio><cei:sup>l</cei:sup> Data XI. kal. Augusti, anno
+                                dominicae<cei:sup>m</cei:sup> incarnationis DCCCCLXXVI, indictione
+                            IIII, anno vero regni domni Ottonis piissimi
+                                imperatoris<cei:sup>n</cei:sup> XV, imperii autem VIIII; actum
+                                Radasbonae;<cei:sup>o</cei:sup></cei:datatio>
+                        <cei:apprecatio> in Christi nomine feliciter
+                            amen.<cei:sup>p</cei:sup></cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup> Chremisa Orig., Codd. II. u.
+                            III.<cei:sup>b</cei:sup> aliorum Cod. III.<cei:sup>c</cei:sup> f statt
+                        dieses Wortes hatte der Schreiber defensione wiederholt, dann aber durch
+                        darunter gesetzte Punkte als ungiltig bezeichnet und tuitione daneben
+                            geschrieben.<cei:sup>d</cei:sup> statt u hatte man sogenanntes
+                        langobardisches a geschrieben, das aber zu u verbessert
+                            wurde.<cei:sup>e</cei:sup> at scheint hineingeflickt zu sein, über - er
+                        - stand ein Abkürzungszeichen, es hiess also ursprünglich collata
+                            fuerunt.<cei:sup>f</cei:sup> Cod. I, II. u. III; entsprechend dem
+                        vorigen steht im Originale conferuntur das -un-
+                            unterpunktiert.<cei:sup>g</cei:sup> currica Orig., Cod. I u.
+                            II.<cei:sup>h</cei:sup> obtineat stabilitatem Cod.
+                            II.<cei:sup>i</cei:sup> fehlt in Cod. II.<cei:sup>j</cei:sup> das
+                        Handmal von unregelmässiger Form; darunter kommt das signum recognitionis zu
+                            stehen.<cei:sup>k</cei:sup> das Orig. hat nur
+                            invictissi.<cei:sup>l</cei:sup> recognivi Cod. II.<cei:sup>m</cei:sup>
+                        anno dominicae fehlt in Cod. II.<cei:sup>n</cei:sup> imp. augusti Cod.
+                            III.<cei:sup>o</cei:sup> das folgende fehlt in Cod.
+                            II<cei:sup>p</cei:sup> von diesen drei Worten sind im Orig. der letzte
+                        Schaft des m, dann - ine feliciter ame - durch Mäusefrass
+                        entfernt.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

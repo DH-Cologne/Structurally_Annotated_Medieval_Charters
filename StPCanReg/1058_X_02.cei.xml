@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/StPCanReg/1058_X_02</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:21:23+01:00</atom:published>
+    <atom:updated>2010-06-15T19:53:40+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="St. Poelten, Can Reg" id="634030"
+            n="St. Poelten, Can Reg$3" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>LAMPEL, Urkunden Sanct Pölten (=FRA I, Wien 1981) S.
+                            5-6</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>LAMPEL, Urkunden Sanct Pölten (=FRA I, Wien 1981) S. 5</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1058_X_02" old="634030">1058 X 02</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich IV. schenkt dem Stifte drei königl. Huben in
+                        Mannswörth (a. d. Donau bei Fischamend) und den Markt zu St.
+                        Pölten.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Ybbs a. d. Donau</cei:placeName>
+                        <cei:dateRange to="10581002" from="10581002">2. Oktober 1058</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>A, 52 Nr. 76; Cod.
+                            Pat. III</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VI. non. Octobris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Duellius, Exc. 29, 69 (A), mit schlechtem Facs. der ersten und
+                                der Königszeile; Müller-Maderna, Hist. can. St. Hippol. II, 12 (A) =
+                                (?) Ludewig, Rel. IV, 140, 2; Mon. Boic. 31a, 341, 182 (Cod. III);
+                                Böhmer, Reg. 1720; Stumpf, Verz. d. Kaiserurk. 2562; Meiller, Bab.
+                                Reg. 8, 4.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et individue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Hainricus<cei:sup>a</cei:sup> divina favente clementia
+                            rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si loca divinis cultibus mancipata ex nostris
+                                aliquid<cei:sup>b</cei:sup> ditare studuerimus, ad stabilitatem
+                            regni nostrique prosperitatem id pervenire credimus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnibus Christi nostrique fidelibus tam futuris
+                            quam presentibus notum esse volumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob interventum atque petitionem Agnetis
+                                dilectissime<cei:sup>c</cei:sup> genitricis nostre imperatricis
+                            auguste pro anima cari genitoris nostri Heinrici imperatoris memorie
+                            felicis III regales mansos in loco Mandeswerede infra Svechant et
+                                Viskaha<cei:sup>d</cei:sup> iuxta Danubium, quam proxime fieri
+                            possit, in marchia Osterriche et in comitatu Ernestes marchionis sitos
+                            ad altare in honore<cei:sup>e</cei:sup> domini nostri Jesu Christi et
+                            sancti Petri apostoli<cei:sup>f</cei:sup> sanctique Ypoliti martiris
+                            constructo et consecrato in loco qui vocatur Sancti Ypoliti et pro anima
+                                Imme<cei:sup>g</cei:sup> nostre pedisseque ante ianuam eiusdem
+                            monasterii sepulte fratribus ad prebendam deo suisque sanctis in eodem
+                            loco die noctuque servientibus cum omnibus suis pertinentiis, hoc est
+                            areis edificiis terris cultis et incultis agris pratis pascuis campis
+                            silvis venationibus aquis aquarumque de cursibus molis molendinis
+                            piscationibus exitibus et reditibus viis et inviis quesitis et
+                            inquirendis seu cum omni usu qui inde per venire potest et forum in
+                            Sancto Ypolito</cei:narratio>
+                        <cei:dispositio> in proprium dedimus atque tradidimus.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostra raegalis<cei:sup>h</cei:sup> traditio
+                            stabilis et inconvulsa omni permaneat evo, hanc paginam inde conscribi
+                            manuque propria ut subtus videtur corroborantes sigilli nostri
+                            impressione iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum<cei:sup>i</cei:sup>
+                                domni<cei:sup>j</cei:sup> Heinrici (M.)<cei:sup>k</cei:sup> quarti
+                                regis.<cei:sup>l</cei:sup>Gebehardus cancellarius vice
+                                Liutboldi<cei:sup>m</cei:sup> archicancellarii recognovit.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>
+                                Data<cei:sup>n</cei:sup> VI. non. Octobris, anno dominice
+                            incarnationis MLVIII, indictione XI, anno autem domni Heinrici quarti
+                            regis ordinationis eius V, regni vero II; actum Ibese;</cei:datatio>
+                        <cei:apprecatio> in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup> Heinricus Cod. III.<cei:sup>b</cei:sup> aliquando
+                            Ludewig.<cei:sup>c</cei:sup> fehlt in Cod. III.<cei:sup>d</cei:sup>
+                        uiskaha Ludewig.<cei:sup>e</cei:sup> honorem Ludewig.<cei:sup>f</cei:sup>
+                        apostuli in den MB ist durch nichts gerechtfertigt, da Cod. III genau so
+                        kürzt wie A: apli.<cei:sup>g</cei:sup> In A in Majuskel geschrieben, vgl.
+                        Anm. l<cei:sup>h</cei:sup> regalis Cod. III und
+                            Duellius.<cei:sup>i</cei:sup> Signatum Ludewig.<cei:sup>j</cei:sup> Cod.
+                        III, domini A.<cei:sup>k</cei:sup> A; im Cod. III und im Facs. bei Duellius
+                        steht das Handmal zwischen Hein(M)rici; Duellius hatte also noch eine andere
+                            Vorlage.<cei:sup>l</cei:sup> In Majuskel geschrieben, was, wie die
+                        sonstige Form der Abschrift in A, auf Vorlage des Originales
+                            deutet.<cei:sup>m</cei:sup> A und Cod. III, während die MB.
+                            Luitpoldi.<cei:sup>n</cei:sup> Cod III, datum A.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

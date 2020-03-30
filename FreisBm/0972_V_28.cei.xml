@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/0972_V_28</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:00+01:00</atom:published>
+    <atom:updated>2009-08-28T21:39:44+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240365"
+            n="Freising B$35" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            34-35</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 34, Nr.
+                            35</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0972_V_28" old="240365">0972 V 28</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto I. schenkt dem Kloster Innichen einen bezeichneten
+                        Landstrich am Flusse "Uallat", zu Cuneo und "Piscatorus" bei Godego im
+                        Venetianischen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Pavia</cei:placeName>
+                        <cei:dateRange to="9720528" from="9720528">28. Mai 972</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 10 und
+                            20, k. Reichsarchiv zu München; ebendort Codd. 191, f. 74, 100' und 106,
+                            238, f. 104</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>V. kal. Junii</cei:quoteOriginaldatierung>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente elementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Nouerint omnes nostri fideles presentes scilicet atque
+                            futuri,</cei:publicatio>
+                        <cei:narratio> qualiter nos per interuentum dilecte coniugis nostre
+                            Adalheide nee non equiuoci nostri (!) quasdam res nostri iuris sitas in
+                            comitatu Taruisiano haut longe a fluuio Uallatus<cei:sup>1</cei:sup> et
+                            in loco qui dicitur Chunio, qui situs est prope litus Brente, qui fuit
+                            Ysaac Judeotraditusa Wicberto, etin loco qui dicitur Piseatorus et
+                            Uicentino comitatu in cireuitu Gudage ultra tria miliaria, et in
+                            utraqueripa Brente ius macelli etineius flnibus que inter istos
+                            designatos fines iacent, que appellantur Aunario, deinde terminante in
+                            aqua que dicitur Musone, deinde terminante in flumine Diso et deinde
+                            terminante inLitrano unde Silus resurgit,et de ipsa supra nominata curte
+                                Gudago<cei:sup>2</cei:sup> terminante in Aurillia et deinde
+                            terminante in Rescio, inter istos designatos fines cum pratis, paseuis,
+                            uiis et inuiis, exitibus et reditibus, fontibus, aquis aquarumque
+                            decursibus, piscationibus, molendinis, siluis et paludibus omnibusque
+                            rebus iuste legitimeque ad eandem curtem respicientibus, quesitis et
+                            inquirendis ad seruitium saneti Candidi ad Inticam in manus nobis satis
+                            cari episcopi Abraham appellati </cei:narratio>
+                        <cei:dispositio>ob remedium anime nostre tradidimus eo scilicet tenore, ut
+                            isdem iam dictus episcopus usque ad obitum sui absque contradictione
+                            omnium totum atque integrum teneat atque possideat, postea yero seruitio
+                            saneti Candidi redintegratum perpetim inibi permansurum ad Inticam
+                            redeat atque respiciat.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostri iuris donatio firma stabilisque
+                            perseueret, hanc cartam conscribi ac sigilli nostri inpressione
+                            subsignari iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Ottonis (M.) inuictissimi imperatorisaugusti.
+                            Liutolfus cancellarius uice Hattonis archicappellani
+                            subscribsi.</cei:subscriptio>
+                        <cei:datatio> Data V. kal. Junii anno incarnationis dominice DCCCCLXXII.,
+                            indictione XV., anno regni domni Ottonis XXX., imperii autem VIII. Actum
+                            in proilo Papie.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Fol. 20 "Uallat";</cei:note>
+                    <cei:note><cei:sup>2</cei:sup> ib. "curte supra nominata"</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

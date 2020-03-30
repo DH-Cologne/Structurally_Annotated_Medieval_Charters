@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/OOEUB/0976_VII_22</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-19T14:07:15+01:00</atom:published>
+    <atom:updated>2009-08-28T21:20:47+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="OOEUB" id="238186" n="OOEUB$46"
+            type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 63-64</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 63</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0976_VII_22" old="238186">0976 VII 22</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Otto II. erteilt dem Bischof und der Kirche von Passau eine
+                        Bestätigung aller Immunitäten, Rechte und Besitzungen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="9760722" from="9760722">22. Juli 976</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XI. Kal. aug.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Hund, Metrop. I. (München) 358. (Regensburg) 239.</cei:bibl>
+                            <cei:bibl>Lünig, Reichsarchiv XVII. 765.</cei:bibl>
+                            <cei:bibl>Hansiz, Germ. Sacr. I. 220.</cei:bibl>
+                            <cei:bibl>Buchinger, loc. cit. II. 493.</cei:bibl>
+                            <cei:bibl>Mon. boic. XXVIII. I. 216. Nr. 147. ex orig. cum
+                                sigill.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sanctae et indiuiduae
+                            Trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente clementia Imperator
+                            Augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> constat nos diuina donante gratia ceteris mortalibus
+                            supereminere. Unde oportet, ut, cuius precellimus munere, eius studeamus
+                            modis omnibus parere voluntati.</cei:arenga>
+                        <cei:publicatio> Quapropter conperiat omnium fidelium nostrorum praesentium
+                            scilicet et futurorum industria,</cei:publicatio>
+                        <cei:narratio> quia vir venerabilis piligrimus sanctae patauiensis
+                            aecclesiae episcopus optulit nobis auctoritates inmunitatum piae
+                            recordationis Imperatorum Karoli atque hludouuici nec non domni et
+                            genitoris nostri ottonis piissimi imperatoris, in quibus continebatur
+                            insertum, qualiter ipsi praedictam sedem, quae est constructa in honore
+                            sancti Stephani protomartyris christi, vbi etiam beatissimus confessor
+                            christi valentinus corpore requiescit, cum pertinentibus monasteriis, id
+                            est cella sancti floriani martiris atque treisma ad monasterium sancti
+                            ypoliti nec non Crhemisa, quae est in honore sancti saluatoris fundata
+                            et consecrata, cum reliquis cellulis sibi subjectis et rebus uel
+                            hominibus ad se pertinentibus uel aspicientibus sub inmunitatis suae
+                            defensione consistere fecerant et confirmauerant, ut quicquid ex
+                            liberalitate regum reginarumque, ducum vel caeterorum fidelium eidem
+                            sedi collatum fuerat, perpetuo in eius dicione consisteret. Ob
+                            firmitatis namque studium petiit excellentiam nostram praedictus
+                            praesul, ut morem parentum sequentes eandem sedem cum omnibus sibi
+                            subiectis simili modo sub nostra constitueremus defensione et
+                            inmunitatis tuitione. </cei:narratio>
+                        <cei:dispositio>Cuius precibus ob amorem dei et reverentiam ipsius sanctae
+                            sedis assensum prebuimus et hanc nostrae auctoritatis inmunitatem
+                            firmitatis gratia erga ipsum sanctum locum fieri decreuimus, per quam
+                            precipimus atque iubemus, ut, sicut a praedictis piis principibus
+                            constat eandem sedem sub eorum inmunitate hactenus consistere, Ita
+                            deinceps sub nostra permaneat defensione et quicquid eidem aecclesiae
+                            retro actis temporibus collatum fuerat et modernis conferuntur uel quae
+                            deinceps collata fuerint, per hanc auctoritatem nostram absque alicuius
+                            contrarietate teneat atque possideat et nullus iudex publicus vel
+                            quilibet superioris vel inferioris ordinis reipublicae procurator in
+                            monasteria, cellulas, aeclesias, loca vel agros seu reliquas
+                            possessiones memoratae aecclesiae, quas moderno tempore iuste et
+                            legaliter possidere videtur uel quae deinceps in iure ipsius sancti loci
+                            voluerit diuina pietas augere, ad causas iudiciario more audiendas uel
+                            freda aut tributa exigenda aut mansiones vel paratas faciendas aut
+                            fideiussores tollendos seu homines ipsius aecclesiae tam ingenuos quam
+                            et seruos super terram ipsius commanentes injuste distringendos nec
+                            ullas redibitiones aut illicitas occasiones requirendas ullo umquam
+                            tempore ingredi audeat uel ea, quae memorata sunt, penitus exigere
+                            praesumat sed liceat memorato praesuli suisque successoribus cum omnibus
+                            sibi subiectis et rebus vel hominibus ad se aspicientibus sub
+                            inmunitatis nostrae defensione quieto ordine possidere Et quicquid de
+                            rebus aecclesiae praedictae ius fisci nostri exigere poterat, totum in
+                            luminaribus ipsius aecclesiae et stipendiis pauperum seruorumque dei
+                            ibidem deo famulantium concessimus, ut in perpetuum illic proficiat in
+                            augmentum, quatenus eiusdem sedis episcopi una cum clero et populo sibi
+                            commisso pro nobis et stabilitate regni nostri domini misericordiam
+                            adtentius exorare valeant.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec inmunitatis et donationis nostrae auctoritas
+                            plenissimam in christi nomine per cuncta voluentis mundi currica
+                            (curricula) obtineat stabilitatis firmitudinem, manu propria subter
+                            firmauimus et anuli nostri inpressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum Domni Ottonis (Monogramma) inuictissimi Imperatoris
+                            augusti. Egbertus cancellarius ad uicem Uilligisi archicapellani notaui.
+                            (S. R.)</cei:subscriptio>
+                        <cei:datatio> Data XI. Kal. aug. Anno dominicae incarnat. DCCCCLXXVI.
+                            Indictione IIII. Anno vero regni domni ottonis piissimi Imperatoris XV.
+                            Imperii autem VIIII. Actum radasbonae</cei:datatio>
+                        <cei:apprecatio> in christi nomine feliciter. Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

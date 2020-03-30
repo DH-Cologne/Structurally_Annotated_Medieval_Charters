@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1049_I_07</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:02+01:00</atom:published>
+    <atom:updated>2009-08-28T21:39:53+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240476"
+            n="Freising B$76" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            78-79</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 78, Nr.
+                            76</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1049_I_07" old="240476">1049 I 07</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich III. schenkt dem Bischofe Nitker von Freising ein
+                        dem Fiscus anheimgefallenes Stück Land zu Ardagger in der Ostmark mit der
+                        Verpflichtung den daselbst bestehenden Secularconvent von Priestern in einen
+                        stiftlichen zu verwandeln.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Ebersberg</cei:placeName>
+                        <cei:dateRange to="10490107" from="10490107">7. Januar 1049</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Archiv für Kunde
+                            österr. Geschichtsquellen VI. 293, aus einem Cod. des 12. Jahrh. der
+                            Klosterbibliothek zu Seitenstetten; vergl. Duellius Miscell. I. 106 u.
+                            Meichelbeck I. 243.</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VII. idus Ianuarii</cei:quoteOriginaldatierung>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sancte et induidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia Romanorum imperator
+                            augustus. </cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Quoniam ex iure suscepti regni omnibus ecclesiis Romani imperii
+                            debitam sollicitudinem debemus impendere, uolumus unamquamque quantum
+                            nobis ex diuine gratie munere conceditur, procurare et ad dei seruitium
+                            promouere.</cei:arenga>
+                        <cei:publicatio> Vnde quidem omnes Christe nostrique tam futuri quam
+                            presentes nouerint fideles,</cei:publicatio>
+                        <cei:narratio> qualiter nos pro anime nostre felicitate et ante cessorum
+                            nostrorum requie et ob interuentum nostri thori ac regni consortis
+                            scilicet Agnetis imperatricis auguste et ob deuotam seruitutem nostri
+                            fidelis et dilecti Nitkeri Frisingensis episcopi ad altare sancte Marie
+                            semper uirginis sanctique Corbiniani confessoris in monasterio Frisinga
+                            tale predium quale Vlrich et Ascuuin in Ardack(er) in comitatu
+                            marchionis Adalberti trans fluuium Ensa habuerunt,</cei:narratio>
+                        <cei:dispositio> iure gentium nostre potestati dicatum tradidimus cum
+                            omnibus suis pertinentiis, cum mancipiis scilicet utriusque sexus,
+                            areis, edificiis, agris, pratis, campis, pascuis, terris cultis et
+                            incultis, siluis, uenationibus, aquis aquarumque decursibus, molis,
+                            molendinis, piscationibus, exitibus et reditibus, uiis et inuiis,
+                            quesitis et inquirendis et cum omni iure et utilitate que ullo modo
+                            poterit prouenire, ea uidelicet ratione, ut prefatus episcopus et sui
+                            successores in predicto loco Ardacher clericos seculares ad dei
+                            seruitium pascant et sustentent regulari prebenda in honorem sancte
+                            Margarete uirginis et martyris ibidem constitutos et congregatos. </cei:dispositio>
+                        <cei:corroboratio>Et ut hec nostra imperialis traditio stabilis et
+                            inconuulsa omni succedentis temporis permaneat euo<cei:sup>1</cei:sup>,
+                            hoc preceptum inde conscriptum manu propria corroborantes sigilli nostri
+                            impressione iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:datatio> Termini autem prefati predii isti sunt, ab Holesceit usque in
+                            Sambach, a Sambach usque in Tieufenbaeh. Data VII. idus Ianuarii anno
+                            dominice incarnationis MXLVIIII., indictione II., anno autem domini
+                            Heinrici tertii regis imperatoris secundi ordinatione eius XX., regni
+                            quidem X., imperii autem III. In nomine domini actum Eberesperg </cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Duellius liest succedentia und alle Drucke haben
+                        ideo; ich vermuthe, dass euo zu lesen sei, denn die Lesung succedentia ist
+                        wohl nur sehr plausibel, mit succedentis ergibt sich kein Sinn.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

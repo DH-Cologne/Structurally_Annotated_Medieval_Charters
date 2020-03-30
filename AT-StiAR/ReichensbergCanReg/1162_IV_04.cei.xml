@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAR/ReichersbergCanReg/1162_IV_04</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:49:07+02:00</atom:published>
+    <atom:updated>2009-08-28T20:16:00+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Reichersberg, CanReg" id="301871"
+            n="Reichersberg, CanReg$216" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 318-319</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 318</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1162_IV_04" old="301871">1162 IV 04</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Friedrich I. nimmt das Kloster Reichersberg in seinen
+                        besonderen Schutz.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Pavia</cei:placeName>
+                        <cei:dateRange to="11620404" from="11620404">4. April 1162</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.nein, aus einem Copialbuche sec.
+                            XII</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Reichersberg, CanReg</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>(der Abschrift:) Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth> </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>II. nonas octobris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Chron. Reichersb. ad 1162</cei:bibl>
+                            <cei:bibl>Mon. boic. III. 470.</cei:bibl>
+                            <cei:bibl>Hund - Gewold 167 (edit. Ratisb.) et 242 (Monac.
+                                edit.)</cei:bibl>
+                            <cei:bibl>Cf. Mon. boic. XXXI. I. 415.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Das Datum ist fehlerhaft, es muss heissen: Aprilis statt Octobris.
+                            (S. Böhmer Regesten.)</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sancte et indiuidue trinitatis</cei:invocatio>
+                        <cei:intitulatio> fridericus dei gratia romanorum imperator
+                            Augustus</cei:intitulatio>
+                        <cei:inscriptio> Gerhoho richerspergensi preposito et successoribus eius in
+                            perpetuum.</cei:inscriptio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Si loca sancta honoramus et deo seruientium quieti pro nostro
+                            iure prouidemus, credimus per boc et summe diuinitatis gratiam
+                            repropiciare et coronam imperii lapidibus illis vere preciosis exornare,
+                            qui iugiter assistunt ac fulgent ante deum, et sub nostre protectionis
+                            tuicione tranquilla ei pace tam pro nostra quam pro sua salute
+                            deseruiunt.</cei:arenga>
+                        <cei:publicatio> Vnde notum esse uolumus,</cei:publicatio>
+                        <cei:narratio> quod nos benigno assensu annuentes piis et iustis
+                            postulacionibus tuis, Gerhohe Richerspergensis preposite, interuentu
+                            fidelium nostrorum, videlicet Eberhardi salzburgensis archiepiscopi et
+                            Eberhardi babenbergensis et Hartmanni brixinensis episcoporum ipsum
+                            Richerspergense cenobium canonicorum regularium in comitatu Berthodi
+                            comitis de andehs iuxta fluuium Enum situm in pago, quem transit fluuius
+                            antesin, a quodam nobili uiro wernhero fundatvm et ecclesie salzburgensi
+                            iure proprietatis collatum, salua in omnibus archiepiscopi
+                            salzburgensis, que prelibata est, iurisdictione,</cei:narratio>
+                        <cei:dispositio> nos in nostre imperialis maiestatis et omnium successorum
+                            nostrorum regum et imperatorvm tutelam suscepimus statuentes et firmiter
+                            precipientes secundum antiquam et primitiuam illius loci libertatem ab
+                            ipso fundatore collatam et priuilegiis uenerabilium archiepiscoporum
+                                Cho<cei:sup>v</cei:sup>nradi et Eberhardi roboratam, vt nullus
+                            aduocatorum siue ipsius loci siue prediorum ad ipsvm locum pertinencium
+                            presumat aut facultatem habeat illic subaduocatos ordinare sub tytulo
+                            beneficiarie concessionis aut exactiones et grauamina indebita fratribus
+                            predicti loci seu ministratoribus aut colonis eorum super inponere. Quod
+                            si quandoque ex consensu prepositi et fratrum principales aduocati
+                            aliquem sibi procuratoris officio subsecundauerint vltra beneplacitum
+                            prepositorum, qui pro tempore ibidem prefuerint, et fratrum suorum in
+                            administracione aduocatie nullatenus permaneat. Adicimus autem et
+                            imperialis maiestatis auctoritate ac lege in perpetuum ualitura
+                            statuimus, ut bona predicto cenobio siue collata siue adhuc domino
+                            prestante conferenda nullus inuadere aut inde quolibet modo alienare aut
+                            locum ipsum despoliare seu disuestire presumat, nisi coram legittimis
+                            iudicibus iuste et legaliter iusticiam suam conprobauerit. Specialiter
+                            autem ipse locus deo dicatus nostre imperialis largitionis beneficio
+                            emunitate gaudeat et nulla iudiciaria secularisue potestas licenciam
+                            habeat ibi placitandi, concionandi aut quelibet iura secularia
+                            exercendi, que fratrum inibi deo militancium secundum regulam beati
+                            augustini quietem interrumpere ualeat (sic) quod absit, aut
+                            disturbare.</cei:dispositio>
+                        <cei:sanctio> Si qua uero persona temerario ausu contra hoc priuilegium
+                            nostrum uenire temptauerit et secundo tercioue commonita non
+                            emendauerit, banno nostro subiaceat et XXX libras auri purissimi ad
+                            kameram nostram persoluat.</cei:sanctio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Sigillum domini friderici romanorum imperatoris augusti.
+                            Ego vdalricus cancellarius uice reinaldi coloniensis archiepiscopi et
+                            archicancellarii recognoui.</cei:subscriptio>
+                        <cei:datatio> Acta sunt hec anno dominice incarnationis MCLXII. Indictione
+                            X. Regnante domino friderico Romano Imperatore gloriosissimo Anno regni
+                            X. Imperii uero VII. Datum Papie post destructionem mediolani. II. nonas
+                            octobris</cei:datatio>
+                        <cei:apprecatio> feliciter Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiASF/StFlorianCanReg/1109_XI_04</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:46:53+02:00</atom:published>
+    <atom:updated>2009-08-28T17:03:17+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="St. Florian, CanReg" id="288007"
+            n="St. Florian, CanReg$90" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 127-129</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 127</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1109_XI_04" old="288007">1109 XI 04</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich V. bestätigt die Schenkung des Edlen Eppo von Windberg
+                        an das Kloster St. Florian.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Passau</cei:placeName>
+                        <cei:dateRange to="11091104" from="11091104">4. November 1109 (oder
+                            1108)</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StAStFlorian_11091104">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgmasters._~Urkunden._~1071-1299._~StAStFlorian_11091104.jpg"
+                                >StAStFlorian_11091104.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StAStFlorian_11091104_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgmasters._~Urkunden._~1071-1299._~StAStFlorian_11091104_v.jpg"
+                                >StAStFlorian_11091104_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StAStFlorian_11091104">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgweb._~Urkunden._~1071-1299._~StAStFlorian_11091104.jpg"
+                                >StAStFlorian_11091104.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StAStFlorian_11091104_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgweb._~Urkunden._~1071-1299._~StAStFlorian_11091104_v.jpg"
+                                >StAStFlorian_11091104_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>Stiftsarchiv St. Florian (www.stift-st-florian.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc> Mit aufgedrucktem Siegel </cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>II. Non. Nouemb.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Hormayr, Wien I. II. S. XVII.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Das Monogramm wie im Chronico Gottwic. mit dem
+                            Vollziehungsstriche.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et indiuidue trinitatis</cei:invocatio>
+                        <cei:intitulatio> heinricus diuina fauente clementia romanorum quintus
+                            rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Credimus a deo uitam longeuam, salutem atque uictoriam regibus
+                            dari in hoc seculo et parari uite perpetue felicitatem in futuro, si
+                            ecclesias nomini eius edificatas coluerint easque tarn propriis diuiciis
+                            quam alienis a christianis deuote collatis regia confirmatione
+                            ditauerint atque defenderint. Quod nos in quantum dei nobis auxiliante
+                            gratia poterimus desiderantes obseruare, rogamus eum, ut nostre
+                            deuotioni prestet pius suffragium et effectum.</cei:arenga>
+                        <cei:publicatio> Sciant igitur omnes christi nostrique fideles tam futuri
+                            quam presentes,</cei:publicatio>
+                        <cei:narratio> quod nos causa dei pro regni nostri stabilitate et anime
+                            nostre nostrorumque parentum salute interueniente Frederico uenerabili
+                            coloniensium archiepiscopo et uenerabilibus episcopis rogantibus ac
+                            consulentibus O<cei:sup>u</cei:sup>dolrico patauiensi, Burchardo
+                            Monasteriensi, Hartuico Radisbonnensi nec non Alberto nostro dilecto
+                            cancellario, Vuelfone duce bauuarie et comitibus idem postulantibus
+                            Herimanno Saxonie, Beringario de Sulcebac, Godefrido de caloen et aliis
+                            quam plurimis nostris fidelibus Christiane petitioni Epponis hylariter
+                            assensum prebuimus, Qui divinitus inspiratus sibi deum heredura
+                            constituit et omnia sua allodia tam hereditaria quam suo labore iuste
+                            conquisita ad deo seruiendum contulit cum ecclesia, quam ipsemet
+                            propriis bonis edificauit in honore sancte Marie sancto Floriano in
+                            loco, qui Floriani domus appellatur. Nos autem eiusdem deuoto rogatu et
+                            licentia eadem allodia inter Bosenbac et Ebresbac usque ad terminos
+                            boemie et predium, quod dicitur cella ad movhile, eidem supradicte
+                            ecelesie</cei:narratio>
+                        <cei:dispositio> per hanc preceptalem paginam regia consuetudine habenda
+                            perpetuo cum Omnibus eorum pertinentiis coricessimus atque firmauimus.
+                            Videlicet familiis utriusque sexus, terris cultis et incultis, areis,
+                            prediis, uinetis, pratis, riuis, pascuis, siluis, uenationibus, aquis
+                            aquarumque decursibus, molendinis, piscationibus, exitibus atque
+                            reditibus, placitis, districtionibus, uiis et inuiis et omni utilitate,
+                            que inde iuste poterit extorqueri omni tempore. Concessimus etiam, ut
+                            ibidem deo pro tempore seruientes habeant liberam potestatem hec bona
+                            dandi, uendendi, comutandi (sic), precariandi et quidquid libuerit
+                            faciendi, concorditer tantum ad utilitatem ecclesie. Et ne qua dubitatio
+                            de terminis horum allodiorum oriatur, manifestum sit, quod eorum
+                            continuatio sine interruptione iacet a capite Ebresbac usque ad fines
+                            Boemie. Hec siquidem et alia bona, que iam dicta ecclesia uel oblatione
+                            liberorum hominum uel collatione uel alio modo quolibet iuste adquisiuit
+                            uel adquisitura est, sub tutela nostre defensionis suscepimus rogantes,
+                            ut ab omnibus causa dei, Sancte Marie, Sancti Floriani et nostri
+                            conseruentur, et precipientes sub pena nostri banni, ne ab aliquo arte
+                            qualibet uel presumptione uastentur uel inuadantur, sed in tranquilla
+                            pace permaneant, quamdiu mundus stabit. Rogamus quoque, ut reges nostri
+                            successores causa dei dignam uindictam exerceant super corruptores huius
+                            rei, si forte contigerit, quod diuina prouidentia prouideat. </cei:dispositio>
+                        <cei:corroboratio>Vt autem hoc credibile sit et ab omnibus obseruetur, hanc
+                            paginam inde scriptam manu propria corroboratam reuerenda inpressione
+                            nostri sigilli insigniri iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni heinrici (Monogramma) romanorum regis
+                            Invictissimi. Albertus cancellarius uice rotardi maguntini archiepiscopi
+                            et archicancellarii recognouit.</cei:subscriptio>
+                        <cei:datatio> Data II. Non. Nouemb. Indiction. I. Anno dominice
+                            incarnationis Millesimo. C.VIIII. Regnante Heinrico V. rege Romanorum
+                            anno III. ordinationis eius VIIII. Actum est iuxta
+                            patauiam</cei:datatio>
+                        <cei:apprecatio> in christi nomine feliciter, cum de vngaria
+                            rediremus.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

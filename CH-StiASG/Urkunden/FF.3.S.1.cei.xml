@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/Urkunden/FF.3.S.1</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:09:19+01:00</atom:published>
+    <atom:updated>2010-09-25T18:47:18+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StiA SG" id="512622"
+            n="StiA SG$837" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Chartularium Sangallense III, Nr. 885, S. 10-11.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Chartularium Sangallense III, Nr. 885, S. 10 (Reg. Imp.,
+                            1947.).</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="FF.3.S.1" old="512622">FF.3.S.1</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich IV. schenkt dem Kloster St. Gallen die Villa
+                        Daugendorf und weitern Besitz, zusammen 30 Hufen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Pavia</cei:placeName>
+                        <cei:dateRange to="10930512" from="10930512">12. Mai 1093</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiASG_10930512_FF3-S1_r">
+                            <cei:graphic url="StiASG_10930512_FF3-S1_r.jpg"
+                                >StiASG_10930512_FF3-S1_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiASG_10930512_FF3-S1_v">
+                            <cei:graphic url="StiASG_10930512_FF3-S1_v.jpg"
+                                >StiASG_10930512_FF3-S1_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA St. Gallen, FF.3.S.1.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>47/56 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Siegel eingehängt, Posse I, Tf. 17/5.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückvermerk (11./12. Jh.): Donatio ville Towondorf.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>IIII. id. maii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Stiftsarchiv St. Gallen, Bd. 61, S. 458 (Klosterdruck). -
+                                Neugart, Cod. dipl. Alem. II,829. - Wirt. UB I,243. - UB St. Gallen
+                                III,823. - MGH DD H IV.431.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Verfasst und geschrieben von Humbert A. Die Königsjahre sind um 1 zu
+                            hoch, die Kaiserjahre um 1 zu niedrig. Unsicher, ob die Namen von Gau
+                            und Graf vor oder nach der Unterfertigung von anderer Hand nachgetragen
+                            worden sind (MGH).</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(C) + In nomine sancte˛ et individue˛
+                            trinitatis</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clementia tertius Romanorum
+                            imperator augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>+ Omnibus Christi nostrique fidelibus tam futuris quam
+                            pre˛sentibus notum sit,</cei:publicatio>
+                        <cei:narratio> qualiter nos pro utriusque vite˛ remedio, quia peregrinam
+                            vitam huius conversationis brevem et quasi momentaneam existere et in se
+                            per cot||tidiana detrimenta deficere cognoscimus, dum pro petitione
+                                O<cei:sup>v</cei:sup>dalrici patriarche˛<cei:sup>1</cei:sup>
+                            dilectissimi consanguinei nostri<cei:sup>2</cei:sup>, dum ob interventum
+                            fidelium nostrorum videlicet Meginwardi Frisingensis
+                                episcopi<cei:sup>3</cei:sup>, Dieboldi
+                                marchi||onis<cei:sup>4</cei:sup>, Werinheri
+                                marchionis<cei:sup>5</cei:sup>, Burchardi
+                                marchionis<cei:sup>6</cei:sup>, Heinrici de
+                                Houerdorf<cei:sup>7</cei:sup>, Burchardi fratris Burchardi
+                                marchionis<cei:sup>6</cei:sup>, Adelberti de
+                                Hortenburc<cei:sup>8</cei:sup>, Emelrici de
+                                Bosco<cei:sup>9</cei:sup> et aliorum, quos nominare longum est,
+                            quandam villam nomine Touwondorf<cei:sup>10</cei:sup> et ad hoc tantum,
+                            ut XXX. mansus pleniter ibi habeantur<cei:sup>a)</cei:sup>, de illo
+                            scilicet pre˛dio quod nobis dux Heinricus de Carinthia filius domini
+                                Marquardi<cei:sup>11</cei:sup> dedit, </cei:narratio>
+                        <cei:dispositio>e˛cclesie˛<cei:sup>b)</cei:sup> sancti Galli in proprium
+                            dedimus cum omnibus appendiciis, hoc est ministris mancipiis utriusque
+                            sexus terris cultis et incultis areis pratis pascuis aquis aquarumque
+                            decursibus piscationibus molis molendinis silvis venationibus viis et
+                            inviis acquisitis vel acquirendis seu cum omini<cei:sup>c)</cei:sup>
+                            utilitate, que ullomodo de pre˛fata villa, que sita est in pago nomine
+                                Wfunalbun<cei:sup>d)12</cei:sup> et in comitatu comitis
+                                Manegoldi<cei:sup>e)13</cei:sup>, provenire potent, ea videlicet
+                            ratione, ut idem O<cei:sup>v</cei:sup>dalricus patriarcha monesteriique
+                            sancti Galli abbas eiusque successores deinceps liberam potestatem inde
+                            habeant possidendi obtinendi commutandi precariandi vel
+                                quicquid<cei:sup>f)</cei:sup> illis ad utilitatem ecclesie placuerit
+                            inde faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut huius traditionis auctoritas omni evo inviolata
+                            permaneat, hanc cartam inde conscribi et sigilli nostri impressione
+                            insigniri iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domini Heinrici tertii Romanorum
+                            imperatoris augusti. + (M) <cei:lb/>+ Humbertus
+                                cancellarius<cei:sup>14</cei:sup> vice Ro<cei:sup>v</cei:sup>thardi
+                                archicancellarii<cei:sup>g)15</cei:sup> recognovi. +
+                            (S)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data est IIII. id. maii, anno ab incarnatione domini
+                            millesimo nonagesimo III. indictione I. anno autem domini Heinrici regni
+                            eius XXXVIII. imperii vero VIIII. Actum Papie˛,</cei:datatio>
+                        <cei:apprecatio> in Christi nomine feliciter
+                            amen<cei:sup>h)</cei:sup>.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a)</cei:sup><cei:quote>n</cei:quote> über der Zeile irrt.
+                        nach <cei:quote>t</cei:quote> statt nach <cei:quote>a</cei:quote>
+                        nachgetragen. - <cei:sup>b)</cei:sup><cei:quote>eccee</cei:quote>, dann
+                            <cei:quote>e</cei:quote> korr. in <cei:quote>l</cei:quote>. -
+                            <cei:sup>c)</cei:sup> A. - <cei:sup>d)</cei:sup><cei:quote>nomine
+                            Wfunalbun</cei:quote> von anderer Hand in Lücke nachgetragen. -
+                            <cei:sup>e)</cei:sup><cei:quote>Manegoldi</cei:quote> von anderer Hand
+                        in Lücke nachgetragen. - <cei:sup>f)</cei:sup><cei:quote>-qd</cei:quote> als
+                            <cei:quote>quid-</cei:quote>Kürzung, trotzdem <cei:quote>i</cei:quote>
+                        über der Zeile nachgetragen. - <cei:sup>g)</cei:sup> Am ersten Schaft des
+                        zweiten <cei:quote>a</cei:quote> anfänglich gerade Linie zu Wellenlinie
+                        umgestaltet. - <cei:sup>h)</cei:sup> Unter <cei:quote>amen</cei:quote> von
+                        viel späterer Hand <cei:quote>sc</cei:quote>. - <cei:sup>1</cei:sup> Ulrich
+                        III. v. Eppenstein (aus dem neuen Kärntner Herzogshaus), 1077-1121 Abt v.
+                        St. Gallen, seit 1086 auch vom Gegenpapst eingesetzter Patriarch v. Aquileia
+                        (ital. Prov. Udine). - <cei:sup>2</cei:sup> Herzog Hermann II. v. Schwaben
+                        (+1003) ist der gemeinsame Urgrossvater des Kaisers und des Abts, vgl. MVG
+                        17 (1879), S. 47f., n. 125. - <cei:sup>3</cei:sup> Meginward, 1078-1098
+                        Bischof v. Freising, Oberbayern. - <cei:sup>4</cei:sup> Diebold, Markgraf
+                        des Nordgaus, +1146. - <cei:sup>5</cei:sup> Wernher, Markgraf v. Ancona (?).
+                        - <cei:sup>6</cei:sup> Markgraf Burkhard v. Istrien (?) und sein
+                        gleichnamiger Bruder. - <cei:sup>7</cei:sup> Heinrich v. Oberndorf (a. Lech,
+                        sö. Donauwörth). - <cei:sup>8</cei:sup> Adalbert v. Ortenburg (w. Spittal a.
+                        d.Drau, Kärnten). - <cei:sup>9</cei:sup> Eines der vielen oberital. Bosco
+                        (MGH). - <cei:sup>10</cei:sup> Daugendorf n. Riedlingen BW. -
+                            <cei:sup>11</cei:sup> Herzog Heinrich III. v. Kärnten, Bruder Abt
+                        Ulrichs, Sohn Marquards IV. (+1076). - <cei:sup>12</cei:sup> Wohl als
+                            <cei:quote>uffun Albun</cei:quote> zu deuten. Trotz
+                            <cei:quote>pagus</cei:quote> wohl nur als allgemeine geographische
+                        Bezeichnung aufzufassen. - <cei:sup>13</cei:sup> Graf Manegold, sonst nicht
+                        bezeugt. - <cei:sup>14</cei:sup> Humbert, 1089-1101 Kanzler. -
+                            <cei:sup>15</cei:sup> Erzkanzler Ruthard, 1088-1109 Erzbischof v.
+                        Mainz.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

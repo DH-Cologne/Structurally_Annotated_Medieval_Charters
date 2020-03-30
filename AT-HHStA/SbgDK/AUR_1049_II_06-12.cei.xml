@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgDK/AUR_1049_II_06-12</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-20T10:09:57+02:00</atom:published>
+    <atom:updated>2010-04-23T18:50:01+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg DK" id="585705"
+            n="HHStA-Sbg DK$30" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 146-148.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 146.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1049_II_06-12" old="585705">AUR 1049 II 06-12</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich III. schenkt der Salzburger Kirche königliche Höfe
+                        im Ennswald in der Nähe des salzburgischen Hofes Aspach (BG St. Peter bei
+                        Seitenstetten).</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10490206" from="10490206">6. Februar 1049</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_1049_II_6_-_12-Siegel01">
+                            <cei:graphic url="AUR_1049_II_6_-_12-Siegel01.jpg"
+                                >AUR_1049_II_6_-_12-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1049_II_6_-_12-201">
+                            <cei:graphic url="AUR_1049_II_6_-_12-201.jpg"
+                                >AUR_1049_II_6_-_12-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1049_II_6_-_12-101">
+                            <cei:graphic url="AUR_1049_II_6_-_12-101.jpg"
+                                >AUR_1049_II_6_-_12-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth>
+                            <cei:sealDesc>Posse XV, 1</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 84'
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>id. febr.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 085 - Juvavia Anh. 234 n° 97 aus C. - Böhmer, Reg.
+                                n°1589. - Stumpf, RK n° 2363.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Hormayr, Taschenbuch 1813, 223.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si aecclesiasticas res ex nostrae liberalitatis beneficio
+                            augmentaverimus, id nobis ad presentis vitae salutem et ad aeternam
+                            beatitudinem prodesse firmiter credimus.</cei:arenga>
+                        <cei:publicatio> Unde vero cunctis Christi nostrique fidelibus tam futuris
+                            quam presentibus notum esse volumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob nostram nostrique thori ac regni consortis
+                            scilicet Agnetis imperatricis augustae felicitatem [nec-] non ob devotum
+                            servicium nostri fidelis et [dilecti<cei:sup>a)</cei:sup> Baldeuuini
+                            Sa]lzpurgensis aeccl[esiae archiepiscopi</cei:narratio>
+                        <cei:dispositio> quosdam regales] mansos in Enseuualda in comitatu Adelberti
+                            marchionis sitos curti eiusdem archiepiscopi Aspah dictae conterminales
+                            ad eandem aecclesiam Salzpurch in honore et nomine sancti Petri
+                            principis apostolorum et sancti Ruodberti confessoris eiusdem aecclesiae
+                            patroni cum omnibus suis pertinentiis in proprium tradidimus, scilicet
+                            areis aedificiis agris vineis pratis pascuis terris cultis et incultis,
+                            silvis venationibus piscationibus aquis aquarumve decursibus molis
+                            molendinis exitibus et reditibus, viis et inviis, quesitis et
+                            inquirendis cum omni iure ac utilitate, que ullo]modo inde poterit
+                            provenire ea videlicet lege ac condictione, ut prefatus Baldeuuinus
+                            archiepiscopus suique successores liberam deinceps habeant potestatem
+                            obtinendi tradendi commutandi precariandi vel quicquid illos collibuerit
+                            de eisdem bonis faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostra imperialis traditio stabilis [et
+                            inconvul]sa omni aevo permaneat, hanc paginam inde conscriptam manu
+                            propria corroborantes sigilli nostri impressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici tercii regis invictissimi
+                            (MF) secundi Romanorum imperatoris augusti. SMP.
+                            S.<cei:sup>b)</cei:sup><cei:lb/>Uuinitherius cancellarius vice Bardonis
+                            archicancellarii recognovi.
+                            SR.<cei:sup>c)</cei:sup><cei:lb/></cei:subscriptio>
+                        <cei:datatio>Data id. febr., anno dominicae incarnationis mill. XLVIIII,
+                            indict. II, a[nno autem domni] Heinrici [tercii regis regnantis quidem
+                            VIIII], imperii III; actum Radisbone;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup> das Eingeklammerte ausgefressen, nur die
+                        Oberschäfte sichtbar. <cei:sup>b</cei:sup> Posse XV, 1.
+                            <cei:sup>c)</cei:sup> Diptychon mit griechischen Buchstaben.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

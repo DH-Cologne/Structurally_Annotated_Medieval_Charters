@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiASF/StFlorianCanReg/1142.1</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:45:54+02:00</atom:published>
+    <atom:updated>2009-08-28T16:55:39+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="St. Florian, CanReg" id="289451"
+            n="St. Florian, CanReg$136" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 202-204</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 202-204</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1142.1" old="289451">1142</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Chunrat III. bestätigt dem Kloster St. Florian seine
+                        Besitzungen, namentlich die am Windberg gelegenen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="11421231" from="11420101">1142</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StAStFlorian_114212">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgweb._~Urkunden._~1071-1299._~StAStFlorian_114212.jpg"
+                                >StAStFlorian_114212.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StAStFlorian_114212_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgweb._~Urkunden._~1071-1299._~StAStFlorian_114212_v.jpg"
+                                >StAStFlorian_114212_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>Stiftsarchiv St. Florian (www.stift-st-florian.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc> Mit Siegel. </cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Stülz, Gesch. v. St. Florian, pag. 244.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sancte et induidue
+                            trinitatis</cei:invocatio>
+                        <cei:intitulatio> Cuonradus diuina fauente clementia romanorum rex
+                            secundus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Sicut diuina preordinante clementia ceteris mortalibus
+                            quodammodo supereminemus, sic etiam uniuersas ecclesias et
+                            ecclesiasticas personas diligere, fouere et ab iniquorum infestionibus
+                            (sic) defensare regali potentia a deo nobis commissa
+                            debemus.</cei:arenga>
+                        <cei:publicatio> Eapropter omnibus christi nostrisque fidelibus tam futuris
+                            quam presentibus notum esse uolumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob regni nostri firmam stabilitatem et anime
+                            nostre nostrorumque parentum perpetuam salutem, interuentu quoque et
+                            petitione dilecte coniugis nostre Gertrvdis regine ecclesiam sancti
+                            Floriani in Windeberge (sic) cum omnibus prediis et possessionibus suis,
+                            que uel liberalitate regum seu donatione principum aut elemosina
+                            pauperum eidem ecclesie collata sunt,</cei:narratio>
+                        <cei:dispositio> in tutelam regie defensionis suscepimus. Nominatim autem
+                            omnia predia et possessiones, quas a capite Eberspach usque ad fines
+                            boemie tam in longitudine quam in latitudine eadem ecclesia possedisse
+                            cognoscitur, et a termino Aposenbach (sic) usque in uiam, que dicitur
+                            regia uia, iuxta ecclesiam sancti Nicolai, que in eodem predio edificata
+                            est, et predium celle, quod quidam nobiles uiri Eppo et Bernhardus iuxta
+                            Movhelle eidem tradiderunt ecclesie et insuper predia, que in Rietmarcha
+                            possidet, nos auctoritate regia prefate sancti Floriani ecclesie
+                            confirmamus edicto regali statuentes, ne aliqua umquam persona magna seu
+                            parua in eisdem pessessionibus predictam ecclesiam infestare uel
+                            inquietare presumat, sed fratres in ea deo militantes omnia predia sub
+                            terminis predictis denotata omni deinceps tempore libera possessione
+                            obtineant.</cei:dispositio>
+                        <cei:corroboratio> Vt autem hec nostra confirmatio rata et inconuulsa omni
+                            tempore permaneat, hanc inde cartam scribi et sigilli nostri impressione
+                            insigniri iussimus et testes, qui presentes aderant, subternotari
+                            fecimus, Quorum nomina hec sunt: Theodewinus sancte Rufine episcopus
+                            apostolice sedis legatus, Heinricus Ratisponensis episcopus, Embricho
+                            Wirzeburgensis episcopus, Otto Frisingensis episcopus, Heinricus
+                            Olomucensis episcopus, Otto palatinus et filius eins Otto, Diepoldus
+                            marchio, Geuehardus comes, Fridericus aduocatus, Heinricus prefectus,
+                            comes Albertus de Bogen et filius eius Hertwicus, comes Covnradus de
+                            dachowa, comes Folcradus de Lexmunde et ceteri quam
+                            plures.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum Domini Covnradi Romanorum Regis Secundi.
+                            (Monogramma.) <cei:lb/>Ego Arnoldus Cancellarius uice Heinrici Moguntini
+                            archiepiscopi et archicancellarii recognoui. (L. S.)</cei:subscriptio>
+                        <cei:datatio> Anno dominice incarnationis M. C. XLII. Regnante Cuonrado
+                            Romanorum rege II. anno uero regni IIII. indictione IIII. (sic) data est
+                            Ratisbone</cei:datatio>
+                        <cei:apprecatio> in christo feliciter. Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

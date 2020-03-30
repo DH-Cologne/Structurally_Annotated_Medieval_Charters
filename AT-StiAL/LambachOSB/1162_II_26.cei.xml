@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAL/LambachOSB/1162_II_26</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:47:39+02:00</atom:published>
+    <atom:updated>2009-08-28T20:02:10+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Lambach, OSB" id="284219"
+            n="Lambach, OSB$214" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 316</cei:bibl>
+                    </cei:sourceDescRegest>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 316-317</cei:bibl>
+                    </cei:sourceDescVolltext>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1162_II_26" old="284219">1162 II 26</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Friedrich I. bestätigt das Privilegium Kaiser Heinrich's
+                        IV. für das Kloster Lambach.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Lodi</cei:placeName>
+                        <cei:dateRange to="11620226" from="11620226">26. Februar
+                            1162</cei:dateRange>
+                    </cei:issued>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>iiii. kalendas
+                            martii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Kurz, Beiträge, II. 444.</cei:bibl>
+                            <cei:bibl>Appelt: MGH DD.F.I. +1048</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:witnessOrig>
+                        <cei:archIdentifier>
+                            <cei:arch>Stiftsarchiv Lambach (www.stift-lambach.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:auth>
+                            <cei:sealDesc>Aufgedrücktes Siegel des Kaisers von rotem
+                                Wachs.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:figure n="StALambach_11620226">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~Lambachjpgweb._~StALambach_11620226.jpg"
+                                >StALambach_11620226.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StALambach_11620226_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~Lambachjpgweb._~StALambach_11620226_v.jpg"
+                                >StALambach_11620226_v.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. C. In nomine sancte et indiuidue trinitatis </cei:invocatio>
+                        <cei:intitulatio>Ego Fridericvs diuina fauente clementia romanorum imperator
+                            et semper augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Notum esse uolumus omnibus christi nostrique fidelibus tam
+                            futuris quam presentibus, </cei:publicatio>
+                        <cei:narratio> qualiter rex Heinricus ob interuentum dilectissime genitricis
+                            sue agnetis imperatrieis auguste et ob peticionem felicis memorie
+                            Adelberonis wirzeburgensis episcopi bannum mercati in loco wels et
+                            theloneum in lambach et insuper bannum piscationis de superiori casu
+                            Trvne et in agra ab asinthal usque ad ea loca, ad que prediorum suorum
+                            termini pertingunt, et ab asinthal sursum conmunem utilitatem usque ad
+                            portum vehclaha, in albana, in rinthbach et iterum in rinthbach et in
+                            steinbach necnon quatuor nemorum, unum ad etherwalt, aliud etiam in
+                            buchunloch, duo, que uulgo sub appellatione dicuntur superioris siue
+                            inferioris hardis eo iure, quo parentes eius scilicet auus Amoldvs et
+                            item pater suus Arnoldvs et frater suus marchio gotefridus et ad ultimum
+                            idem episcopus Adelbero eundem bannum habuerunt, ecclesie in lambach,
+                            que in honore sancte Marie et sancti Kiliani sociorumque eius constructa
+                            est, cum omni utilitate, que ullo modo inde prouenire potest, legitime
+                            annuit, potestatiue confirmauit et perpetuo in proprium dedit atque
+                            tradidit ea uidelicet ratione, ut nullus in predictis locis aut mercatum
+                            destruere aut theloneum impedire aut piscari aut noualia facere aut
+                            domos edificare aut uenari sine consensu et uoluntate abbatis in lambach
+                            presumat. Igitur sicut hec ex antiquo regum et pontificum concessione
+                            hucusque durauerunt, </cei:narratio>
+                        <cei:dispositio>ita nos auctoritate omnipotentis dei et nostra potestate
+                            permansura perpetualiter sancimus una cum theloneo, quod fidelissimvs
+                            noster dominus heinricus episcopus in curia nostra coram principibus
+                            iudiciario iure obtinuit,</cei:dispositio>
+                        <cei:corroboratio> que etiam sigillo nostro numquam uiolanda confirmamus.
+                            Testes: Hermannus treuerensis archiepiscopus, Regenoldus coloniensis
+                            archiepiscopus, heinricus wirzeburgensis episcopus, Eberhardus
+                            babenbergensis episcopus, Mezelinus basiliensis episcopus, Symon dux
+                            louiensis, Cv<cei:sup>o</cei:sup>nradus palatinus de reno, Fridericus
+                            dux de rotenburg, Hermannus marchio de saxonia, Diepoldus comes de
+                            plous, Diepoldus comes de boemia, Adelhero comes, Boppo comes, Craft de
+                            nuwenburg, Ekehardus, godeboldus de wirzburg.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:datatio>Data lauduni tempore mediolanensis expedicionis ipso anno
+                            dedicionis eiusdem urbis, iiii. kalendas martii, Anno dominice
+                            incarnationis M. C. L. X. II. Indictione Xma. Regnante domino nostro
+                            ihesu christo, Imperante domino Friderico, anno regni ipsius decimo,
+                            Presidente wirzeburgensi ecclesie uenerabili Heinrico episcopo, Sub
+                            abbate Lambacensis ecclesie Bernardo.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+        </cei:text>
+    </atom:content>
+</atom:entry>

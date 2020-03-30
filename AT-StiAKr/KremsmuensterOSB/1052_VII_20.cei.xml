@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAKr/KremsmuensterOSB/1052_VII_20</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:43:34+02:00</atom:published>
+    <atom:updated>2009-08-28T16:11:45+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Kremsmünster, OSB" id="272458"
+            n="Kremsmünster, OSB$67" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 87-88</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 87</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1052_VII_20" old="272458">1052 VII 20</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich III. bestätigt der Kirche Passau alle Besitzungen,
+                        namentlich die der Abteien Kremsmünster, Mattsee etc.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Passau</cei:placeName>
+                        <cei:dateRange to="10520720" from="10520720">20. Juli 1052</cei:dateRange>
+                    </cei:issued>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XIII. Kalend. Aug.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Lünig, Reichsarchiv XVII. 771.</cei:bibl>
+                            <cei:bibl>Hund.</cei:bibl>
+                            <cei:bibl>Gewold I. 366.</cei:bibl>
+                            <cei:bibl>Hansiz I. 2?0.</cei:bibl>
+                            <cei:bibl>Buchinger II. 501.</cei:bibl>
+                            <cei:bibl>Mon. boic. XXIX. pag. 109. ex orig. c. sigill. (Conf.
+                                Urkundenbuch von Kremsmünster, pag. 30. Nr. 20.)</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia romanorum Imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> res aecclesiasticas et seruorum dei petitiones nostro releuari
+                            ivuamine atque imperiali munimine tueri, ad animae nostrae remedia et ad
+                            imperii, quod administramus, profuturum esse credimus
+                            gubernacula.</cei:arenga>
+                        <cei:publicatio> Quare fidelium nostrorum praesentium scilicet ac futurorum
+                            non ignoret industria,</cei:publicatio>
+                        <cei:narratio> Egilbertvm sanctae pataviensis aecclesiae episcopum
+                            uenerabilem episcopii sui traditiones aliquod (aliquot) nostrae
+                            celsitudini obtulisse obsecrantem, ut ex his nobis innotesceret, Quid
+                            regum aut imperatorum munificentia aecclesiae contulisset suae et idem
+                            renouationis nostrae auctoritas roboraret. Eius nos iustae petitioni non
+                            solum fidelis seruitii sui assiduitate commoniti sed et contectalis
+                            nostrae Agnetis imperatricis augustae precibus sollicitati pivm
+                            assensum</cei:narratio>
+                        <cei:dispositio> praebuimus et curtes, aecclesias, uillas et omnia praedia
+                            cum suis pertinentiis a regibus uel imperatoribus aut ab aliis
+                            religiosis uiris uel feminis sanctae patauiensi aecclesiae tradita,
+                            insuper etiam specialiter abbatias Chremisimvnistivri, Matiseo cum
+                            praedio nomine Hvnisperch, Capellam Otingam et curtirn Rviti et uillam
+                            Hvfhvsvn, quemadmodum eandem Adalbertvs eiusdem sanctae patauiensis
+                            aecclesiae episcopus pro anesipurch sanctae lavriacensis aecclesiae
+                            praedio, ubi quondam episcopatus sedem fore nouimus, ab heinrico duce
+                            bawariorum iuste et legaliter in concambium accepit atque possedit et in
+                            osterichi in loco, qui dicitur Chirichbach, territorium quoddam cum
+                            aecclesia, quae ad radices comageni montis sita est, in eodem monte
+                            mansos C. faciendos et plus cum omnibus ad eandem pertinentibus
+                            mancipiis utriusque sexus, aecclesiis, uillis. areis cultis et incultis,
+                            agris, pratis, campis, pascuis, siluis, uenationibus, aquis aquarumque
+                            decursibus, piscationibus, molendinis, uiis et inuiis, exitibus et
+                            reditibus, quaesitis et inquirendis cunctisque aliis appenditiis, quae
+                            dici possunt, donatiuo hoc nouo praefatae aecclesiae sancti Stephani
+                            protomartiris christi, in qua et sanctus Valentinvs confessor
+                            corporaliter requiescit, prouisorumque eius potestati aeternaliter
+                            possidenda imperiali nostra auctoritate donamus, corroboramus atque
+                            confirmamus. </cei:dispositio>
+                        <cei:corroboratio>Et ut haec nostra imperialis confirmatio stabilis et
+                            inconuulsa omni permaneat aeuo, hanc paginam inde conscribi manuque
+                            propria, ut subtus uidetur, corroborantes Sigilli nostri impraessione
+                            (impressione) iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Heinrici (Monogramma) tercii regis
+                            inuictissimi secundi romanorum imperatoris augusti. (Signum speciale.)
+                            uuinitherius cancellarins uice liutboldi archicancellarii et
+                            archiepiscopi recognouit.</cei:subscriptio>
+                        <cei:datatio> Data XIII. Kalend. Aug. Anno dominicae incarnationis M.L.II.
+                            indictione V. anno autem domni Heinrici tercii regis, secundi
+                            imperatoris ordinationis eivs XX.III. Regni uero XIIII. imperii VI. </cei:datatio>
+                        <cei:apprecatio>Actum in nomine domni (sic) Bazzovva feliciter.
+                            amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

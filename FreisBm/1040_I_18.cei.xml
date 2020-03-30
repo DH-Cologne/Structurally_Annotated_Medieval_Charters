@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1040_I_18</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:02+01:00</atom:published>
+    <atom:updated>2009-08-28T21:39:54+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240487"
+            n="Freising B$75" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            76-77</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 76, Nr.
+                            75</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1040_I_18" old="240487">1040 I 18</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich III. bestätiget dem Bisthume Freising die Schenkung
+                        seines Vaters an dem Hofe zu Ollern in der Ostmark bei Tulln.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Augsburg</cei:placeName>
+                        <cei:dateRange to="10400118" from="10400118">18. Januar 1040</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Hauptstaatsarchiv München</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedrücktes Siegel nur im Bruchstück
+                                vorhanden</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 27' und
+                            238 f. iii</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XV. kal. Februarii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./1, 237; Mon. boica XXIX/1, 66.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si loca uenerabilia diuino cultui mancipata ob memoriam diuinae
+                            remunerationis munere nostrae consolationis benignius adaugendo ditare
+                            decreuerimus, hoc non solum nobis ad regni nostri commodum, uerum et ad
+                            anime nostrae remedium salubriter prouenire credimus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnium Christi nostrorumque fidelium presentium
+                            scilicet et futurorum uniuersitati notum esse uolumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos summe diuinitatis intuitu per interuentum nobis
+                            dilectissimi Sigibotonis sanctae videlicet Spirensis aecclesiae
+                            uenerabilis epis.copi, necnon ob assiduum fideleque seruitium domni
+                            Nitkeri Frisingensis aecclesie presulis celeberrimi, eadem scilicet
+                            beniuolentia et auctoritate qua similiter fecit et ante me beate memorie
+                            dominus genitorque meus pius et per omnia catholicus Chuonradus siquidem
+                            imperator augustus, qui me interpellante, in idipsum etiam consilio et
+                            re conspirante cartam constitutioiris eiusdem, immo haec eadem
+                            continentem manu propria roborando omnique lege confirmando in ius
+                            Frisingensis aecclesiae tradidit,</cei:narratio>
+                        <cei:dispositio> nos pariter animo nihilominus uolenti tradidimus et
+                            concessimus ad altare semper uirginis Marie sanctique Corbiniani
+                            nobilissimi Christi confessoris in ciuitate Frisinga corpore quiescentis
+                            curtem Alarun sitam in marchia et in comitatu Adelberti marchionis cum
+                            omnibus ad eundem locum iure ac legaliter pertinentibus, cum mancipiis
+                            utriusque sexus, cum areis, edificiis, agris, uineis, campis, terris
+                            cultis et incultis, pratis, pascuis, siluis, uenationibus, aquis,
+                            aquarumue decursibus, piscationibus, molis, molendinis, viis et inuiis,
+                            exitibus et reditibus, quesitis et inquirendis seu cum omni utilitate
+                            que vel scribi aut nominari ullomodo potest, eandemque curtem in ius
+                            atque dominium prefate˛ Frisingensis aecclesie ea ratione omnino
+                            transfudimus et in perpetuam proprietatem donauimus, ut idem uenerabilis
+                            antistes Nitkerus et successores sui absque violentia ullius nostri
+                            successoris siue regis siue imperatoris liberam posthac licentiam hanc
+                            habeant, potenter possidendi, commutandi vel quicquid inde sibi saluo
+                            iure aecclesie placuerit faciendi. </cei:dispositio>
+                        <cei:corroboratio>Et ut hec regalis nostre˛ traditionis integritas stabilis
+                            et inconuulsa per futura annorum curricula perseueret, hoc auctoritatis
+                            nostre preceptum inde conscriptum sigilli nostri impressione insigniri
+                            iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici tertii (M.) regis
+                            inuictissimi.<cei:lb/>Theodericus cancellarius uice Bardonis
+                            archicapellani recognoui.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data XV. kal. Februarii, interdictione VIII., anno
+                            dominice˛ incarnationis M. XL., anno vero ordinationis domni Heinrici
+                            tercii XII., regni autem I. Actum Auguste</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

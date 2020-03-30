@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.10</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:46+01:00</atom:published>
+    <atom:updated>2010-02-22T15:12:01+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513905"
+            n="StA Pfaefers$9" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/3, Nr. 133, S.
+                            133-134.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/3, Nr. 133, S.
+                            133.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.10" old="513905"/>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich IV. bestätigt dem Kloster Pfäfers den königlichen
+                        Schutz, die Immunität und das Recht der freien Abtwahl.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Bruchsal</cei:placeName>
+                        <cei:dateRange to="10670504" from="10670504">vor 4. Mai 1067</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_10670504vor~10670504_r">
+                            <cei:graphic url="StiASG_StiAPf_10670504vor~10670504_r.jpg"
+                                >StiAPf_10670504vor~10670504_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_10670504vor~10670504_v">
+                            <cei:graphic url="StiASG_StiAPf_10670504vor~10670504_v.jpg"
+                                >StiAPf_10670504vor~10670504_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>südl. Pergament</cei:material>
+                            <cei:dimensions>45,5 x 65 cm (carta transversa).</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Siegel zerbrochen.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr. (B<cei:sup>1
+                                etc.</cei:sup>) Cervinus, ebd. Cod. XXVI, f. 422 (16. Jh.), vgl. f.
+                            260'; Heider, Cod. XXVII, f. 119 (ca. 1590); Heider, Vidimus, Cod. 15,
+                            f. 7 und Cod. 16, f. 5 (1590/98).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>dominicae
+                            incarnationis</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 133. - Weg. 28. - MG. D. H. IV., n. 194 nach A; BU. I
+                                n. 199 nach A. - Auszug: Tschudi, Chron. Helv. I, S. 22 mit Abb. des
+                                Monogramms und Ausstellort Brüssel; Eichhorn, Ep. Cur., cod. prob.,
+                                n. 35 beide nach A = Mohr, CD. I, n. 96.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Kopial: Mappe V 34 a (1613); V 34 b (1621); Cod. 127, IV, S. 13-15
+                            (1634, Av. 730); Mappe V 34 c (1636); V 33 c (1638); Widmer
+                                (C<cei:sup>1</cei:sup>) Transsumpt, Cod. 17, S. 116 (1656); Suiter
+                            (C2) Cod. 107, S. 220 (1696); Good, Cod. 22, f. 74 f.; Cod. 27, S. 266
+                            f., 310 f., 352, 396 f.; Mappe V 32 abc; V 33 ab; V 39 b.$$Regest:
+                            Böhmer, Reg. imp., n. 1817; Wegelin, Reg. Pfävers, n. 28; Hidber, Urk.
+                            reg. I, n. 1396; Stumpf, Reichskanzler, n. 2707; Helbok, Reg.
+                            Vorarlberg, n. 190.$$Das Diplom ist geschrieben von Notar D des Kanzlers
+                            Sighard mit Benützung des Diploms Heinrichs III. (n. 123).</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente dementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> + Si res ęcclesiis dei pertinentes auctoritatis nostrae
+                            potentia stabilimus earumque commoda in omnibus provide perpensamus, in
+                            hac et in ęterna vita premia nobis permansura speramus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnium dei nostrique fidelium tam futurorum quam
+                            * pręsentium noverit industria,</cei:publicatio>
+                        <cei:narratio> qualiter fidelis noster Immo<cei:sup>a)1</cei:sup> abbas
+                            Fabariensis monasterii, quod est constructum sanctae dei genitricis
+                            Marię in honore, situm in pago Retia Curiensi in comitatu
+                                Eberhardi<cei:sup>2</cei:sup> cum monachis sibi subiectis
+                            celsitudinis nostrae clementiam adiit humiliter
+                                obsecrens<cei:sup>b)</cei:sup>, ut eosdem monachos atque res
+                            predicti monasterii propter quorundam hominum perversorum
+                            tergiversationes in nostrum mundiburdium et tuitionem susciperemus atque
+                            illorum pręcepta ac privilegia quę ab antecessoribus nostris regibus vel
+                            imperatoribus acceperunt nostrę auctoritatis munimine renovando
+                            confirmaremus electionemque illis concederemus. Insuper etiam ostendit
+                            nobis prę cepta ac privilegia antecessorum nostrorum regum et
+                            imperatorum Karoli, Ludowici, trium Ottonum, Heinrici secundi,
+                                Cho<cei:sup>v</cei:sup>nradi nec non et beatae memoriae patris
+                            nostri Heinrici imperatoris augusti, in quibus continebatur, ut praefati
+                            monachi regiae vel imperialis defensionem tuitionis super res ad idem
+                            monasterium pertinentes habere debuissent. Quorum nos petitioni pro
+                            aeterna memoria patris coniugisque nostrae Berhthę * ipsos monachos et
+                            res ad prefatum monasterium pertinentes</cei:narratio>
+                        <cei:dispositio> per hoc regale praeceptum in nostrum mundiburdium et
+                            tuitionem suscepimus, eo quoque tenore ut nullus publicus iudex dux
+                            comes vel episcopus aut quislibet iudiciaria potestate constitutus
+                            aliquam super eos in rebus vel in familiis eorum exerceat potestatem
+                            intus vel foris, sed eiusdem monasterii abbas prenominatus eiusque
+                            successores ad monachorum usus necessarios potestative teneant atque
+                            possideant. Sit vero abbatia illius monasterii libera et ab omni
+                            extranea et iniqua potestate secura, nec alicui successorum nostrorum
+                            regum vel imperatorum<cei:sup>c)</cei:sup> liceat eam vel res suas
+                            alteri monasterio aut personae inbeneficiare aut in proprietatem donare.
+                            Concessimus nanque<cei:sup>d)</cei:sup> eis electionem et potestatem
+                            firmissimam quemcumque inter eos abbatem voluerint eligere, quatinus eos
+                            pro nobis libentius deum delectet exorare.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec presentis auctoritas precepti firmior
+                            stabiliorque * nostris fidelibus credatur, hanc cartam inscribi et
+                            sigilli nostri impressione sigillari iussimus propriaque manu subtus
+                            firmavimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Heinrici (M.)<cei:sup>e)</cei:sup>
+                            invicti regis. +<cei:lb/>+ Sigehardus cancellarius vice Sigefridi
+                            archicancellarii recognovi. + (SI.3)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Anno dominicae incarnationis millesimo LXVII,
+                            indictione V, anno autem ordinationis domni Heinrici quarti regis XV,
+                            regni vero XI; actum Brochsvl;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup> könnte nachträglich in die zu große Lücke eingefügt
+                    sein. - <cei:sup>b)</cei:sup> A. -
+                        <cei:sup>c)</cei:sup><cei:quote>imprm.</cei:quote> mit Kürzungsstrich über
+                    2. <cei:quote>m</cei:quote> A. - <cei:sup>d)</cei:sup> A u. Vorurkunde. -
+                        <cei:sup>e)</cei:sup> Eine Nachtragung des Vollziehungsstriches ist nicht
+                    sichtbar. - <cei:sup>1</cei:sup> vgl. oben n. 132, Anm. 4. -
+                        <cei:sup>2</cei:sup> Eberhard von Bregenz-Heiligenberg. Graf in
+                    Unterrätien.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

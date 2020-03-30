@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/OOEUB/1005_XII_07</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-19T14:07:14+01:00</atom:published>
+    <atom:updated>2009-08-28T21:20:37+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="OOEUB" id="238141" n="OOEUB$53"
+            type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 71-72</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 71</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1005_XII_07" old="238141">1005 XII 07</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich II. schenkt dem Erzbistum Salzburg sein Erbgut
+                        Schlierbach im Gau Ouliupestal.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Merseburg</cei:placeName>
+                        <cei:dateRange to="10051207" from="10051207">7. Dezember
+                            1005</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth/>
+                    </cei:witnessOrig>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VII. Idus Decembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Juvavia, Anhang 214. Nr. 84.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sancte et individue
+                            Trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clemencia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si de terrestrium rerum facultatibus nobis divinitus collatis
+                            ecclesias dei locupletare sub obtentu future remuneraeionis studuerimus,
+                            decursu huius vite agone bravio indeficienti nos coronari non
+                            diffidimus. </cei:arenga>
+                        <cei:publicatio>Quapropter generaliter omnium pateat
+                            industrie,</cei:publicatio>
+                        <cei:narratio> qualiter nos interveniente dilecta coniuge nostra Chunegunda
+                            videlicet regina quoddarn nostri iuris predium Slierbach dictum in
+                            comitatu Rapotonis situm, in pago vero Ouliupestale Juvavensi ecclesie,
+                            ubi sanctus Roudbertus corporaliter requiescit, pro redemptione anime
+                            nostre dilecteque coniugis </cei:narratio>
+                        <cei:dispositio>per hoc regale testamentum donando firmamus cum omnibus
+                            appendiciis et utilitatibus eidem predio adiacentibus, cum familia
+                            utriusque sexus, cura areis, edificiis, terris, cultis et incultis,
+                            viis, inviis, exitibus et reditibus, aquis aquarurave decursibus,
+                            molendinis, piscacionibus, silvis, venacionibus, pratis, pascuis,
+                            compascuis sive apium pascuis nec non cum omnibus, que dici vel scribi
+                            possunt, quoquolibet modo utilitatibus. Praecipientes ergo regali
+                            auctoritate iubemus, quatenus Juvavensis ecclesie venerabilis
+                            archiepiscopus Hartvvieus suique successores liberam dehinc habeant
+                            potestatem possidendi, edificandi, commutandi, praecariandi seu quiequid
+                            ibi libeat omnimodo ad utilitatem monasterii de eodem predio
+                            faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostre tradicionis auctoritas stabilis et
+                            inconvulsa permaneat, hanc cartam inde conscriptam manu propria
+                            roborantes, sigilli nostri impressione insigniri
+                            iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici (Monogramma) Regis
+                            invictissimi. Eberhardus cancellarius vice Willigisi archicapellani
+                            recognoui et subscripsi.</cei:subscriptio>
+                        <cei:datatio> Data VII. Idus Decembris Indictione III. Anno dominice
+                            incarnacionis Millesimo V. Anno vero domni Heinrici secundi regnantis V.
+                            Actum Merseburch</cei:datatio>
+                        <cei:apprecatio> feliciter. Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

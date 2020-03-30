@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.294</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:16+01:00</atom:published>
+    <atom:updated>2010-02-22T15:11:51+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513689"
+            n="StA Pfaefers$10" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/3, Nr. 144, S.
+                            143-144.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/3, Nr. 144, S.
+                            142.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.294" old="513689"/>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich V. bestätigt dem Kloster Pfäfers den Königsschutz,
+                        die Immunität und das Recht der freien Abtwahl.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Speyer</cei:placeName>
+                        <cei:dateRange to="11100527" from="11100527">27. Mai 1110</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_11100527_r">
+                            <cei:graphic url="StiASG_StiAPf_11100527_r.jpg"
+                                >StiAPf_11100527_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_11100527_v">
+                            <cei:graphic url="StiASG_StiAPf_11100527_v.jpg"
+                                >StiAPf_11100527_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>69 x 51 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc> Siegel durchgedrückt, stark besch. </cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückvermerk (Anfang 16. Jh.): Privilegium Hainrici quinti
+                            Romanorum regia, ubi exemit homines et possessiones monasterii a
+                            cohercione omnium iudicum ac episcoporum, (17. Jh.): Heinrici
+                            V.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm> Abschr.
+                                (B<cei:sup>1</cei:sup>) Heider, ebd. in Cod. XXVII (Miscellanea 2)
+                            f. 134 ff. (ca. 1590). </cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VI. kl. iunii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 144. - Weg. 31. - Herrgott, Genealogia 2, n. 192 nach
+                                A. - BU. I, n. 231 nach A.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Kopial: Abschr. (B<cei:sup>2</cei:sup>) Stocka, Antiquitates
+                            Fabarienses, Stiftsarchiv Pfävers, Cod. 106, f. 120; ebd. Cod. 106 a, f.
+                            LX' und CXCIV; Muri-Hs. 36 der Kantonsbibliothek Aarau, S. 344 (1628). -
+                            Abschr (B<cei:sup>3</cei:sup>) Stiftsarchiv Pfävers Cod. 127, IV, einst
+                            Mappe III. 14. c. 1, S. 15-17 (1634, Av. 730). - Abschr.
+                                (B<cei:sup>4</cei:sup>) ebd. V. 31. c (1636). - Abschr.
+                                (B<cei:sup>5</cei:sup>) ebd. V. 33. c (1638). - Abschr.
+                                (B<cei:sup>6</cei:sup>) Widmer, Transsumpt, ebd. Cod. 17, S. 120. -
+                            Abschr. (B<cei:sup>7</cei:sup>) Suiter, Annales Fabarienses, ebd. Cod.
+                            107, S. 239 (1696). - Abschr. (B<cei:sup>8</cei:sup>) ebd. V. 32. a
+                            (1696). Weitere Abschr. Vils. Cod. 27, S. 353; Good, Cod. 22, f. 75 f.;
+                            III. 14. d, S. 43; V. 32. b, c, 33 a, b, 39, b.$$Regest: Tschudi,
+                            Chronocon Helv. I, S. 48 (Auszug); Eichhorn, Episcopatus Curiensis, cod.
+                            prob. n. 38 nach A = Mohr, CD. I, n. 106; Böhmer, Reg. Imp. n. 1994;
+                            Stumpf, Reichskanzler, n. 3038; Wegelin, Reg. Pfävers, n. 31; Hidber,
+                            Urk. reg. I, n. 1552; Helbok, Reg. Vorarlberg, n. 203.$$Das Diplom ist
+                            verfasst mit Benützung von Nr. 118, 123 und 133.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor><cei:protocol>
+                    <cei:invocatio>P + In nomine sancte et individue trinitatis.</cei:invocatio>
+                    <cei:intitulatio> Heinricus divina favente
+                        dementia quintus Romanorum rex.</cei:intitulatio>
+                </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> + Si res ęcclesiis dei pertinentes auctoritatis
+                    nostrę potentia * stabilimus earumque commoda in omnibus providę perpensamus, in
+                    hac et in ęterna vita premia nobis permansura speramus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnium
+                            Christi nostrique fidelium tam futurorum quam presentium noverit industria,</cei:publicatio>
+                        <cei:narratio>
+                    qualiter fidelis noster Geroldvs<cei:sup>a)1</cei:sup> abbas venerabilis
+                        Fabariensis<cei:sup>a)</cei:sup> monasterii, quod est constructum in
+                        honore<cei:sup>b)</cei:sup> sanctę dei genitricis Marię<cei:sup>a)</cei:sup>
+                    *, situm in pago Retia Cvriensi<cei:sup>a)</cei:sup> in comitatu
+                        Rodvlfi<cei:sup>a)2</cei:sup> cum monachis sibi subiectis celsitudinis
+                    nostrę clementiam adiit humiliter postulans et obsecrans, ut eosdem monachos
+                    atque res predicti monasterii propter quorumdam hominum perversorum
+                    tergiversationes in nostrum mundiburdium<cei:sup>c)</cei:sup> et tuitionem
+                    susciperemus atque illorum precepta ac privilegia que ab antecessoribus nostris
+                    regibus vel imperatoribus acceperunt nostrę auctoritatis munimine renovando
+                    corfirmaremus electionemque illis concederemus. Insuper etiam ostendit nobis
+                    precepta ac privilegia antecessorum nostrorum regum vel imperatorum
+                        Karoli<cei:sup>a)</cei:sup>, Lvdowici<cei:sup>a)</cei:sup>, trium
+                        Ottonvm<cei:sup>a)</cei:sup>, Heinrici<cei:sup>a)</cei:sup> secundi,
+                        Cvonradi<cei:sup>a)</cei:sup> necnon et beatę memorie
+                        Heinrici<cei:sup>a)</cei:sup> patris nostri<cei:sup>d)</cei:sup> *
+                    imperatoris augusti, in quibus continebatur, ut prefati monachi regię vel
+                    imperialis defensionem tuitionis super res ad idem monasterium pertinentes
+                    habere debuissent. Quorum nos petitioni pro eterna memoria patris coniugisque
+                    nostrę Mathilde<cei:sup>a)</cei:sup> ipsos monachos et res ad prefatum
+                            monasterium pertinentes</cei:narratio>
+                        <cei:dispositio> per hoc regale preceptum in nostrum mundiburdium et
+                    tuitionem suscepimus, eo quoque tenore ut nullus publicus iudex dux comes vel
+                    episcopus aut quilibet iudiciaria potestate constitutus aliquam super eos in
+                    rebus vel in familiis eorum exerceat potestatem intus vel foris, sed eiusdem
+                    monasterii abbas prenominatus eiusque successores ad monachorum usus necessarios
+                    potestative teneant atque possideant. Sit vero abbatia illius monasterii libera
+                    et ab omni<cei:sup>e)</cei:sup> extranea et iniqua potestate secura, nec alicui
+                    successorum nostrorum regum vel imperatorum liceat eum vel res suas alteri
+                    monasterio aut personę inbeneficiare aut in proprietatem donare. Concessimus
+                    namque eis electionem et potestatem firmissimam quemcumque inter eos abbatem
+                    voluerint eligere, quatinus eos pro nobis libentius deum delectet exorare.</cei:dispositio>
+                        <cei:corroboratio> Et ut
+                    hęc presentis auctoritas precepti firmior stabiliorque nostris fidelibus
+                    credatur, hanc cartam inscribi et sigilli nostri impressione sigillari iussimus
+                    propriaque manu subtus firmavimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Heinrici quinti
+                    Romanorum regis invictissimi. + (M.)<cei:lb/>+ Albertus cancellarius vice
+                    Maguntine ęcclesię que nunc archicancellaturam optinet recognovit. +
+                    (SI.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data VI. kl. iunii, indictione IIII., anno dominice incarnationis
+                    millesimo CX, regnante Heinrico<cei:sup>f)</cei:sup> quinto rege Romanorum anno
+                            IIII, ordinationis eius X; actum est Spire<cei:sup>f)</cei:sup>;</cei:datatio>
+                        <cei:apprecatio> in Christo
+                    feliciter amen<cei:sup>f)</cei:sup>.</cei:apprecatio></cei:eschatocol></cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup> in Majuskeln. - <cei:sup>b)</cei:sup><cei:quote>in
+                        honore</cei:quote> in Nr. 133 nach Marię folgend. -
+                        <cei:sup>c)</cei:sup><cei:quote>n</cei:quote> korr. aus
+                        <cei:quote>r</cei:quote>. - <cei:sup>d)</cei:sup> folgt in Nr. 133:
+                        <cei:quote>nostri patris</cei:quote>. -
+                        <cei:sup>e)</cei:sup><cei:quote>omne</cei:quote> Nr. 133,
+                        <cei:quote>omni</cei:quote> Nr. 123. - <cei:sup>f)</cei:sup> teils in
+                    Majuskeln. - <cei:sup>1</cei:sup> erscheint ausserdem in Nr. 143,152 u. 155. Die
+                    Regierungsdaten sind unsicher, nach den Necr. Cur. und Fab. stirbt er an einem
+                    13. Mai (v. Juvalt, S. 48, MG. Necr. 1, S. 630 und Stiftsarchiv Pfävers Necr. 1,
+                    Anfg. 14. Jh.). Vgl. Perret, ZSKG. 1950, S. 277. - <cei:sup>2</cei:sup> Rudolf
+                    von Bregenz, Graf von Unterrätien; vgl. Helbok, Reg. Vorarlberg, Exkurs, S. 136.
+                    Tafel I.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

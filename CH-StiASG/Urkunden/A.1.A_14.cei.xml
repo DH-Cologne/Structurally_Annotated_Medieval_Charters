@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/Urkunden/A.1.A_14</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:09:20+01:00</atom:published>
+    <atom:updated>2010-09-25T18:47:21+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StiA SG" id="512623"
+            n="StiA SG$827" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Chartularium Sangallense III, Nr. 875, S. 4.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Chartularium Sangallense III, Nr. 875, S. 3-4 (Reg. Imp.
+                            III/1,24.).</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="A.1.A_14" old="512623">A.1.A. 14</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Konrad II. bestätigt dem Kloster St. Gallen die Immunität,
+                        das Inquisitions- und das Wahlrecht.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Augsburg</cei:placeName>
+                        <cei:dateRange to="10250419" from="10250419">19. April 1025</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiASG_10250419_A1-A14_r">
+                            <cei:graphic url="StiASG_10250419_A1-A14_r.jpg"
+                                >StiASG_10250419_A1-A14_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiASG_10250419_A1-A14_v">
+                            <cei:graphic url="StiASG_10250419_A1-A14_v.jpg"
+                                >StiASG_10250419_A1-A14_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA St. Gallen, A.1.A. 14.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>61/49 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Siegel war eingehängt, fehlt; recto und verso über der
+                                Siegelstelle ein Leinenstück aufgenäht.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückvermerk (11. Jh.): DOMNI CHOUNRADI (folgt mit
+                            Verweisungszeichen von späterer Hand): SECVNDI (1. Hand): IMPERATORIS DE
+                            ELECTIONE ET IMMUNITATE; (13. Jh.): Tietpaldi abbatis; (14. Jh.):
+                            Tietpaldi abbatis; (15. Jh.): De electione abbatis et immunitate (folgt
+                            durchgestrichen Ar) Conradi imperatoris (secundi v. späterer Hand) anno
+                            d(omini) M°XXV.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr. (B), um 1500,
+                            ebd., Bd. 86, f. 23.</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XIII kl. mai.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Stiftsarchiv St. Gallen, Bd. 1, S. 65 (Klosterdruck). - K.F.
+                                Stumpf Acta imperii inde ab Heinrico I. ad Heinricum VI. usque adhuc
+                                inedita (1865-81), 278. - UB St. Gallen III,821. - MGH DD Kd
+                                II,24.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Geschrieben von gleicher Hand wie DH II,508 und DKd II,30. Vorlage
+                            war DO III,145, welches die in Nr. 871 eingeschobene Beschränkung des
+                            Abtwahlrechts nicht enthält.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(C) + In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Chounradus divina favente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Omnium fidelium nostrorum tam presentium quam et futurorum
+                            piae devotioni + pateat,</cei:publicatio>
+                        <cei:narratio> quod venerabilis abbas monasterii sancti Galli
+                                Deitbaldvs<cei:sup>a)1</cei:sup> nomine ad nos venit, nostris
+                            obtutibus presentans precepta antecessorum nostrorum imperatorum
+                            videlicet augustorum et regum, in quibus || scriptum inveniebatur,
+                            qualiter ipsi prescriptum coenobium et res omnes illuc asspicientes sub
+                            regias et imperatorias emunitates suae tuitionis suscepissent. Pro rei
+                            tamen firmitate petiit celsitudinem nostram, ut nos denuo || id ipsum
+                            faceremus. Eius petitoni piae assensum prebentes simulque predecessorum
+                            nostrorum constituta sub immunitate sancti loci
+                            perpendentes</cei:narratio>
+                        <cei:dispositio> precipimus et statuimus, ut prefatum monasterium ea
+                            immunitate subsistat, sicut cartarum textus eidem loco conscriptarum
+                            enunciat, ut videlicet monachi in ipso monasterio convenientes secundum
+                            regulam sancti Benedicti<cei:sup>b)</cei:sup> abbatem inter se eligendi
+                            licentiam habeant, et ut idem monasterium cum personis intrinsecus vel
+                            forinsecus sibi coherentibus, terris quoque cultis et incultis ad se
+                            iuste donative ac legaliter pertinentibus nostro nostrorumque
+                            successorum post deum et sanctos eius mancipatui subiectum nullius
+                            superioris aut inferioris personae difficultate turbetur aut cuiuscumque
+                            preceptionis sive districtionis molestiam patiatur. Sed liceat ipsi
+                            abbati sine ullius contradictionis obstaculo monachos suos regulariter
+                            regere, familie˛ precipere˛, res monasterii ordinare, intus seu foris
+                            omnia iuxta consilii sui provisionem decenter congrue et utiliter
+                            gubernare. Negotia etiam cause˛que monasterii, quando necessitas
+                            occurrit, per coactum exigantur iuramentum, ipsius monasterii
+                            officialibus et advocatis in exigendis circumcirca eiusdem loci rebus
+                            ius sibi a nobis concessum habentibus. Igitur, ut predictum est, sub
+                            nostre tuitionis immunitate locus prenotatus subsistens ab omni aliene˛
+                            inquisitionis seu exactionis molestia securus permaneat, ut dei
+                            servitoribus inibi degentibus pro nobis [et i]mperiic) nostri
+                            stabilit[ate sine a]liquac) forinseca inquietudine omnipotenti deo
+                            iugiter liceat supplicare.</cei:dispositio>
+                        <cei:corroboratio> Et ut hoc nostre˛ concessionis preceptum per futuri
+                            temporis curricula ratum perseveret, manu nostra illud assignantes
+                            sigilli nostri impressione iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Chounradi (M) regis invictissimi. +
+                            <cei:lb/>+ O<cei:sup>v</cei:sup>dalricus
+                                cancellarius<cei:sup>2</cei:sup> vice Aribonis
+                                archicapellani<cei:sup>3</cei:sup> recognovi. +
+                            (S).</cei:subscriptio>
+                        <cei:datatio>
+                            <cei:lb/>Anno dominice˛ incarnationis M°XXV. indictione VIII. anno domni
+                                Chovnradi<cei:sup>d)</cei:sup> secundi regnantis I. Data XIII kl.
+                            mai. Actum Augusta.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a)</cei:sup><cei:quote>DEITBALDVS</cei:quote> (in Majuskeln).
+                        - <cei:sup>b)</cei:sup><cei:quote>BENEDICTI</cei:quote>. -
+                            <cei:sup>c)</cei:sup> Kl. Loch im Pg, erg. nach der Vorlage. -
+                            <cei:sup>d)</cei:sup><cei:quote>CHOVNRADI</cei:quote>. -
+                            <cei:sup>1</cei:sup> Thietbald, 1022-1034. - <cei:sup>2</cei:sup>
+                        Ulrich, Kanzler für Deutschland unter Heinrich II. u. Konrad II, unbekannter
+                        Herkunft (MGH DD H II, S.XXIII). - <cei:sup>3</cei:sup> Erzbischof Aribo v.
+                        Mainz, 1021-1031.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

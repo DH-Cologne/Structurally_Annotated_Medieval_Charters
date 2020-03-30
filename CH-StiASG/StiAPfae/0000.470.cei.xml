@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.470</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:23+01:00</atom:published>
+    <atom:updated>2010-02-22T15:11:54+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513738"
+            n="StA Pfaefers$4" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 80, S.
+                            83-84.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 80, S.
+                            83.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.470" old="513738"/>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto I. bestätigt den Mönchen des Klosters Pfäfers die
+                        Immunität und das Recht der freien Abtwahl.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Brescia</cei:placeName>
+                        <cei:dateRange to="9720711" from="9720711">11. Juli 972</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_09720711_Weg18_r">
+                            <cei:graphic url="StiASG_StiAPf_09720711_Weg18_r.jpg"
+                                >StiAPf_09720711_Weg18_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_09720711_Weg18_v">
+                            <cei:graphic url="StiASG_StiAPf_09720711_Weg18_v.jpg"
+                                >StiAPf_09720711_Weg18_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:condition>an den Faltstellen durchlöchert.</cei:condition>
+                            <cei:dimensions>58,5 x 50,5 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Siegel durchgedrückt, gut erh.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückvermerk (um 1100): Preceptum domni Ottonis imperatoris augusti
+                            de electione fratrum Fabarienais monasterii atque sub tuitione imperiali
+                            et emunitate ipsi et res predicti monasterii consistant.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr.
+                                (B<cei:sup>1</cei:sup>) ebd. Cod. XXVI (Miscellanea I) f. 401 (Mitte
+                            15. Jh.). - Abschr. (B<cei:sup>2</cei:sup>) ebd. Tschudi, Auszug Litt. B
+                            Nr. 5. - Abschr. (C<cei:sup>1</cei:sup>) Widmer, Transumpt, ebd. Cod.
+                            17, S. 88 (1656).</cei:witness>
+                        <cei:witness><cei:traditioForm>ins.</cei:traditioForm>Abschr.
+                                (C<cei:sup>2</cei:sup>) Suiter, Annales Fabarienses, ebd. Cod. 107,
+                            S. 176 (1696). - Abschr. (D<cei:sup>1</cei:sup>) Good, ebd. f. 69'. -
+                            Abschr. (D<cei:sup>2</cei:sup>) Vils, ebd. Cod. 27, S. 264 f, 334,
+                            393f.</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>V. id. iul.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 80. - Weg. 18. - Stumpf, Acta inedita, 220 nach A. -
+                                MG. D. 0. I., n. 411 nach A. - BU. I, n. 135 nach A.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Regest: Wegelin, Reg. Pfävers, n. 18; Hidber, Urk. reg. I, n. 1097;
+                            Stumpf, Reichskanzler, n. 508; Ottenthal, Reg. Imp. n. 542; Helbok, Reg.
+                            Vorarlberg, n. 146.$$Das Diplom ist geschrieben vom Schreiber B des
+                            Kanzlers Willigis nach Nr. 81, welcher zuerst das Diplom Ottos II., dann
+                            das vorliegende Stück gefertigt hat. Trotz Unregelmäßigkeiten im Datum,
+                            wie irrige Indiktion und Königsjahre muß dieses in das Jahr 972 gelegt
+                            werden. Das Ärenjahr wurde allerdings nachträglich auf Rasur korrigiert,
+                            fügt sich jedoch gut in das Itinerar Ottos I. ein. Die Kaiserjahre
+                            stimmen damit überein, vgl. Sickel, Beiträge zur Diplomatik 6, S. 446-51
+                            und 8, S. 175. Zur Sache vgl. Jordan, in ZSG. 1935, S. 32.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina favente dementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Noverit omnium sollertia fidelium nostrorum tam praesentium
+                            quam et futurorum,</cei:publicatio>
+                        <cei:narratio> qualiter abbas + Fabariensis monasterii, quod constructum
+                                est<cei:sup>a)</cei:sup> in honore sanctae<cei:sup>b)</cei:sup> dei
+                            genitricis Mariae in pago et in comitatu Rétia<cei:sup>c)</cei:sup>
+                            nuncupatis nomine Maiorinus<cei:sup>1</cei:sup> cum monachis sibi
+                            commissis nostrae<cei:sup>d)</cei:sup> adiens celsitudinis clementiam
+                            precatus est, ut eosdem monachos atque res praedicti
+                                [mona]sterii<cei:sup>e)</cei:sup> propter quorundam perversorum
+                            hominum tergiversationes sub nostro mundiburdio et
+                                tuitione<cei:sup>f)</cei:sup> constitueremus atque illorum praecepta
+                            ac privilegia quae ab antecessor[ibus nost]ris<cei:sup>g)</cei:sup>,
+                            regibus videlicet acceperunt<cei:sup>h)</cei:sup>, nostrae auctoritatis
+                                munim[in]e<cei:sup>i)</cei:sup> renovando firmaremus electionemque
+                            illis c[oncede]remus<cei:sup>k)</cei:sup>; insuper etiam ostendit nobis
+                            praecepta ac privilegia antecessorum nostrorum imperatorum Karoli ac
+                            Lúdouuici in quibus continebatur, ut praefati monachi regiae vel
+                            imperialis defensionem tuitionis super res eidem monasterio
+                            appertinentes habere debuissent, quorum nos petitioni ob amorem Christi
+                            futuraeque mercedis augmentum benigne assentientes</cei:narratio>
+                        <cei:dispositio> iussimus eis hoc praecepti nostri privilegium conscribi
+                            super res ad praefatum monasterium pertinentes. Idcirco volumus
+                            firmiterque imperamus, ut nullus iudex publicus vel episcopus vel comes
+                            vel quislibet iudiciaria potestate constitutus aliquam super eos in
+                            rebus vel in familiis eorum exerceat potestatem intus vel foris, sed
+                            eiusdem monasterii abbas ad monachorum necessarios usus potestative
+                            teneat atque possideat; et ut nullus inde quippiam praestare alicui in
+                            beneficium praesumat, sed sub nostra defensione illorum
+                                res<cei:sup>h)</cei:sup> perpetualiter permaneant ad illorum, ut
+                            supra diximus, necessarios usus; concessimus namque eis
+                                electionem<cei:sup>1</cei:sup> et potestatem
+                                firmissima[m]<cei:sup>m)</cei:sup> quemcumque inter eos abbatem
+                            voluerint eligendi, quatinus eos pro [nobis]<cei:sup>n)</cei:sup> ac
+                            coniuge dilectoque equivico et coimperatore nostro libentius deum
+                            exorare delectet.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec praesentis auctoritas praecepti certior
+                            firmiorque cunctis nostris fidelibus credatur,
+                                h[anc]<cei:sup>o)</cei:sup> cartam inscribi anulique nostri
+                            impressione sigillari iussimus propriaque<cei:sup>p)</cei:sup> manu
+                            subtus firmavimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Ottonis (MF.) magni et invictissimi
+                            imperatoris augusti. +<cei:lb/>+ Uilligisus cancellarius ad vicem
+                            Rotberti archicappellani recognovi. + (SI. 5) (SR.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data V. id. iul., anno incarnationis dominice
+                                DCCCCLXXII°<cei:sup>q)</cei:sup>, indictione XIIIa, anno regni domni
+                            Ottonis XXXIIII°, imperii autem XI; actum Brixiae; </cei:datatio>
+                        <cei:apprecatio>in domino feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup> korr. aus <cei:quote>et</cei:quote>. -
+                        <cei:sup>b)</cei:sup><cei:quote>sccae</cei:quote> mit Kürzungsstrich A. -
+                        <cei:sup>c)</cei:sup> A. - <cei:sup>d)</cei:sup><cei:quote>e</cei:quote> auf
+                    Rasur. - <cei:sup>e)</cei:sup> Riß im Pg. 1 cm., erg. nach
+                    B<cei:sup>1</cei:sup>. - <cei:sup>f)</cei:sup><cei:quote>tuiti</cei:quote> auf
+                    Rasur. - <cei:sup>g)</cei:sup> Loch im Pg. 1 cm., erg. nach
+                        B<cei:sup>1</cei:sup>. - <cei:sup>h)</cei:sup> von gl. Hand über der Zeile
+                    nachgetragen. - <cei:sup>i)</cei:sup> Loch im Pg. 0,3 cm. -
+                        <cei:sup>k)</cei:sup> Loch im Pg. 1 cm. -
+                        <cei:sup>l)</cei:sup><cei:quote>electione</cei:quote> ohne Kürzungszeichen
+                    A. - <cei:sup>m)</cei:sup> Loch im Pg. 0,2 cm. - <cei:sup>n)</cei:sup> Loch im
+                    Pg. 0,8 cm. - <cei:sup>o)</cei:sup> Loch im Pg. 0,8 cm. - <cei:sup>p)</cei:sup>
+                    das <cei:quote>que</cei:quote> nachträglich von gl. Hand eingeschoben. -
+                        <cei:sup>q)</cei:sup><cei:quote>XII</cei:quote> auf Rasur. -
+                        <cei:sup>1</cei:sup> Maiorinus wird in echten Urkunden nur hier und in Nr.
+                    81 erwähnt; + 972 (?) April 4., vgl. Necr. Fab, (14. Jh.) Stiftsarchiv
+                    Pfävers.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1207_IX_22</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:24:00+02:00</atom:published>
+    <atom:updated>2010-04-27T13:35:31+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575590"
+            n="HHStA-Sbg E$148" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, III. Band, Urkunden von 1200 bis 1246.
+                            Willibald Hauthaler und Franz Martin. S. 95-97.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, III. Band, Urkunden von 1200 bis 1246.
+                            Willibald Hauthaler und Franz Martin. S. 95.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1207_IX_22" old="575590">AUR 1207 IX 22</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Philipp bestätigt, dass Eb Eberhard II. und Graf Heinrich
+                        von Lechsgemünd (Lechesgemunde) einen von diesem mit Eb Konrad III.
+                        abgeschlossenen Vertrag, demnach der Graf das Schloss (Windisch-)Matrei und
+                        alle elterlichen Besitzungen mit Vorbehalt des lebenslänglichen Nutzgenusses
+                        an die Salzburger Kirche abtrat und dazu noch die Einkünfte aus Zehenten und
+                        Huben unter Vorbehalt des Eigentums erhielt, dahin abgeändert haben, dass
+                        der Graf gegen eine gewisse Summe Geldes auf allen Nutzgenuss verzichtet,
+                        wofür ihm die Kirche das Schloss Lengberg und den Ministerialen Loshand
+                        abtritt.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Quedlinburg</cei:placeName>
+                        <cei:dateRange to="12070922" from="12070922">22. September
+                            1207</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="HHSTA_Salzburg_1207_09_22-2">
+                            <cei:graphic url="HHSTA_Salzburg_1207_09_22-2.jpg"
+                                >HHSTA_Salzburg_1207_09_22-2.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1207_09_22-2v">
+                            <cei:graphic url="HHSTA_Salzburg_1207_09_22-2v.jpg"
+                                >HHSTA_Salzburg_1207_09_22-2v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:dimensions>44.4 : 16.8</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>137</cei:notariusDesc>
+                            <cei:sealDesc>1 Siegel</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 113
+                            (C)</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>anno domini MCCVII, X kalend. octobris, indict.
+                            XI.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB III 0606</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:intitulatio>++ Philippus dei gratia Romanorum rex et semper
+                            augustus++.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Ea que rationabiliter acta sunt, ne longa temporum successione a
+                            memoria hominum elapsa contingat evanescere, vivaci scriptorum memoria
+                            decet et congruum est perhennari.</cei:arenga>
+                        <cei:publicatio> Ob memoriam itaque rei geste ad noticiam universorum tam
+                            presentis etatis quam in eorum successure posteritatis hominum deduci
+                            volumus,</cei:publicatio>
+                        <cei:dispositio> qualiter constitutis in presencia regie maigestatis dilecto
+                            fideli nostro Eberhardo venerabili Salzpurgensis ecclesie archiepiscopo
+                            et Heinrico comite de Lechesgemunde evidentissima veritatis expressione
+                            nobis est monstratum, quod inter dominum Cvnradum quondam Salzpurgensem
+                            archiepiscopum et memoratum H(einricum) tunc comitem de Matrei precariis
+                            quibusdam intercedentibus sub eo pretextu contractus quidam fuit
+                            ordinatus, videlicet quod ipse castrum Matrei cum omnibus pertinentiis
+                            suis et insuper universas possessiones tam ex paterna quam ex materna
+                            hereditate iure videlicet proprietatis ad ipsum spectantes tam in
+                            castris quam in villis quam in ministerialibus quam in feudis
+                            Salzpurgensi ecclesie libere et absolute contradidit usufructu tamen
+                            tempore vite sue sibi reservato, econtra vero Salzpurgensis ecclesia
+                            usufructum quarundam decimarum et quorundam mansuum sibi concessit,
+                            proprietate tamen sibi reservata. Quibus possessionibus cum diucius
+                            frueretur tam propriis primo quam ecclesiasticis, ne exinde ulla
+                            imposterum Salzpurgensi ecclesia ambiguitatis nota moveri posset,
+                            placuit utrique tam predicto comiti quam ecclesie Salzpurgensi domino
+                            Eberhardo secundo tunc illi ecclesie presidente, ut iam dictus comes
+                            usufructui cederet tam in rebus propriis quam ecclesiasticis usufructu
+                            cum proprietate relicto Salzpurgensi ecclesie quadam summa peccunie pro
+                            tali cessione recepta. Ob plenam itaque Salzpurgensis ecclesie cautelam
+                            in presencia maigestatis regie sepedictus comes castrum Matrei cum
+                            attinentibus sibi ministerialibus possessionibus et villis tam
+                            dominicalibus quam infeudatis tam cultis quam incultis et, ut breviter
+                            concludamus, omnia sibi attinentia tam paterna quam materna hereditate
+                            iure proprietario Salzpurgensi ecclesie resignavit cum proprietate et
+                            usufructu. Idem fecit in rebus ecclesiasticis sibi precario concessis
+                            peccuniam quoque remisit, qua ei Salzpurgensis ecclesia ab antiquo
+                            obligata fuit, pro qua quasdam decimas habuit obligatas et sic et
+                            pecuniam dimisit et pignus reddidit. Ecclesia tamen in premium eorum que
+                            fecit castrum in Lengeberch cum sibi attinentibus et unum solum nomine
+                            Lôshant reddidit sibi ministerialem. Denique ut omnem questionis
+                            scrupulum rei geste sepedictus comes elideret, donationem ab antiquo
+                            Salzpurgensi ecclesie factam in presencia regalis magnificencie
+                            recognovit et eandem donationem denuo libera voluntate innovavit. Hanc
+                            igitur donationem rite et rationabiliter in presencia nostra factam
+                            approbamus et regia auctoritate confirmamus statuentes et regia
+                            sanctione firmiter precipientes, ut nulli de cetero persone alte vel
+                            humili ecclesiastice vel seculari hanc nostre confirmationis divalem
+                            paginam licitum sit infringere seu aliquo ei temeritatis ausu
+                            obviare.</cei:dispositio>
+                        <cei:sanctio>Quod qui facere presumpserit, C libras auri in sue
+                            presumptionis penam conponat, quarum medietas fisco nostro, residua vero
+                            medietas iniuriam passis assignetur.</cei:sanctio>
+                        <cei:corroboratio> Testes autem huius rei sunt: Albertus Maideburgensis
+                            archiepiscopus, Conradus Spirensis episcopus, Conradus Haluerstadensis
+                            episcopus, Bernardus dux Saxonie, Didericus marchio Missenensis,
+                            Heinricus dux Louanie, Ludewicus dux Bawarie, comes Burkardus de
+                            Mannesfeld, comes Fridericus de Bîchelingen, comes Lampertus de Glîche,
+                            comes Heinricus et frater suus de Keuerenberc, Heinricus dapifer et
+                            frater suus de Walpurc, Heinricus marscalcus de Kallendin, Heinricus de
+                            Smalnekke, Heinricus camerarius et alii quam plures.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:datatio> Dat. apud Quithelineburc, anno domini M°CC°VII°, X°kalend.
+                            octobris, indict. XI.<cei:lb/>S.<cei:sup>a)</cei:sup></cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a)</cei:sup> an rotweißer Seide Posse XXIV, 4.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/0973_XI_23</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:56:55+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:19+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240054"
+            n="Freising B$38" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            38-39</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 38, Nr.
+                            38</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0973_XI_23" old="240054">0973 XI 23</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto II. schenkt dem Bisthume Freising einen Landstrich
+                        innerhalb angegebener Grenzen in Krain an der Safniz und
+                        Zeyer.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Heiligenstadt<cei:sup>1</cei:sup></cei:placeName>
+                        <cei:dateRange to="9731123" from="9731123">23. November 973</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Hauptstaatsarchiv München</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:condition>kleine Lücken</cei:condition>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedrücktes Siegel bis auf geringen Rest
+                                abgefallen</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm> Cod. 189, f. 22, 191
+                            f. 85 und 238, f. 105</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VIIII. kal.
+                            Decembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./l, 180; Monum. boica XXVIII./2, 210.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente clementia imperator augustus.
+                        </cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Nouerit igitur omnium fidelium nostrorum praesentium
+                            scilicet et futurorum industria,</cei:publicatio>
+                        <cei:narratio> qaliter (!) nos dignis et admodum honestis petitionibus
+                            dilectissimae coniugis nostrae Theophanu nee non cari nepotis nostri
+                            Baioariorum ducis Heinrici suppliciter obsequendo rogati venerabili et
+                            totius religionis uiroAbrahae sanctae Frigisingensis aecclesiae praesuli
+                            nostrae familiaritati digne adiuneto quandam nostrae proprietatis partem
+                            in regione vulgari vocabulo Chreine et in marcha et in comitatu Paponis
+                            comitis sitam, id est ubi riuvlus Sabniza originem producere ineipit,
+                            deinde statim oeeidentem uersus cacumina montium siluasque interiacentes
+                            usque ad Bocsanam et sie ad fines earundem alpium, deinde ubi riuvlus
+                            Cotabla originem sumit, usque ad hunc locum ubi hostium in Zoura fluuium
+                            mittit, sieque trans Zouram usque ad summitatem ipsius montis Zourae
+                            adiaeentis qui extenditur orientem uersus, et ita per eundem montem
+                            perque conualles usque ad castrum quod vulgo Bosisen uocatur et sie
+                            deorsum de ripa quantum extenditur unius iugeri longitudo usque ad uadum
+                            quem vulgo Stresoubrod uocant, ibique ultra eundem fluuium oeeidentem
+                            uersus usque in uiam quae uocatur uia Chreinariorum et sursum per eandem
+                            uiam quicquid campi in australi eiusdem uiae parte iacet, ita ut Primet
+                            territorium et siluvla quae Szovrska Dubravua (dicitur), sub eadem
+                            comprehensione teneatur et spatium quod iacet inter Primet et
+                            Vuizilinesteti, per medium diuidatur et sie usque in praefatum riuvlum
+                            Sabniza, </cei:narratio>
+                        <cei:dispositio>nostraimperiali donauimus potentia in proprium et perpetuum
+                            vsumconcessimus firmiterque cum terris eultis et incultis, pratis,
+                            paseuis, siluis, aedifieiis, aquis aquarumue decursibus ipsoque iam
+                            dicto foresto, uenationibus, piscationibus, molendinis, mobilibus et
+                            inmobilibus, uiis et inuiis, exitibus et reditibus, quaesitis et
+                            inquirendis et eum omnibus iure legaliterque ad haec pertinentibus.
+                            Praecipimus etiam et nouiter constituimus eisdem in locis bannum nostrum
+                            a riuulo Sabniza uersus occidentem usque ad finem Bosanga et inde usque
+                            aJ iam dictum riuvlum Chotabla, indeque usque in Zovra fluuium et
+                            quicquid intra haec eadem praefata undique secus comprehensum uidetur
+                            loca, et regio imperatorioque more iubemus eo tenore, ut siquis
+                            quarumlibet personarum in quibuslibet iam dictis siluularum uel
+                            forestorum locis cuiuslibet generis feras canibus uel qualieumque modo
+                            compraehenderit, bannum huiusmodi culpa nostro debitum fisco (i)psi
+                            episcopo dubietate postposita, si boc absque eius fecerit licentia,
+                            dominiea aestimatione persoluat. Haec uero et caetera iam dicta tali
+                            consistant ratione, ut ipse iam dictus episcopus libero deinceps
+                            perfruatur arbitrio haec omnia tenendi, dandi, uendendi, commutandi seu
+                            quicquid inde uolueiit faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae largitionis auctoritas firmior
+                            stabiliorque cuuctis sanctae dei aecclesiae filiis perpetim credatur,
+                            hanc cartam inscribi iussimus anuloque nostro signatam manu propria
+                            subtus eam fimauimus. Praecipimus etiam ut nullus comes uel iudex siue
+                            decanus neque aliqua persona ius habeat se intromittendi absque licentia
+                            episcopi aut eius cuicumque ipse commendauit.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Ottonis imperatoris (M.)
+                            augusti.<cei:lb/>Uuilligisus cancellarius uice Ruodberti archicappellani
+                            subscripsi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data VIIII. kal. Decembris anno incarnationis domini
+                            DCCCCLXXIIH., indictione II., anno regni domni Ottonis XIIL, imperii
+                            VII., Actum Heiligenstat</cei:datatio>
+                        <cei:apprecatio> amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Das Datum nach Stumpf: Reichskanzler 56, Nr.
+                        613.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

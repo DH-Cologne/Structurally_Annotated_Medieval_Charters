@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.32</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:49+01:00</atom:published>
+    <atom:updated>2010-02-22T15:12:03+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513927"
+            n="StA Pfaefers$3" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 70, S.
+                            75.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 70, S.
+                            74.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.32" old="513927"/>
+                <cei:chDesc>
+                    <cei:abstract>König Otto I. bestätigt den Mönchen des Klosters Pfäfers die
+                        Immunität und die freie Abtwahl.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Worms</cei:placeName>
+                        <cei:dateRange to="9500209" from="9500209">9. Februar 950</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_09500209_v">
+                            <cei:graphic url="StiASG_StiAPf_09500209_v.jpg"
+                                >StiAPf_09500209_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_09500209_r">
+                            <cei:graphic url="StiASG_StiAPf_09500209_r.jpg"
+                                >StiAPf_09500209_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>62 x 44 cm.</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Siegel durchgedrückt, stark besch.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückvermerk (auf Rasur, um 1100): Preceptum domni Ottonia regia de
+                            electione fratrum Fabariensie coenobii et ut nullus rea illorum invadere
+                            preaumat; (15. Jh.): Anno domini DCCCCXLVIIII.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr. (B<cei:sup>1
+                            </cei:sup>etc) ebd. Hs. XXVI, f. 343 (16. Jh.), f. 260 (Auszug, 16.
+                            Jh.); Stöckli, Antiquitates Fabarienses, Muri-Hs. 36 der Kantonsbibl.
+                            Aarau, S. 315 und Stiftsarchiv Pfävers Hs. 106 f. III ff., Hs. 106a, f.
+                            CLXXXVIII (1628).</cei:witness>
+                        <cei:witness><cei:traditioForm>ins.</cei:traditioForm>Stiftsarchiv Pfävers
+                            Mappe V 31 c (1636), V 33 c (1638). - Widmer (C), Transsumpt, ebd. Hs.
+                            17, S. 80 (1656). - weitere Abschr. ebd. Hs. 27, f. 263 f., 292 f. -
+                            Good, Hs. 22, f. 68; Hs. 36, S. 157; Mappe V 32 bc; V 33 ab; V 39
+                            b.</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>V. id. feb.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 70. - Weg. 15. - Eichhorn, Ep. Cur., cod. prob. n. 17
+                                (unvollständig) nach A. - MG. D. 0. I. n. 120 nach A. - BU. I, n.
+                                107 nach A.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Regest: Wegelin, Reg. Pfävers, n. 15; Hidber. Urk. reg. I, n. 1034;
+                            Mohr, CD. I, n. 1° 47; Stumpf, Reichskanzler, n. 174 alle zu 949;
+                            Ottenthal, Reg. imp., n. 184; Helbok, Reg. Vorarlberg, n. 136.$$Das
+                            Diplom ist geschrieben von Notar Hoholt des Kanzlers Brun mit Benützung
+                            des Diploms Lothars vom Jahre 840 (n. 34), welches auch für Einsiedeln
+                            (oben n. 67) als Vorlage diente. Es ergibt sich aus diesem Umstände, daß
+                            Pfävers die Urkunde Lothars schon vor dem 27. Okt. 947, so lange Bischof
+                            Waldo von Chur noch lebte, eingereicht haben muß, daß jedoch diese
+                            Ausstellung eines neuen Diploms sich verzögerte; vgl. Jordan, Urkunden
+                            des Klosters Pfävers, in ZSG. 1935, S. 24 ff.$$Die Datierung ist
+                            uneinheitlich, indem nach Kanzleibrauch die Regierungsjahre um eine
+                            Einheit zu viel zählen, vgl. Sickel, Kaiserurkunden i. d. Schweiz, S.
+                            75.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina auxiliante dementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Noverit omnium fidelium nostrorum presentium nec non et
+                            futurorum sollertia,</cei:publicatio>
+                        <cei:narratio> qualiter viri religiiosi<cei:sup>a)</cei:sup> + sancti
+                            Fabariensis monasterii quod constructum est in
+                                honore<cei:sup>b)</cei:sup> sancte Marie dei genitricis in pago
+                            Retia vocato in comitatu Odalrrici<cei:sup>a)</cei:sup>
+                                comitis<cei:sup>1</cei:sup>, nostram adierunt
+                                regalitatem<cei:sup>c)</cei:sup> portantes manibus precepta ac
+                            privilegia antecessorum nostrorum regum, * Karoli<cei:sup>2</cei:sup> *
+                            videlicet et * Ludouuici<cei:sup>3</cei:sup> *, deprecantes nostram
+                            clementiam ut nostre auctoritatis munimine ea renovaremus ac firmaremus
+                            electionemque illis concederemus. Quorum petitionem benigno ob amorem
+                            domini nostri Iesu Christi * nostręque mercedis
+                                aucmentum<cei:sup>d)</cei:sup> suscipientes continuo, omnibus regni
+                            nostri principibus episcopis abbatibus comitibus diiudicantibus atque
+                            nostrę fidelitati consiliantibus, abbatem virum venerabilem quem inter
+                            eos eligerunt, Erembreht<cei:sup>4</cei:sup> nomine</cei:narratio>
+                        <cei:dispositio> constituimus et presens iussimus<cei:sup>e)</cei:sup> inde
+                            hoc munitatis<cei:sup>f)</cei:sup> nostrę privilegium conscribi per quod
+                            volumus firmiterque iubemus, ut amodo ac deinceps omni tempore
+                            firmissimam teneant potestatem quemcumque inter eos abbatem voluerint
+                            eligendi; et ut<cei:sup>g)</cei:sup> nullus iudex publicus nec episcopus
+                            nec comes vel quislibet ex iudiciaria potestate
+                                constitutus<cei:sup>h)</cei:sup> aliquam super eos exerceat
+                            potestatem nec super eorum causas nec super familias
+                                eorum<cei:sup>i)</cei:sup> intus vel foris consessas, sed eiusdem
+                            monasterii abbas potestative cum suis monachis ad illorum necessarios
+                            usus firmiter possideat; et ut nullus * inde quippiam prestare alicui in
+                            beneficium presumat sed sub nostra defensione et emunitatis tuitione res
+                            illorum perpetualiter permaneant ad illorum, ut supra diximus,
+                            necessarios usus.</cei:dispositio>
+                        <cei:corroboratio> * Et ut hec auctoritas huius
+                                emunitatis<cei:sup>k)</cei:sup> ac confirmationis nostrę firmior
+                            habeatur et per futura tempora a fidelibus nostris verius credatur et
+                            diligentius observetur, manu propria subter eam confirmavimus et anulo
+                                nostro<cei:sup>1</cei:sup> sigillari iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Ottonis (M.) invictissimi regis.
+                            +<cei:lb/>+ Brun cancellararius<cei:sup>a)</cei:sup> ad vicem Fridurici
+                            archicappellani recognovi. + (SI. 1) (SR. NT.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data V. id. feb., anno domini DCCCCXLVIIII, indictione
+                            VII, regnante serenissimo rege Ottone anno XV; actum
+                            Vuormacia;</cei:datatio>
+                        <cei:apprecatio> in domino feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup> A. -
+                        <cei:sup>b)</cei:sup><cei:quote>hononore</cei:quote> A; das erste
+                        <cei:quote>no</cei:quote> mit untersetzten Tilgungspunkten. -
+                        <cei:sup>c)</cei:sup><cei:quote>ta</cei:quote> über der Zeile nachgetragen.
+                    - <cei:sup>d)</cei:sup><cei:quote>cm</cei:quote> von gl. Hand korr. aus
+                        <cei:quote>ct</cei:quote>. <cei:sup>e)</cei:sup><cei:quote>ss</cei:quote>
+                    von gl. Hand aus <cei:quote>st</cei:quote>. -
+                        <cei:sup>f)</cei:sup><cei:quote>immunitatis</cei:quote>, jedoch
+                        <cei:quote>im</cei:quote> durch untersetzte Punkte getilgt. -
+                        <cei:sup>g)</cei:sup><cei:quote>ut</cei:quote> wiederholt, dann durch
+                    untersetzte Punkte getilgt. - <cei:sup>h)</cei:sup> zuerst
+                        <cei:quote>constitus</cei:quote>; <cei:quote>ut</cei:quote> über der Zeile
+                    nachgetragen. - <cei:sup>i)</cei:sup><cei:quote>eorum</cei:quote> über der Zeile
+                    nachgetragen. - <cei:sup>k)</cei:sup> das <cei:quote>e</cei:quote> auf Rasur. -
+                        <cei:sup>l)</cei:sup><cei:quote>nostro</cei:quote> über der Zeile
+                    nachgetragen. - <cei:sup>1</cei:sup> Ulrich VI. von Bregenz, Graf in Oberrätien,
+                    + 955; s. Helbok, Reg. Vorarlberg, Exkurs III, S. 136, Taf. I. 45. -
+                        <cei:sup>2</cei:sup> vgl. Nr. 22. - <cei:sup>3</cei:sup> vgl. Nr. 26. -
+                        <cei:sup>4</cei:sup> vgl. Henggeier, Der Äbtekatalog von Pfävers, in ZSKG.
+                    1928, S. 68; Perret, Reihenfolge der Äbte von Pfävers, ZSKG. 1950, S. 270 und
+                    276.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

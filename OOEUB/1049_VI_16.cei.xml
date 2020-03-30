@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/OOEUB/1049_VI_16</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-19T14:07:15+01:00</atom:published>
+    <atom:updated>2009-08-28T21:20:50+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="OOEUB" id="238197" n="OOEUB$65"
+            type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 85</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 85</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1049_VI_16" old="238197">1049 VI 16</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich III. schenkt dem Bischof Engelber von Passau den Jagd-
+                        und Forstbann auf den Besitzungen der Kirche zwischen dem Sarming- und
+                        Dimbache.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Gemvnde (Gmunden?)</cei:placeName>
+                        <cei:dateRange to="10490616" from="10490616">16. Juni 1049</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Bayerisches Hauptstaatsarchiv München
+                                (www.gda.bayern.de/hsta00.htm-8k)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Mit aufgedrucktem Siegel.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XVI. Kal. Julii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Lünig, Reichsarchiv XVII. 771.</cei:bibl>
+                            <cei:bibl>Hund.</cei:bibl>
+                            <cei:bibl>Gewold 1.365. (Monac.)</cei:bibl>
+                            <cei:bibl>Hansiz, I. 248.</cei:bibl>
+                            <cei:bibl>Buchinger II. 500.</cei:bibl>
+                            <cei:bibl>Mon. boic. XXIX. I. 96</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia romanorum Imperator
+                            Augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Nouerint quique christi nostrique fideles tam futuri quam
+                            praesentes,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob interuentum nostri thori ac regni consortis
+                            scilicet Agnetis imperatricis augustae nec non ob petitionem et deuotum
+                            famulatum nostri fidelis et dilecti Egilberti Patauiensis aecclesiae
+                            episcopi </cei:narratio>
+                        <cei:dispositio>ex nostra imperiali auctoritate praenominato episcopo
+                            tradidimus atque concessimus ius et potestatem legitimi banni super
+                            uenatione et foresto in praedio sancti Stephani protomartyris eiusdem
+                            episcopii patroni, scilicet in comitatu Adalberti marchionis et intra
+                            geminas fluminum Sabinichi et Tvminichi ripas sito Ea uidelicet
+                            conditione, ut nemo absque licentia et uoluntate prefati episcopi
+                            successorumque suorum infra praedictos eiusdem foresti terminos banni
+                            conclusione uetitos praesumat uenari aut aliquod genus ferarum, quod
+                            inforestatum iure banni interdicitur lege, qualibet uenatoriae artis
+                            industria capere uel decipere.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostra imperialis traditio atque concessio
+                            eiusdem banni, quod donauimus in potestatem Egilbarti episcopi, apud
+                            ipsum successoresque suos praedictae Pataviensis aecclesiae futuros
+                            episcopos Stabilis et inconuulsa perenniter maneat, hoc praeceptum inde
+                            conscriptum manu propria corroborantes sigilli nostri impressione
+                            iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici tercii regis inuictissimi,
+                            (Monogramma) secundi romanorum imperatoris augusti. (Signum speciale.)
+                            uuinitherius cancellarius uice bardonis archicancellarii
+                            recognoui*).</cei:subscriptio>
+                        <cei:datatio> Data XVI. Kal. Julii Anno dominicae incarnationis Millesimo
+                            XL.VIIII. indictione II. Anno autem domni Heinrici tercii regis,
+                            imperatoris secundi ordinationis eius XX.I. regni quidem XI. imperii
+                            autem III. in nomine domini. Actum Gemvnde</cei:datatio>
+                        <cei:apprecatio> feliciter. Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note>*) Signo recognitionis nomen cancellarii graecis literis inscriptum
+                        est.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

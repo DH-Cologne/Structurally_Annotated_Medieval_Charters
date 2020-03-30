@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_0982_V_18</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:23:43+02:00</atom:published>
+    <atom:updated>2010-04-27T13:33:30+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575522"
+            n="HHStA-Sbg E$117" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S 106-108.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 106.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_0982_V_18" old="575522">AUR 0982 V 18</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto II. bestätigt der Salzburger Kirche nach der ihm von
+                        Eb Friedrich vorgelegten Urkunde König Arnulfs die Stadt Pettau sowie andere
+                        von ihm und seinen Vorfahren geschenkte genannte Besitzungen in Karantanien
+                        und sichert ihnen Immunität zu.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Tarent</cei:placeName>
+                        <cei:dateRange to="9820518" from="9820518">18. Mai 982</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_982_V_18-201">
+                            <cei:graphic url="AUR_982_V_18-201.jpg"
+                                >AUR_982_V_18-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_982_V_18-101">
+                            <cei:graphic url="AUR_982_V_18-101.jpg"
+                                >AUR_982_V_18-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_982_V_18-Siegel01">
+                            <cei:graphic url="AUR_982_V_18-Siegel01.jpg"
+                                >AUR_982_V_18-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth>
+                            <cei:sealDesc>Posse VIII, 4.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 75
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>Data XV kal. iunii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 058 - Juvavia Anh. 206 n° 77 aus A = Kukuljevic, Cod.
+                                dipl. Croatiae, 1, 205 n° 246. - Zahn, Steir. U.-B. 1, 36 n° 30
+                                teilw. aus A. - Mon. Germ. Dipl. 1 319 n° 275 aus A. - v. Jaksch,
+                                Mon. Carinth. 3, 65 n° 154 teilw. aus A. - Ankershofen, Reg. n° 58.
+                                - Böhmer, Reg. n° 594. - Stumpf, RK n° 821. - v. Jaksch, Mon.
+                                Carinth. 1, n° 10.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Hormayr, Taschenbuch 1813, 216. - (Hormayr,) Arch. f. Geogr.
+                                10 (1819), 608 n° 38.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio>Otto divina favente clementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Si petitiones sacerdotum, quas pro usu et stabilitate
+                            ecclesiarum suarum nostris auribus infuderint, ut ante nos regia et
+                            imperialis agere consuevit dominatio, pia devotione compleverimus, id
+                            procul dubio presenti ac tempore futuro nobis profuturum esse
+                            credimus.</cei:arenga>
+                        <cei:publicatio>Quapropter omnium fidelium nostrorum tam praesentium quam et
+                            futurorum pateat industriae,</cei:publicatio>
+                        <cei:narratio> qualiter Fridericus sanctae Salzburgensis ecclesie
+                            venerabilis archiepiscopus, per interventionem dilectae coniugis nostrae
+                            Theophanu videlicet imperatricis auguste ac fidelis nostri Deoderici
+                            Mettensis ecclesie digni provisoris nobis presentavit preceptionem
+                            Arnolfi regis, in qua continebatur, quomodo ipse ob interventum
+                            Thietmari reverendi archiepiscopi, qui suis temporibus Iuuauensis
+                            ecclesiae provisor egregius extiterat, que est in honore beati Petri
+                            principis apostolorum et sancti Rotberti<cei:sup>a)</cei:sup>
+                            confessoris Christi constructa ac consecrata, suae praeceptionis
+                            auctoritate ad praefatam ecclesiam tradidit Pettouiam civitatem una cum
+                            ecclesia et decima illuc pertinente et duas partes civitatis cum bannis
+                            theloneis et ponte, que, ab antecessoribus praenominati regis illo
+                            tradita fuerunt, et ex parte sua etiam addidit tertiam partem civitatis,
+                            que proprietatis Carantani fuit illique diiudicata est eo, quia reus
+                            maiestatis illius criminatus est constare, [excepti]s subnotatis rebus,
+                            quas [uxori illi]us<cei:sup>b</cei:sup>) propter fidele servitium
+                            concessit id est in superiori et orientali parte civitatis praedictae
+                            curtilem locum, ubi nova ecclesia incepta est, [a]tque in inferiori et
+                            occidentali parte civitatis ipsius illa [cu]rtilia loca, que in
+                            potestate tunc habuit, cum hobis [centum] et vineis [decem], in
+                            Zistanesueld, ubi numquam antecessores eius alicui quicquam dederunt,
+                            propter fidele servitium superius iam dicti archiepiscopi tradidit
+                                ad<cei:sup>c)</cei:sup> praefatum monasterium, sicut acervos duo
+                            prope Trauum positi sunt, ex summitate termini, qui vuagreini dicitur,
+                            et ita sicut ille exterior vuagreini tendit usque dum Treuuina fluit in
+                            amnem Trauum, ad Sulpam civitatem Zuip vocatam cum omnibus iuste ad
+                            eandem civitatem pertinentibus, cum quercetis et campis, sicut illa
+                            fossa, que incipit de Muora et tenditur usque ad Luonznizam et ut
+                            Luonzniza et Sulpa de alpibus fluunt, quicquid inter has duas amnes
+                            habuit, totum ad predictum monasterium<cei:sup>d)</cei:sup> concessit,
+                            et forestum Susel cum banno, sicut in potestate antecessorum illius et
+                            sua fuit venationemque in dulcibus vallibus, quam populus cum
+                            sacramentis in potestatem regiam affirmavit id est ebdomadas tres ante
+                            aequinoctium autumnale ac postea usque in natale sancti Mart[in]i ad
+                            venandos ursos et apros; ad Luminicham iuxta Rapam quicquid ibi habuit,
+                            ad Nezilinpach, ad Sabnizam ecclesiam et curtem cum mansis L, item ad
+                            Rapam, ad Tudleipin ad Labantam ecclesiam sancti Andreae, uti
+                            antecessores eius ad iam dictum monasterium firmaverunt, cum decima, ut
+                            ibi consuetudo est, et de curtibus suis adiecit decimam, ut in sacris
+                            codicibus habetur, necnon et saginationem in omni Labanta valle excepto
+                            monte Forest nominato propter venationem regalem, ligna quoque secanda
+                            ad ecclesiam et ad aliud servitium episcopi tam in ipso monte quam in
+                            aliis omnibus montibus concessit, et unam fossam ruderis in monte
+                            Gamanara semper per totum annum habendam, ad Curcizam beneficium
+                            Engilbaldi, ad Carantanam ecclesiam sancte Marie cum decima, sicut
+                            ecclesiasticus precipit ordo de curtibus regiis, id est de Carantana
+                            civitate aliisque curtibus ad eandem civitatem pertinentibus, id est
+                            Trahof, Grauindorf, Curnuz ibique ad Curnuz operarios sorvos duos in
+                                monte<cei:sup>d</cei:sup>) cum hobis illorum; ligna secanda in ipso
+                            monte sine contradictione ministrorum regiae potestatis cum saginatione,
+                            Trebina, Astariuuiza, Chrapuchfeld, Vitrino, Friesach, Curca, Grazluppa,
+                            Lungouui, Sublich, Tiufinpach, Chatissa, Pelissa, Chumbenza, Vndrima,
+                            Linta, Lieznicha, Prucca, Muoriza, Liubina, ad Strazzinalam duo loca et
+                            qualiter hec omnia cum rebus iam supra per ordinem nominatis statim a
+                            suo iure ob anime sue remedium pralibate<cei:sup>e)</cei:sup> ecclesiae
+                            in potestatem perpetualiter ibi habendum ac possidendum redegit et sue
+                            dominationis regia auctoritate confirmavit. Sed pro rei statu et
+                            firmitate nostram humiliter rogavit celsitudinem, ut nos denuo illius
+                            donationis traditionem et confirmationem imperiali magnitudine nostrae
+                            munificentiae cunfirmaremus. Cuius petitioni vero piae ob votum et
+                            intercessionem, ut antedictum est, care contectalis nostrae Theophanu
+                            scilicet imperatricis augustae ac fidelis nostri Deoderici iam dictae
+                            Mettensis ecclesie episcopi assensum praebentes, quicquid praefatus
+                            Arnolfus rex ad ecclesiam superius iam dictam in honore sancti Petri
+                            principis apostolorum, et sancti Rotberti, confessoris Christi luuauia
+                            civitate, cuius corpus etiam ibi iacet, constructam ac consecratam dedit
+                            et confirmavit, aut alii antecessores sive successores illius illuc
+                            tradiderunt, parvum cum magno,</cei:narratio>
+                        <cei:dispositio>totum a novo imperiali celsitudinis nostrae auctoritate ad
+                            integrum concedimus ac confirmamus, ea videlicet ratione, ut ab hodierna
+                            die et deinceps predicte res, sicut ab antiquis regibus videlicet vel
+                            imperatoribus et noviter a nobis tradite et confirmate sunt, sub
+                            perpetuo iure eiusdem ecclesie absque alicuius contradictione
+                            permaneant,</cei:dispositio>
+                        <cei:sanctio> nec ullus successor noster aut dux vel comes sive vicarius seu
+                            quelibet iudiciaria potestas de predictis rebus * potestatem habeat *
+                            quippiam abstrahere vel minuere seu quicquam molestiae eidem ecclesie
+                            inferre praesumat.</cei:sanctio>
+                        <cei:corroboratio>Et ut hec auctoritas largitionis ac confirmationis nostrae
+                            firmior habeatur ac per futura temporum curricula verius credatur, hoc
+                            preceptum inde conscriptum anuli nostri inpressione signare iussimus
+                            manuque propria ut infra videtur corruboravimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Ottonis invictissimi (M) imperatoris
+                            augusti. <cei:lb/>Hildiboldus episcopus et cancellarius vice Uuilligisi
+                            archicapellani recognovi et subscripsi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data XV kal. iunii, anno dominice incarnationis
+                            DCCCCLXXXII, indictione X, anno vero regni secundi Ottonis XXV, imperii
+                            autem XV; actum iuxta Tarentum foras muros civitatis;</cei:datatio>
+                        <cei:apprecatio>feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup><cei:quote>otb</cei:quote> auf Rasur A.
+                            <cei:sup>b</cei:sup> die eingeklammerte Stelle herausgeschnitten A.
+                            <cei:sup>c</cei:sup><cei:quote>) ad</cei:quote> über der Zeile
+                        nachgetragen. <cei:sup>d</cei:sup><cei:quote>o</cei:quote> übergeschrieben
+                        A. <cei:sup>e</cei:sup><cei:quote>pralibate</cei:quote> statt
+                            <cei:quote>praelibate</cei:quote>.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

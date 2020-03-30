@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-OOeLA/MondseeOSB/1104_II_27</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:44:16+02:00</atom:published>
+    <atom:updated>2009-08-28T16:19:20+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Mondsee, OSB" id="274818"
+            n="Mondsee, OSB$9475" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 125-126</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 125</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1104_II_27" old="274818">1104 II 27</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich IV. verordnet, dass die dem Kloster Mondsee mit
+                        Unrecht entzogenen Güter bei Wieselburg und andere, dann die vom Bischofe
+                        von Regensburg wieder herausgegebene Pfarre Strasswalchen dem Kloster
+                        zurückgestellt werden sollen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="11040227" from="11040227">27. Februar
+                            1104</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.nein, aus einem Kopialbuch des Klosters Mondsee, sec.
+                            XV.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>OÖLA Linz, Bestand Mondsee
+                                (www.landesarchiv-ooe.at/)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc> </cei:physicalDesc>
+                        <cei:auth> </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>iij. Kalendas
+                            marcii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Chron. Lunaelac. I. 113.</cei:bibl>
+                            <cei:bibl>Pez, Cod. dipl. epist. 283.</cei:bibl>
+                            <cei:bibl>Ried, Cod. Ratisb. 169. Wegen der [126] Chronologie s. Böhmer,
+                                Regesten 1104. Nr. 1971.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Die eingeklammerten Worte am Schlusse sind aus dem Chron. lunaelac.
+                            beigesetzt, da sie im Copialbuche fehlen.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sancte et indiuidue trinitatis</cei:invocatio>
+                        <cei:intitulatio> hainricus diuina fauente clemencia quartus romanorum
+                            imperator Augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Sanctum opus regum et jmperatorum esse nouimus diuinarum
+                            testimonio scripturarum eos omnibus jniuriam pacientibus iusticie
+                            consolacionem exhibere et loca sanctorum, que ab impijs opprimuntur,
+                            pietatis studio respicere et ea misericorditer de manibus eorum eripere,
+                            ut ibi deo serviatur cum iocunditate, quod opus ob desiderium eterne
+                            beatitudinis et nos amplectentes</cei:arenga>
+                        <cei:publicatio> omnibus Christiane fidei cultoribus tam futuris quam
+                            presentibus notum fieri volumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos propter deum et anime nostre nostrorumque
+                            parentum remedium et ob amorem et salutem heinrici regis dilecti filij
+                            nostri et ob deuotam peticionem Rudberti venerabilis abbatis eiusdem
+                            loci cenobium Ma<cei:sup>e</cei:sup>nnse constructum in honore sancti
+                            Michahelis archangeli</cei:narratio>
+                        <cei:dispositio> respeximus et bona ecclesie, que vsui fratrum ibi deo
+                            seruiencium diu iniuste subtracta fuerant, in presencia
+                            archiepiscoporum, episcoporum, comitum et aliorum multorum nostrorum
+                            fidelium eidem loco iuste restituimus et habere perpetuo cum pace
+                            concessimus. hec sunt nominatim bona: decima uidelicet omnium
+                            exstirpatorum foresti Wiselburg, quod erat in banno, et decima stagni
+                            eiusdem foresti, et quidquid foresti nondum exstirpatum est in omni
+                            vtilitate sua, et parrochia ad straswalhen, quam episcopus Ratisponensis
+                            in nostra manu reddidit, et silua Bu<cei:sup>e</cei:sup>benwang et vna
+                            huba ad tanperkch.</cei:dispositio>
+                        <cei:corroboratio> vt autem hec nostre pietatis et iusticie (concessio)
+                            inuiolabilis permaneat, hanc cartam inde scribi fecimus eamque manu
+                            propria corroboratam inpressione nostri Sigilli insigniri
+                            iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum Domini Heinrici IV. Romanorum Imperatoris
+                            Invictissimi.<cei:lb/>Erlongus Cancellarius
+                            recognovit.</cei:subscriptio>
+                        <cei:datatio> Data iij. Kalendas marcii, Anno dominice incarnacionis
+                            Millesimo C.I. jndiccione XII. regnante Heinrico iiij. Romanorum
+                            imperatore augusto Anno Iij, imperante autem XX, Anno ordinacionis
+                            heinrici regis incliti filij eius VII. Actum est Ratispone</cei:datatio>
+                        <cei:apprecatio> in christi nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

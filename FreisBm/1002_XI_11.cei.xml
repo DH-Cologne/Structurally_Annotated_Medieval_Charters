@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1002_XI_11</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:06+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:12+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="239960"
+            n="Freising B$53" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            54-55</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 54, Nr.
+                            53</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1002_XI_11" old="239960">1002 XI 11</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich II. schenkt dem BischofeGotschalk von Freising auf
+                        sein Leben und darnach dem Domcapitel daselbstdas Gut Strasische in
+                        Krain.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10021111" from="10021111">11. November
+                            1002</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 37 und
+                            Cod. 238, f. 106'</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VIII. kal.
+                            Decembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck L/l, 198, Monum. boica XXXI/2, 274.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sanete et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Nouerint omnes fideles nostri presentes scilicet et
+                            futuri,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob interuentum dilecte nostre coniugis
+                            Chunigunde regine fidelisque nostri Gotescalchi Frisingensis ecelesie
+                            antistitis quoddam predium Strasista uocatum et quiequid intra tres
+                            fluuios Libniza, Sabum, Zoura in regione Carniola et in comitatu
+                            Vualtilonis comitis nostri iuris situm est, super gremium sanete Marie
+                            seinper uirginis sanctique Corbiniani ibidem Frisinge </cei:narratio>
+                        <cei:dispositio>corporaliter quiescentis in proprium donauiinus cum omnibus
+                            ad idem predium pertinentibus edifieiis, maneipiis, agris, pratis,
+                            siluis, paseuis, aquis aquarumqne decursibus, molendinis, piscationibus,
+                            exitibus et reditibus, zidaluvedon<cei:sup>1</cei:sup>. foresto,
+                            deeimis, uineis, uinetis, uenationibus, uiis et inuiis, cultis et
+                            incultis, quesitis et inquirendis et cum omnibus appenditiis eo tenore,
+                            ut predicta nostra regalis traditio eidem presuli Gotescalco et post
+                            illius uite terminum Frisingensi ecclesie canonicis pro remedio anime
+                            nostre parentumque nostrorum absque omnium contradictione mortalium in
+                            perpetuum deseruiat.</cei:dispositio>
+                        <cei:corroboratio> Jussimus quoque inde hoc preceptum scribi et ut hoc
+                            firmius stabiliusque permaneat in futurum, manu propria subtus
+                            firmauimus anulique nostri inpressione assignauimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Heinriei inuictissimi regis. Engilbertus
+                            cancellarius in uice Willigisi arehicancellarii
+                            notaui.</cei:subscriptio>
+                        <cei:datatio> Data VIII. kal, Decembris anno dominice incarnationis M. II.,
+                            indictione i., anno vero domni Heinriei inuictissimi regis. Actvm
+                            Radaspone.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Cod. 238 "zidalwaiden".</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

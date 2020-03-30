@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.472</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:23+01:00</atom:published>
+    <atom:updated>2010-02-22T15:11:54+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513740"
+            n="StA Pfaefers$8" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 123, S.
+                            122-123.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 123, S.
+                            121.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.472" old="513740"/>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich III. bestätigt dem Kloster Pfäfers die Immunität
+                        und das Recht der freien Abtwahl und verbietet die Abtei oder deren
+                        Besitzungen zu veräussern.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Strasbourg</cei:placeName>
+                        <cei:dateRange to="10400622" from="10400622">22. Juni 1040</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_10400622_r">
+                            <cei:graphic url="StiASG_StiAPf_10400622_r.jpg"
+                                >StiAPf_10400622_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_10400622_v">
+                            <cei:graphic url="StiASG_StiAPf_10400622_v.jpg"
+                                >StiAPf_10400622_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>57,5 x 55 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Bleibulle am r. Rande an Hanfschnur hängend; vgl. Posse,
+                                Die Siegel der dt. Kaiser und Könige I, Tf. 14/3.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückseits Schriftproben des 12. Jh. neben der Schnürung: P rex
+                            autem und P rogamus te domine deua meuus ut, (15. Jh.):
+                            A°MXL°.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr. (B<cei:sup>1
+                                etc.</cei:sup>) Cervinus ebd. Cod. XXVI, f. 418 und f. 25V, 260'
+                            (Ausz.), 452 (Übersetzung) (16. Jh.); Heider, Cod. XXVII, f. 117 f.
+                            (Ende 16. Jh.); Heider, Vidimus, Cod. 15, f. 5, Cod. 16, S. 4
+                            (1590/98).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>X. kl. iul.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 123. - Weg. 26. - Tschudi, Chron. Helv. I, S. 16
+                                (Auszug) nach A. - Herrgott, Genealogia 2, n. 174 nach A = Mohr, CD.
+                                I, n. 89 (Auszug). - MG. D. H. III., n. 56 nach A. - BU. I, n. 183
+                                nach A.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Kopial: Stöckli, ebd. Cod. XXVII, f. 215 (ca. 1628); ebd. Mappe V 34
+                            a (1613); V 34 b (1621); Cod. 127, ehem. III. 14. c, n. 1, S. 1-13
+                            (1634, Av. 730); Mappe V 31 c (1636); V 33 c (1638); Widmer, Transsumpt,
+                            Cod. 17, S. 109 (1656); Suiter, Cod. 107, S. 207 f. (1696); Mappe V. 32.
+                            a (1696); Cod. 22, f. 73 f., 76; Cod. 27, f. 308 f. und 413; Cod. 35 a
+                            Nr. 64; Mappe III. 14. d, S. 21 (1739); V 32 bc; V 33 ab;V 39 b.$$Regst:
+                            Böhmer, Reg. imp., n. 1478; Hidber, Urk. reg. I, n. 1316; Stumpf,
+                            Reichskanzler, n. 2189; Wegelin, Reg. Pfävers, n. 26; Helbok, Reg.
+                            Vorarlberg, n. 186.$$Das Diplom ist geschrieben von Notar A des Kanzlers
+                            Theodorich mit Benützung des Diploms Konrads II. vom 30. Jan. 1032 (n.
+                            118). Die Arenga und der Satz <cei:quote>nec alicui - donare</cei:quote>
+                            sind einem verlorenen Diplom Heinrichs III. für Ebersberg (MG. D. H.
+                            III., n. 15), der Satz <cei:quote>Sit vero - aecura</cei:quote> dem von
+                            ihm selbst geschriebenen Diplom vom 10. Juli 1039 für Bamberg (MG. D. H.
+                            III., 3) entnommen; vgl. Hirsch, Studien über die Privilegien
+                            süddeutscher Klöster, in MIÖG. 7. Erg. bd., S. 478.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sanctae et individuae
+                            trinitatis:</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente dementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si res ecclesiis dei pertinentes auctoritatis nostrae potentia
+                            stabilimus + earumque commoda in omnibus provide perpensamus, in hac et
+                            in aeterna vita premia nobis permansura speramus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnium dei nostrique fidelium tam presentium
+                            quam et futurorum noverit sollertia,</cei:publicatio>
+                        <cei:narratio> qualiter fidelis noster Salemon<cei:sup>a)1</cei:sup> abbas
+                            Fabariensis monasterii, quod constructum est in honore sanctae dei
+                            genitricis Marię<cei:sup>b)</cei:sup> situm in pago Retia Curiensi in
+                            comitatu Eberhardi<cei:sup>2</cei:sup> cum monachis sibi subiectis
+                            celsitudinis nostrę clementiam adiit humiliter obsecrans, ut eosdem
+                            monachos atque res predicti<cei:sup>c)</cei:sup> monasterii propter
+                            quorundam hominum perversorum tergiversationes in nostrum mundiburdium
+                            et tuitionem susciperemus atque illorum precepta ac privilegia, quae ab
+                            antecessoribus nostris regibus vel imperatoribus acceperunt, nostrę
+                            auctoritatis munimine renovando confirmaremus electionemque illis
+                            concederemus. Insuper etiam ostendit nobis precepta ac privilegia
+                            antecessorum nostrorum regum et imperatorum Karoli, Ludouvici, * trium
+                            Ottonum, Heinrici secundi nec non beatę memorię patris nostri Chuonradi
+                            imperatoris, in quibus continebatur, ut prefati monachi regię vel
+                            imperialis defensionem tuitionis super res ad idem monasterium
+                            pertinentes habere debuissent. Quorum nos petitioni pro aeterna memoria
+                            patris coniugisque nostrę Chunigundis simulque ob interventum dominę
+                            matris nostrę Gislae imperatricis * ipsos monachos et res ad prefatum
+                            monasterium pertinentes </cei:narratio>
+                        <cei:dispositio>per hoc regale preceptum in nostrum mundiburdium et
+                            tuitionem suscepimus, eo quoque tenore ut nullus publicus iudex dux
+                            comes vel episcopus vel quislibet iudiciaria<cei:sup>c)</cei:sup>
+                            potestate constitutus aliquam super eos in rebus vel in familiis eorum
+                            exerceat potestatem intus vel foris, sed eiusdem monasterii prenominatus
+                            abbas suique successores ad monachorum necessarios usus potestative
+                            teneant atque possideant. Sit vero abbatia illius monasterii libera et
+                            ab omni extranea et iniqua potestate secura, nec alicui successorum
+                            nostrorum regum vel imperatorum liceat eam vel res suas alteri
+                            monasterio aut persone inbeneficiare aut in proprietatem donare.
+                            Concessimus nanque<cei:sup>a)</cei:sup> eis electionem et potestatem
+                            firmissimam, quęmcumque inter eos abbatem voluerint eligere, quatinus
+                            eos pro nobis libentius deum delectet exorare.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec presentis auctoritas precepti firmior
+                            stabiliorque cunctis nostris fidelibus credatur, hanc cartam inscribi
+                            sigillique nostri impressione sigillari iussimus propriaque manu *
+                            subtus firmavimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Heinrici tercii (M.) regis
+                            invictissimi. +<cei:lb/>+ Theodericus cancellarius vice Bardonis
+                            archicapellani recognovit.</cei:subscriptio>
+                        <cei:datatio> +<cei:lb/>Data X. kl. iul., indictione VIII, anno dominicę,
+                            incarnationis millesimo XL<cei:sup>mo</cei:sup>, anno autem domni
+                                Heinrici<cei:sup>b)</cei:sup> tercii ordinationis XIII, regni vero
+                            II; actum Strazburhc;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup> A. - <cei:sup>b)</cei:sup> in Majuskeln. -
+                        <cei:sup>c)</cei:sup> folgt kleine Rasur. - <cei:sup>1</cei:sup> vgl. n. 117
+                    v. 30. Jan. 1032; Piper, Lb. cf. III, 69,1; Perret, ZSKG. 1950, S. 277. -
+                        <cei:sup>2</cei:sup> Eberhard von Bregenz/Heiligenberg, Graf in
+                    Unterrätien.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

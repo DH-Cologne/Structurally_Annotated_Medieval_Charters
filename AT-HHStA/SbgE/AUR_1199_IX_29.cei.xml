@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1199_IX_29</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:24:05+02:00</atom:published>
+    <atom:updated>2010-04-27T14:01:03+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575610"
+            n="HHStA-Sbg E$139" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 721-725.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 721.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1199_IX_29" old="575610">AUR 1199 IX 29</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Philipp bestätigt der Salzburger Kirche unter Eb Adalbert
+                        III. alle Rechte und Besitzungen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Mainz</cei:placeName>
+                        <cei:dateRange to="11990929" from="11990929">29. September
+                            1199</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-1-1">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-1-1.jpg"
+                                >HHSTA_Salzburg_1199_09_29-1-1.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-1-4">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-1-4.jpg"
+                                >HHSTA_Salzburg_1199_09_29-1-4.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-1-2">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-1-2.jpg"
+                                >HHSTA_Salzburg_1199_09_29-1-2.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-1-3">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-1-3.jpg"
+                                >HHSTA_Salzburg_1199_09_29-1-3.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-2-3">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-2-3.jpg"
+                                >HHSTA_Salzburg_1199_09_29-2-3.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-2-2">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-2-2.jpg"
+                                >HHSTA_Salzburg_1199_09_29-2-2.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1199_09_29-2-1">
+                            <cei:graphic url="HHSTA_Salzburg_1199_09_29-2-1.jpg"
+                                >HHSTA_Salzburg_1199_09_29-2-1.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 180' (C).
+                            K.-B. 4 f. 54 (deutsch) (D).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III kal. octobris.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 531 - Hund-Gewold, Metropolis 1, Ed. Monac. 123,
+                                Ratisb. 51. - Canisius, Thesaurus monum. eccles. et hist. 3 (1725)
+                                457. - Fejer, Cod. dipl. Hung. 2, 261. - v. Jaksch, Mon. Carinth. 1,
+                                277 n° 375 (nur Gurk betr.) aus A. - Ankershofen Reg. n° 589. -
+                                Meiller, RAS 168 n° 133. - Böhmer-Ficker RJ V n° 32.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Hansiz, Germania sacr. 2. 308. - Mezger, Historia Salisb. 1023
+                                = Lünig, Reichsarchiv 16, 964. - Salzkompromißschriften (Kurze
+                                Geschichtserzehlung (1761) 6 Lit. D (nur Salzburghofen
+                                betr.).</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:ivocatio>In nomine sancte et individue trinitatis.</cei:ivocatio>
+                        <cei:intitulatio> Philippus divina favente clementia Romanorum rex
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si racionabiles ecclesiasticorum peticiones prelatorum ad
+                            ecclesiarum suarum tendentes proficuum clementer admittamus, speramus
+                            nobis apud regem regum ad eterne vite meritum et temporalis imperii
+                            prosperiorem decursum proficere et eos quos benigna exauditione
+                            honoramus de cetero nobis devotiores ac magis benivolos
+                            fore.</cei:arenga>
+                        <cei:publicatio> Noverit igitur omnium Christi et imperii nostri fidelium
+                            presens etas et futura,</cei:publicatio>
+                        <cei:narratio> qualiter dilectus consanguineus noster Adelbertus Iuuauensis
+                            id est Salzburgensis ecclesie = <cei:sup>VU</cei:sup> = concederemus
+                            atquo confirmaremus. Hunc itaque = <cei:sup>VU</cei:sup> = nostreque *
+                            saluti = <cei:sup>VU</cei:sup> = precepta que in illis sunt scriptis
+                            reperta sicut ibi continebantur</cei:narratio>
+                        <cei:dispositio> ita nos ea presenti nostre maiestatis privilegio inseri
+                            iussimus ac eam secundum benignitatem = <cei:sup>VU</cei:sup> =
+                            confirmamus. Inter que principaliter constituimus, quod ex precepto
+                            Lodevvici imperatoris agnovimus, cuius precepti<cei:sup>a)</cei:sup>
+                            exemplum ipse = <cei:sup>VU</cei:sup> = ecclesie nostri vigore edicti in
+                            perpetuum confirmamus, statuentes ut videlicet ea que pretaxata ecclesia
+                            hactenus recto titulo possedit et tenuit et ea que nostris diebus
+                            possidet ac tenet et que in futurum deo annuente racionabiliter acquiret
+                            in quibuslibet pagis vel territoriis infra ditionem imperii nostri
+                            constitutis p(er)<cei:sup>b)</cei:sup> hanc confirmationem nostram
+                            absque alicuius contrarietate de cetero possideat et teneat ita libere
+                            et cum * iurisditione, quod nullus iudex publicus nec quisquam
+                            iudiciaria fungens potestate ad causas audiendas vel ad freda aut
+                            tributa aut telonea que a vulgo dicuntur muta exigenda aut mansiones vel
+                            paratas faciendas aut fideiussores tollendos aut homines ipsius ecelesie
+                            tam ingenuos quam servos super terram ipsius commanentes iniuste
+                            distringendos nec ad ullas * redibitiones aut illicitas occasiones
+                            requirendas nostris aut futuris temporibus predicte ecclesie
+                            possessiones ingredi audeat, sed hec iura et cetera similia emolumenta,
+                            que fiscus regalis inde sperare poterit<cei:sup>c)</cei:sup> aut exigere
+                            = <cei:sup>VU</cei:sup> = res ecclesie sue = <cei:sup>VU</cei:sup> =
+                            constituere. Item secundum exemplar precepti, quod divus augiistus *
+                            Otto predictam Salzburgensem ecclesiam munivit ac ditavit, nos
+                            donationes eidem ecelesie factas et quoslibet contractus quibus aliquid
+                            possidere cepit, legitime per nostre auctoritatis clementiam renovamus
+                            et confirmamus, inter que possessiones in ipsius regis Ottonis
+                            privilegio propriis expressit vocabulis<cei:sup>d)</cei:sup>, nos quoque
+                            ipsum in hoc sequentes huic pagine fecimus annotari: Primitus castellum
+                            sancte Erindrudis cum omnibus eidem castello iuste ac legaliter
+                            attinentibus cum curtibus venationibus piscationibus, id est ab ecclesia
+                            sancti Martini, que respicit contra monticulum qui vulgo Nochstein
+                            nuncupatur, sursum ex utraque parte fluminis Iuaris usque in rivolum
+                            Quartinesbach, insuper etiam de * rivulo venationem piscationemque ex
+                            utraque parte prenotati fluminis ad sanctum Maximilianum usque dum Tunta
+                            ex aquilonari parte fluit in predictum flumen atque rivulus Gastuna ex
+                            australi parte. Item forestum a termino qui in Pisontia incipit, hoc est
+                            de rivulo Erilipach usque ad montem Wassenberch prope Iscalam in illo
+                            loco ubi terminus foresti Rapotonis quondam comitis ab isto se
+                            disiungit, et in aquilonari parte de rivo Tinnilinbach usque in
+                            summitatem montis Ciruencus nominati et iam dicto monte Wassenberch
+                            usque ad prefatum monticulum Nochstein: illa montana omnia que in
+                            potestate antecessorum nostrorum fuerunt. Item Kiemisse preposituram
+                            regulariam cum omnibus iuste ei attinentibus. Curtem quoque
+                            Biscoffesdorf cum omnibus iuste ad eandem curtem pertinentibus atque
+                            piscationem in lacu Aterse sine omni contradictione, illos quondam
+                            imperio pertinentes XII privatos tractus saginarum, sicut dominicalis
+                            terra ad Boumgarten ipsi lacui se adiungit sine alia communi piscatione
+                            in Aterse ad Aterhof pertinente. In illis quoque curtibus, que olim
+                            inibi in feodo sive ex parte imperatorum sive aliunde beneficiate
+                            fuissent, proprietatem, quarum hec nomina sunt: Schaforeuelt curtem et
+                            ecclesiam cum decima et sicut terminus ille in australi parte incipit
+                            qui Wachrein dicitur, ultra Ibisam et in occidentali usque dum ducitur
+                            ubi Urla = <cei:sup>VU</cei:sup> = hobis. Preterea Arnesdorf id est
+                            Wachowa = <cei:sup>VU</cei:sup> = pertinentibus. Ad hec apud Grunzatam
+                            quicquid superfuit hobis quinque, quas fideli suo cuidam Dietrico
+                            antecessores nostri dederunt, hoc sunt hobe quinquaginta. Insuper
+                            Lubinam et ad Holumburch terciam partem civitatis cum vineis XXX et
+                            hobis XV sine curtili terra. Item Treismam civitatem et ecclesiam sancti
+                            Martini cum decima et sursum in australi atque orientali parte fluminis
+                            Treisme usque ad Potilinesprunnen et sicut Dietriesbach fluit contra
+                            duos acervos exteriores qui in orientali parte campi sunt positi, et
+                            exinde usque ad Danubium in illum (locum)<cei:sup>e)</cei:sup> qui
+                            Triboliz dicitur et ita sursum prope Danabium<cei:sup>f)</cei:sup> cum
+                            agris pratis cultis et incultis aviis locis piscationum que teutonico
+                            arihstete vocantur, et ita sursum usque ad illam marcham que inter
+                            Treismam et Holumburch utrasque res discernendo dividit, ad Bennenwanch
+                            quicqnid predecessores nostri reges illic habuerunt ad ecclesiam Anzonis
+                            quicquid illic habuerunt ad Wittenesberch quicquid illic habuerunt,
+                            excepto quod cuidam Mosogovvoni datum est, hoc est hobe centum, Ellodis
+                            ecclesiam, ecclesiam Minigonis presbiteri, ad Gumpoldesdorf quicquid ibi
+                            reges habuerunt. Preterea Rapam, Sabariam civitatem et ecclesiam cum
+                            decima et theloneis vineis agris pratis paschuis<cei:sup>f)</cei:sup>
+                            forestis montibus cunctis * ad eandem civitatem legaliter pertinentibus,
+                            insuper Siccam Sabariam et Pennichaha et Mosaburch abbatiam, ubi sanctus
+                            Adrianus * requiescit, nonam quoque de omnibus curtibus regalibus inibi
+                            cum theloneo in civitate et piscina. Ad Salabiugan curtem cum
+                                CCC<cei:sup>tis</cei:sup> mansis et totidem vineis mansis et
+                            quicquid illic regibus attinebat, ecclesiam de Quartinaha, ecclesiam ad
+                            Gheuse, ecclesiam ad Ternberch,<cei:sup>g)</cei:sup> ecclesiam Gundoldi,
+                            locum quem vocant Quinque Ecclesias cum theloneis, forestis et cum
+                            proprietate omnium que ab antecessoribus nostris ibidem antea
+                            beneficiata erant, .ad Ruginesuelt quicquid ibi regalibus pertinuit, ad
+                            Turnowa ecclesiam quo est constructa in honore sancti Ruberti cum monte
+                            Baruoz dicto cum vineis pratis silvis et cum omnibus que ibi sunt circa
+                            montem sita, ad Pottowe ecclesiam cum decima et totam civitatem cum
+                            bannis theloneis et ponte et omnibus ad locum illum pertinentibus, ad
+                            Cistenesuelt sicut duo acervi prope Trauum positi sunt ex summitate
+                            superioris et exterioris termini qui Wacrein dicitur et sicut ille
+                            Wacrein tendit usque dum Treuina fluit in amnem Trauum, ad Sulpam
+                            civitatem et Zvip omnia que iuste et<cei:sup>h)</cei:sup> legaliter eo
+                            pertinent in querceis<cei:sup>f)</cei:sup> campis sicut illa fossa
+                            incipit a Mura et tendit usque ad Lonznik et ut Lonzniza et Sulpa de
+                            alpibus fluunt et forestum Susel cum banno sicut in potestate
+                            antecessorum nostrorum hec fuerunt; venationemque Suzzentale quam
+                            populus cum sacramentis in potestatem antecossorum nostrorum firmavit,
+                            ad venandos illic<cei:sup>i)</cei:sup> apros et ursos per tres ebdomadas
+                            ante equinoctium autumnale et postea usque ad festum sancti Martini, ad
+                            Liumnigga iuxta Rapam quicquid illic predecessores nostri habuerunt,
+                            item Nezzilunbach et ad Sabnizam ecclesiam et curtem cum mansis, item
+                            Rapam ac Tudleiben, ad Labande ecclesiam sancti Andree cum decima ut ibi
+                            consuetudo est, et de curtibus, quas antecessores nostri ibi habuerunt,
+                            decimam ut in canonibus habetur, nec non saginationem in omni Labande
+                            valle excepto monte Forst nominato; ligna quoque secanda ad ecclesiam et
+                            ad aliud servitium episcopi tam in ipso monte quam in aliis omnibus
+                            montibus et unam fossam lapidum in monte Gamanar semper per totum annum
+                            habendam, item ad Gurcizam beneficium Engilbaldi, ad Carantanam
+                            ecclesiam sancte Marie cum decima sicut ecclesiasticus ordo precipit de
+                            omnibus curtibus que ad Carantanam civitatem pertinent, id est Trahof,
+                            Grauindorf, Gurnuz; ad Streliz operarios servos duos in monte cum hobis
+                            eorum, ligna secanda in ipso monte sine contradictione omnium hominum
+                            cum saginatione. Item Trebenam, Osterwiz, Grabuhuelt, Uitringa,
+                            Friesach, Gurca, Grazluppa, Longovve, Sublich, Tivfenbach, Katsche,
+                            Pelisa, Kumbenza, Vndrima, Linta, Lieznigga Brugga, Muriza, Livbena, ad
+                            Strazzinulam duo loca. Pretexatus itaque possessiones quemadmodum in
+                            privilegio regis Ottonis augusti signate reperiuntur et ea lege ac
+                            ratione Salzburgensi ecclesie confirmate, ut nullus imperii Romani
+                            successor nec dux nec comes nec ulla alia potestas aut porsona de
+                            predictis rebus audeat quicquam subtrahere, sed iure perpetuo ad sanctum
+                            Petrum sanctumque Rubertum stabiliter absque omni contradictione
+                            permaneant, ita nos quoque nostri auctoritate precepti confirmamus
+                            considerata tamen temporum et eventum varietate, ut sua cuique iusticia
+                            salva remaneat<cei:sup>k)</cei:sup>, quod ideo adiungendum decrevimus,
+                            ut si quis forte hoc nostro moderno tempore aliquid usquam de prefatis
+                            bonis contra iusticiam Salzburgensis ecclesie prescriptam videatur
+                            tenere, is eadem bona archiepiscopo et ecclesie Salzburgensi recognoscat
+                            et restituat aut ea se legitimo contractu et iusto possedisse titulo
+                            rationabiliter ostendat. Preterea ex privilegio Lodevvici regis augusti
+                            patenter intelleximus, quod idem Lodevvicus augustus prefate
+                            Salzburgensi ecclesie amore dei et beati Petri apostoli et sancti
+                            Rudberti in pago Salzburgowe dicto curtem Salzburhouen, quam Pilgrinus
+                            archiepiscopus antea in ministerio ab eo tenere visus est, in
+                            proprietatem et plenam potestatem contradidit, integraliter cum curtibus
+                            omnibus * edificiis campis pratis agris pascuis silvis lacubus aquis
+                            aquarum * decursibus = <cei:sup>VU =</cei:sup> inmobilibus, mancipiis
+                            quoque pluribus utriusque sexus, parscalcis cum omnibus censibus in
+                            Salina et extra Salinam iuter<cei:sup>l)</cei:sup> fluvios Sala et
+                            Salzaha vocatos in auro et sale ac pecoribus cum theloneis duobus, que
+                            vulgo muta vocantur, cum omnibus adiacentiis et rebus ad eandem terram
+                            pertinentibus. Hanc igitur traditionem et donationem, quam et post ipsum
+                            Lodevvicum augustum Otto imperator suo privilegio super hoc dato
+                            confirmavit, nos quoque presenti nostre auctoritatis scripto confirmamus
+                            Salzburgensi archiepiscopo et sue ecclesie statuentes et firmissime
+                            precipientes, ut predicta cum omnibus pertinentiis eiusdem curtis et
+                            quecumque utilitas in huiusmodi catmis seu fodinis salis vel metallorum
+                            in quibuslibet fundis ecclesie et fluminibus fluentibus per fundos
+                            ecclesie meantibus perpetuis temporibus a Salzburgensi deinceps ecclesia
+                            et eius archiepiscopo abque omni obstaculo inconvulso vestitu quiete
+                            possideatur. Dignum preterea duximus presenti inserere privilegio,
+                            qualiter ex scripto domini Alexandri pape huius nominis secundi, insuper
+                            ex privilegio Heinrici regis venit nobis in cognitionem, quod Gebehardus
+                            Iuuauensis id est Salzburgensis archiepiscopus de commissarum sibi
+                            animarum provisione sollicitus eo quod episcopatum suum in montanis
+                            situm pro nimia parrochie amplitudine et viarum difficultate per se
+                            solum regere non sufficeret, ab utraque dignitate apostolica scilicet et
+                                regia<cei:sup>m)</cei:sup> impetravit, quod liceret ei infra
+                            parrochiam suam adiutorem sui operis episcopum et sedem episcopalem
+                            constituere. Placuit igitur eidem archiepiscopo Gebehardo, ut indulto
+                            apostolico et regio utens in loco qui dicitur Gurca apud ecclesiam
+                            sancte Marie kathedram episcopalem faceret et concessum est ei per
+                            utriusque potestatis ecclesiastice scilicet ac secularis clementiam, ut
+                            eidem nove sedi partem parrochie sue et de prediis ac decimis quantum *
+                            conveniens videretur, attribueret et ad eandem sedem episcopum ex sua
+                            consideratione ordinaret, ea videlicet ratione ut episcopatus ille
+                            ecclesie = <cei:sup>VU</cei:sup> = archiepiscopi<cei:sup>n)</cei:sup>
+                            nulli umquam ecclesie = <cei:sup>VU</cei:sup> =
+                            cessuro.</cei:dispositio>
+                        <cei:corroboratio> Ut autem omnia supradicta memoriter sciantur et
+                            inconvulsa de cetero firmitate observentur, presentis privilegii paginam
+                            fecimus conscribi et appensa<cei:sup>o)</cei:sup> maiestatis nostre
+                            bulla roborari.<cei:lb/>Huius rei testes sunt: Treuerensis
+                            archiepiscopus, Augustensis episcopus, Constanciensis episcopus,
+                            Argentinensis episcopus, Hermannus langravius Turingie, Rodolfus
+                            palatinus de Tuwingen, Sifridus comes de Orlamunde, Fridericus comes de
+                            Zolre, Vlricus comes de Berge, Emicho comes de Linningen, Godefridus de
+                            Eppenstein, Calohus de Kircherch, Hartradus de Merenberc, Heinricus
+                            marscalcus de Chalindin, Ulricus marscalcus de Rechberch, Cuno de
+                            Minzenberc, Warnherus de Bolanden, Tiedo de Rauensburch et alii quam
+                            plures.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domini Philippi secundi Romanorum regis
+                            invictissimi. <cei:lb/>Ego Chonradus Hildensheimensis episcopus,
+                            Erbipolensis electus, imperialis aule cancellarius, vice domini Chonradi
+                            Moguntini archiepiscopi - M - totius Germanie archicancellarii
+                            recognovi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Acta sunt hec anno dominice incarnationis MCXCVIIII,
+                            indict. III, regnante gloriosissimo Romanorum rege Pbilippo II, (M)
+                            regni eius anno secundo; dat. Moguntie, III. kal.
+                            octobris.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup><cei:quote>i</cei:quote> aus o korr.
+                            <cei:sup>b</cei:sup><cei:quote>p</cei:quote> ohne Abkürzungszeichen.
+                            <cei:sup>c</cei:sup><cei:quote>i</cei:quote> aus
+                            <cei:quote>a</cei:quote> korr. <cei:sup>d</cei:sup> ursprünglich,
+                            <cei:quote>vocabillis</cei:quote>, dann korrigiert, aber die Oberlänge
+                        nicht getilgt. <cei:sup>e</cei:sup> fehlt, aus VU zu ergänzen.
+                            <cei:sup>f</cei:sup> A. <cei:sup>g</cei:sup><cei:quote>c</cei:quote> aus
+                            <cei:quote>h</cei:quote> korr. <cei:sup>h</cei:sup> vorher
+                            <cei:quote>l</cei:quote> getilgt.
+                            <cei:sup>i</cei:sup><cei:quote>ille</cei:quote>.
+                            <cei:sup>k</cei:sup><cei:quote>re</cei:quote> aus
+                            <cei:quote>per</cei:quote> korr. <cei:sup>l</cei:sup> auf Rasur.
+                            <cei:sup>m</cei:sup> r aus <cei:quote>s</cei:quote> oder c korr.
+                            <cei:sup>n</cei:sup> das letzte <cei:quote>i</cei:quote> aus c korr.
+                            <cei:sup>o</cei:sup> für <cei:quote>aurea</cei:quote> ein Raum
+                        ausgespart.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

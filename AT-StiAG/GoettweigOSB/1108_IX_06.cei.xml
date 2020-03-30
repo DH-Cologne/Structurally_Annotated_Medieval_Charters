@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAG/GoettweigOSB/1108_IX_06</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-07T13:31:18+02:00</atom:published>
+    <atom:updated>2009-08-27T16:46:52+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Göttweig OSB" id="213628"
+            n="Göttweig OSB$18" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>FUCHS, Göttweig I (=FRA II/51, Wien 1901) S. 32-36</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>FUCHS, Göttweig I (=FRA II/51, Wien 1901) S. 32, Nr. 18</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1108_IX_06" old="213628">1108 IX 06</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich V. schenkt dem Stifte Göttweig die Insel
+                        Mutheimerwert und bestätigt zugleich den Besitz derselben.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Tulln</cei:placeName>
+                        <cei:dateRange to="11080906" from="11080906">6. September
+                            1108</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StAG__11080906">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~Goettweigjpgweb._~Urkunden._~StAG__11080906.jpg"
+                                >StAG__11080906.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StAG__11080906v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~Goettweigjpgweb._~Urkunden._~StAG__11080906v.jpg"
+                                >StAG__11080906v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>Stiftsarchiv Göttweig
+                                (http://www.stiftgoettweig.or.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc> Siegel mit dem Kopfe des Königs abwärts gekehrt, ist
+                                durchgedrückt u. auf der linken Hälfte beschädigt.Siegel Heinrich's
+                                V., beschrieben bei Bresslau, Neues Archiv VI, 515, abgebildet bei
+                                Bessel, Chron. Gottwic I, 307, fehlt jedoch bei Heffner, Siegel d.
+                                deutsch. Kaiser und Könige. </cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VIII. idus
+                            septembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Hormayr, Archiv f. Geographie XIX, 559, fehlerhaft; Karlin,
+                                260 nr. 7; Sickel, Mon. graph., fasc. V, tab. VII, Facsimile;
+                                Sickel, Texte z. d. Schrifttaf. S. 77; Böhmer-Stumpf, reg. nr. 3031;
+                                Meiller, Reg. der Babenb., S. 11 nr. 4, Bl. f. Landesk. XII, 130 nr.
+                                37 u. XIV, 187 nr, 6 reg.; Kinzl, Chronik v. Krems u. Stein, S. 3
+                                reg.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Als Vorurkunde diente nr. 5. - Die Urkunde ist vollständig von einer
+                            Hand geschrieben, welche jedoch in der drittletzten Zeile mit
+                            gedrängterer, kleinerer und schönerer Schrift, aber gleicher Tinte
+                            fortsetzt.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(C). | In nomine sanctê et individuê
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clementia quintus Romanorum
+                            rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>| Notum sit omnibus Christi nostrisque fidelibus tam
+                            futuris, quam presentibus,</cei:publicatio>
+                        <cei:narratio> qualiter ego Heinricus rex Romanorum ob remedium animê nostrê
+                            ac parentum nostrorum et ob peticionem principum nostrorum, videlicet
+                                O<cei:sup>v</cei:sup>udalrici Pataviensis episcopi ac sororis nostrê
+                            Agnetis et mariti eius Luitpoldi marchionis et ducis Welfonis tradidimus
+                            ad altare sanctê Mariê in Chotiuuige insulam, quê vulgo dicitur
+                                Mutheimeruuerth,<cei:sup>1</cei:sup> rogante hoc etiam Adalberto,
+                            cuius hec erat beneficium, cum omni utilitate cultis incultis silvis
+                            viis inviis pratis pascuis molendinis piscationibus aquis aquarumque
+                            decursibus.</cei:narratio>
+                        <cei:dispositio> Per istam itaque traditionem firmamus et stabilimus,
+                            quicquid episcopus Altmannus eiusdem loci primus fundator ad prêdictam
+                            êcclesiam dedit, seu quicunque alius fidelis cuiuscunque conditionis
+                            sive ordinis ex quacunque parte Danubii. Hêc autem sunt bona prêdictê
+                            êcclesiê collata ab Altmanno episcopo: parrochia Můtaran cum omnibus
+                            appendiciis suis excepta parte decimationis, quê pertinet ad Sanctum
+                            Nycolaum,* in eodem loco Azilinum et alium Azilinum, Gemmundum cum
+                            beneficiis suis, ibidem beneficium Ekkirici cum mancipiis et omnibus
+                            appendiciis suis excepto dimidio manso, Prunne<cei:sup>2</cei:sup> de
+                            beneficio eiusdem Ekkirici cum mancipiis et omnibus appendiciis suis,
+                            Huntisheim Růduuinum cum beneficiis suis, Chellergnannan vineam I cum
+                            vinitore et omnibus appendiciis suis, Rotkeristorph vineas III et
+                            dimidiam cum vinitoribus et omnibus appendiciis suis, * Palta excepto
+                            manso I, Horginbach excepto manso I cum mancipiis et omnibus appendiciis
+                            suis, Talaran cum vineis et vinitoribus et omnibus appendiciis suis,
+                            Uurta cum mancipiis et omnibus appendiciis suis et silva, quê adiacet
+                            monti, cuius terminus est: rivus Palta sursum usque in Chrumbilbach,
+                            abhinc usque ad confinium Salzburgensis predii et marchionis,
+                            Chrucistetin cum vineis et vinitoribus et omnibus appendiciis suis,
+                            Echindorph cum mancipiis et omnibus appendiciis suis, Pumannestorph cum
+                            mancipiis et omnibus appendiciis suis, Nuzdorph<cei:sup>a</cei:sup>
+                            vineas III, Anzandorph vineas II, Imizinistorph vineam I, Ratoluistorph
+                            cum omnibus appendiciis suis, ad Sanctum Yppolitum partem decimationis
+                            et mansum I cum omnibus appendiciis suis et in alia ripa Treisim versus
+                            Wagrein molendinum cum appendiciis suis et II loca molendini,
+                            Stoidratistorph mansum I, Pecsutilin cum omnibus appendiciis suis,
+                                Sca<cei:sup>o</cei:sup>uuingin<cei:sup>b</cei:sup> cum mancipiis et
+                            omnibus appendiciis suis, Blindindorph mansum I, Piscoluistorph mansos
+                            IIII, Houiberch cum omnibus appendiciis suis et quicquid inter duas
+                            Persnich cultum et incultum episcopalis iuris iacet, excepto censu de
+                            publica via. Parrochia Pirchaha cum appendiciis suis, Chůnihohestetin
+                            vineas V et dimidiam, Zeizinmůra beneficium Reginoldi Guggingin vineas
+                            II cum omnibus appendiciis suis, Chirchlingin mansum I et vineam I,
+                            Vischamundi mansum I, Můri decimationem, Heiminburch, Aschrichisprucca,
+                            Houilin et ad Sanctam Petronellam et de ceteris villis, que pertinent ad
+                            predium Dietpoldi marchionis, decimationem; parrochia
+                                Cho<cei:sup>v</cei:sup>liup constructa in manso, quem Richiza dedit,
+                            ad quam decimationem terminavit Houistetin, Mo<cei:sup>v</cei:sup>raha.
+                            Studaha mansos X, Aschaha vineas II, Hunisberch mansum I, Halla curtale
+                            I et sartaginem I; parrochia Mulipach cum<cei:sup>c</cei:sup> omnibus
+                            appendiciis suis, Steini beneficium Pecilini, in parrochia Chremisi
+                            dimidiam decimationem vini, Tiemindorph et Hůnindorph decimationem,
+                            Ramuoldespach decimationem et mansum I, Frouuindorph decimationem et
+                            mansum I, Gogindorph mansum I, Chetsi decimationem, Hezimannestorph
+                            mansos IIII, Straneistorph decimationem et mansos II, Zeinaran mansos II
+                            et curtalia VIII, Boreistorph mansum I liberalem, Porcindorph mansos
+                            IIII, Gausaraueld decimationem, Ezinistorph mansos III, Hagninbrunnin
+                            mansum I, mancipia de Matkouua, quibus Pero camerarius preerat, mancipia
+                            Egilberti archipresbiteri. Ista, quê secuntur, ceteri fideles
+                            contulerunt: Flinspach cum silva et molendino et omnibus appendiciis
+                            suis, Eppinberch<cei:sup>3</cei:sup> cum silva et vineis et pomariis et
+                            omnibus appendiciis suis, Lanzindorph cum mancipiis et vineis et omnibus
+                            appendiciis suis, Wischartisprucca<cei:sup>4</cei:sup> cum silva et
+                            mancipiis et vineis et omnibus appendiciis suis,
+                                Potingin,<cei:sup>5</cei:sup> Perhartistorph cum mancipiis et vineis
+                            et omnibus appendiciis suis, Pellindorph mansos IIII liberales, Můri
+                            vineas II, Waltrichistorph<cei:sup>6</cei:sup> mansos II,
+                            Hadarichisuuerth predium, quod Heinricus dedit,
+                                Liuzmannistorph<cei:sup>7</cei:sup> mansos X regales, quos
+                                comparavimus,<cei:sup>8</cei:sup> Chrunnila <cei:sup>9</cei:sup>
+                            mansum I, Zagalstreiphingin, quod Eberhart dedit, Sulzbach,
+                                Tanna,<cei:sup>10</cei:sup> quod Luitkart dedit,
+                                Chrengilbach<cei:sup>11</cei:sup> mansum I,
+                                Obizi,<cei:sup>12</cei:sup> Humistal,<cei:sup>13</cei:sup>
+                                Voraha<cei:sup>14</cei:sup> et cetera novalia, que marchio dedit,
+                            Chotanas et silvam, quam Waldo dedit, Piugin<cei:sup>15</cei:sup>
+                            predium, quod Piligrimus dedit, Miris, Chozindorph,
+                                Gritsanas,<cei:sup>16</cei:sup> Stanandorph<cei:sup>17</cei:sup> cum
+                            omnibus appendiciis suis, que Heinricus et frater eius
+                                Ot[to]<cei:sup>d</cei:sup> dederunt, Terni predium, quod Fridericus
+                            dedit, Tizizi predium, quod Mahthilt dedit et cetera recte
+                                quêsita.<cei:sup>e</cei:sup>
+                        </cei:dispositio>
+                        <cei:corroboratio>Sed ut hê traditiones ratê et inconvulsê omni tempore
+                            permaneant, hanc cartam impressione sigilli nostri insigniri iussimus.
+                            Hi sunt autem testes, qui viderunt et audierunt: episcopi Reginhardus
+                                Halberstatensis,<cei:sup>18</cei:sup> Walraban
+                                Cizensis,<cei:sup>19</cei:sup> Vto
+                                Hiltensheimensis;<cei:sup>20</cei:sup> Hartuuicus
+                                Ratisponensis,<cei:sup>21</cei:sup> Eberhardus
+                                Eistetensis;<cei:sup>22</cei:sup> dux Welfo, marchio Liutpoldus,
+                            marchio Dietpoldus, Otto comes Ratisponensis, Herimannus comes,
+                            Gotifridus de Chalauuan, Wichbertus et Lůdouuicus
+                            comites.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Ego<cei:sup>f</cei:sup> Adalbertus cancellarius vice
+                            domini Rothardi Moguntini archicancellarii recognovi. | Signum domni
+                            Heinrici quinti regis Romanorum invictissimi. | (M
+                                F.)<cei:sup>g</cei:sup></cei:subscriptio>
+                        <cei:datatio> Actum est autem Tulne VIII. idus septembris anno incarnationis
+                            domini MCVIII, indictione XV, anno vero regni eius III;</cei:datatio>
+                        <cei:apprecatio> feliciter in Christo; amen. (S I.)</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName reg="Richiza, Frau des Markgrafen Leopold I. von Österreich"
+                    >Richiza</cei:persName>
+                <cei:persName
+                    reg="Heinrich V., röm.-dt. König (1106-1125), Kaiser ab 1111,  Aussteller, Siegler"
+                    >Heinricus divina favente clementia quintus Romanorum rex</cei:persName>
+                <cei:persName reg="Welf V., Herzog von Bayern (1101-1119), Zeuge">dux
+                    Welfo</cei:persName>
+                <cei:placeName reg="Brunnkirchen (GB KR)" type="Ortsindex">Prunne</cei:placeName>
+                <cei:placeName reg="Hofstetten (GB P)" type="Ortsindex">Houistetin</cei:placeName>
+                <cei:persName reg="Gottfried von Chalauuan (?), Zeuge">Gotifridus de
+                    Chalauuan</cei:persName>
+                <cei:persName reg="Eberhard, schenkt Zagalstreifing an Benedikitinerstift Göttweig"
+                    >Eberhart</cei:persName>
+                <cei:persName reg="Albert, Kanzler">Adalbertus cancellarius</cei:persName>
+                <cei:persName reg="Wichbert, Graf, Zeuge">Wichbertus comes</cei:persName>
+                <cei:placeName reg="Theiß (GB KR)" type="Ortsindex">Tizizi</cei:placeName>
+                <cei:persName reg="Mathilde">Mahthilt</cei:persName>
+                <cei:persName reg="Ludwig, Graf, Zeuge">Ludouuicus comites</cei:persName>
+                <cei:persName
+                    reg="Hermann, Graf von Windberg und Radelberg, Formbacher, Bruder von Ulrich  (+ 1122), Zeuge"
+                    >Herimannus comes</cei:persName>
+                <cei:persName
+                    reg="Udo von Gleichen-Reinhausen, Bischof von Hildesheim (1070-+1114), Zeuge"
+                    >episcopus V Hiltensheimensis*</cei:persName>
+                <cei:placeName reg="St. Nikola bei Passau, Augustiner-Chorherrenstift"
+                    type="Stifts- und Klosterindex">Sanctum Nycolaum</cei:placeName>
+                <cei:persName
+                    reg="Reinhard von Blankenburg, Bischof  von Halberstadt (1106-1123), Zeuge"
+                    >episcopus Reginhardus Halberstatensis</cei:persName>
+                <cei:persName reg="Rothard, Erzbischof von Mainz (*) Erzkanzler">Rothardi Moguntini
+                    archicancellarii</cei:persName>
+                <cei:persName reg="Pilgrim">Piligrimus</cei:persName>
+                <cei:geogName reg="Perschling, Fluß (GB NL)">persnich</cei:geogName>
+                <cei:placeName reg="Pfarre Kilb (GB ME)" type="Pfarrindex">parrochia
+                    Choliub</cei:placeName>
+                <cei:placeName reg="Zeiselmauer (GB Tulln)" type="Ortsindex"
+                    >Zeizinmura</cei:placeName>
+                <cei:placeName reg="Höbenbach (GB KR)" type="Ortsindex">Horginbach</cei:placeName>
+                <cei:placeName reg="Pechsiedel, abgekommener Ort, westlich Spratzern (GB P)"
+                    type="Ortsindex">Pecsutilin</cei:placeName>
+                <cei:placeName reg="Fischamend-Dorf (GB SW)" type="Ortsindex"
+                    >Vischamundi</cei:placeName>
+                <cei:placeName reg="Blindorf (GB NL)" type="Ortsindex">Blindindorph</cei:placeName>
+                <cei:persName reg="Ulrich I., Bischof von Passau (1092-1121)">Oudalrici Pataviensis
+                    episcopi</cei:persName>
+                <cei:placeName reg="Heuberg (GB NL)" type="Ortsindex">Houiberch</cei:placeName>
+                <cei:placeName reg="Pöding (GB TU)" type="Ortsindex">Potingin</cei:placeName>
+                <cei:placeName reg="Palt (GB KR)" type="Ortsindex">Palta</cei:placeName>
+                <cei:placeName reg="Stein (GB KR)" type="Ortsindex">Steini</cei:placeName>
+                <cei:placeName reg="Oberwaltersdorf (GB EB)" type="Ortsindex"
+                    >Waltrichistorph</cei:placeName>
+                <cei:placeName reg="Krems (GB KR)" type="Ortsindex">Chremisi</cei:placeName>
+                <cei:persName reg="Kotzendorf (GB HO)">Chozindorph</cei:persName>
+                <cei:persName reg="Leopold III., Markgraf von Österreich (1095-1136), Zeuge"
+                    >Luitpoldi marchionis</cei:persName>
+                <cei:persName reg="Heinrich, Bruder des Otto">Heinricus</cei:persName>
+                <cei:placeName reg="Chetsi, abgekommen, um Asperdorf und Grund (GB HL)"
+                    type="Ortsindex">Chetsi</cei:placeName>
+                <cei:placeName reg="Pellendorf (GB SW)" type="Ortsindex">Pellindorph</cei:placeName>
+                <cei:placeName reg="Fohra (GB ZT)" type="Ortsindex">Voraha</cei:placeName>
+                <cei:persName reg="Diepold III. von Vohburg, Markgraf im Nordgau (+ 1146), Zeuge"
+                    >marchionis Dietpoldi</cei:persName>
+                <cei:persName reg="Agnes, Schwester König Heinrichs V. (1075-1143)">sororis nostre
+                    Agnetis</cei:persName>
+                <cei:persName reg="Pezilinus, Inhaber eines Lehens bei Stein (GB KR)"
+                    >Pecilini</cei:persName>
+                <cei:placeName reg="Maiersch (GB HO)" type="Ortsindex">Miris</cei:placeName>
+                <cei:persName reg="Walram, Bischof von Zeitz (1089 - 1111), Zeuge">Walraban
+                    Cizensis</cei:persName>
+                <cei:persName reg="Gemmundus, Inhaber eines Lehens in der Nähe von Mautern (GB KR)"
+                    >Gemmundum</cei:persName>
+                <cei:persName
+                    reg="Epprechtsberg, abgekommener Ort, zwischen Schaubing und Karlstetten (GB P)"
+                    >Eppinberch</cei:persName>
+                <cei:placeName reg="St. Pölten (GB P)" type="Ortsindex">Sanctum
+                    Yppolitum</cei:placeName>
+                <cei:persName
+                    reg="Hartwig von Ortenburg, Bischof von Regensburg (1106 - + 1126), Zeuge"
+                    >episcopus Hartuuicus Ratisponensis</cei:persName>
+                <cei:placeName reg="Tulln (GB T)" type="Ortsindex">Tulne</cei:placeName>
+                <cei:persName
+                    reg="Eberhard von Schweinfurt, Bischof von Eichstätt (1100 - +1112), Zeuge"
+                    >episcopus Eberhardus Eistetensis</cei:persName>
+                <cei:persName reg="Otto, Bruder des Heinrich">Otto</cei:persName>
+                <cei:persName
+                    reg="Udo von Gleichen-Reinhausen, Bischof von Hildesheim (1079 - 1114), Zeuge"
+                    >Vto Hiltensheimensis</cei:persName>
+                <cei:persName
+                    reg="Eberhard von Schweinfurt, Bischof von Eichstätt (1100 - 1112), Zeuge"
+                    >Eberhardus Eistetensis</cei:persName>
+                <cei:placeName reg="Atzesdorf, abgekommen, westl. von Korneuburg (GB KO)"
+                    type="Ortsindex">Ezinistorph</cei:placeName>
+                <cei:placeName reg="Wieselbruck (GB NL)" type="Ortsindex"
+                    >Wischartisprucca</cei:placeName>
+                <cei:placeName reg="Schauching (GB NL)" type="Ortsindex">Scauuingin</cei:placeName>
+                <cei:persName reg="Ruduwinus, Lehensinhaber in Hundsheim (GB KR)"
+                    >Ruduuinum</cei:persName>
+                <cei:placeName reg="Diendorf am Kamp (GB KR)" type="Ortsindex"
+                    >Tiemindorph</cei:placeName>
+                <cei:placeName reg="Perzendorf (GB ST)" type="Ortsindex">Porcindorph</cei:placeName>
+                <cei:placeName
+                    reg="Stiftskirche Mariae Himmelfahrt des Benediktinerstifts Göttweig (GB KR)"
+                    type="Pfarr- und Stiftskirchenindex">altare sancte Marie in
+                    Chotiuuige</cei:placeName>
+                <cei:persName reg="Luitkart, schenkt Güter an Benediktinerstift Göttweig"
+                    >Luitkart</cei:persName>
+                <cei:placeName reg="Pfarre Krems (GB KR)" type="Pfarrindex">parrochia
+                    Chremisi</cei:placeName>
+                <cei:persName reg="Pero, Kämmerer">Pero camerarius</cei:persName>
+                <cei:placeName reg="Kilb (GB M)" type="Ortsindex">Choliub</cei:placeName>
+                <cei:geogName reg="Donau">Danubii</cei:geogName>
+                <cei:placeName reg="Stanandorf, abgekommen, westlich von Maiersch (GB HO)"
+                    type="Ortsindex">Stanandorph</cei:placeName>
+                <cei:persName reg="Walram (1089 - +1111), Bischof  von Zeitz, Zeuge">episcopus
+                    Walraban Cizensis</cei:persName>
+                <cei:placeName reg="Haderswörth (GB WN)" type="Ortsindex"
+                    >Hadarichisuuerth</cei:placeName>
+                <cei:placeName reg="Loitzmannsdorf (GB GL)" type="Ortsindex"
+                    >Liuzmannistorph</cei:placeName>
+                <cei:placeName reg="Crunnila, abgekommen, um Neunkirchen (GB NK)" type="Ortsindex"
+                    >Chrunnila</cei:placeName>
+                <cei:placeName reg="Zagalstreifing, Stadtteil von Neunkirchen (GB NK)"
+                    type="Ortsindex">Zagalstreiphingin</cei:placeName>
+                <cei:persName reg="Waldo, Edelfreier">Waldo</cei:persName>
+                <cei:placeName reg="Höflein (GB BL)" type="Ortsindex">Houilin</cei:placeName>
+                <cei:placeName reg="Krenglbach (GB WE)" type="Ortsindex"
+                    >Chrengilbach</cei:placeName>
+                <cei:geogName reg="Traisen, Fluß (GB LF, P)">Treisim</cei:geogName>
+                <cei:placeName reg="Eggendorf (GB KR)" type="Ortsindex">Echindorph</cei:placeName>
+                <cei:placeName reg="Stronsdorf (GB LT)" type="Ortsindex"
+                    >Straneistorph</cei:placeName>
+                <cei:placeName reg="Königstetten (GB TU)" type="Ortsindex"
+                    >Chunihohestetin</cei:placeName>
+                <cei:persName reg="Otto, Burggraf von Regensburg (1089 - 1142), Zeuge">Otto comes
+                    Ratisponensis</cei:persName>
+                <cei:placeName reg="Rührsdorf (GB KR)" type="Ortsindex"
+                    >Rotkeristorph</cei:placeName>
+                <cei:placeName reg="Nußdorf (GB P)" type="Ortsindex">Nuzdorph</cei:placeName>
+                <cei:placeName reg="Anzenhof (GB P)" type="Ortsindex">Anzandorph</cei:placeName>
+                <cei:placeName reg="Rottersdorf (GB P)" type="Ortsindex"
+                    >Ratoluistorph</cei:placeName>
+                <cei:geogName
+                    reg="Ganserfeld, abgekommen, kein Hinweis auf Siedlung, östlich Korneurburg (GB KO)"
+                    >Gausaraueld</cei:geogName>
+                <cei:placeName reg="Bruck an der Leihta (GB BL)" type="Ortsindex"
+                    >Aschrichisprucca</cei:placeName>
+                <cei:placeName reg="Perersdorf (GB P)" type="Ortsindex"
+                    >Perhartistorph</cei:placeName>
+                <cei:persName
+                    reg="der andere, zweite Azilinus, Inhaber eines Lehens bei Mautern (GB KR)"
+                    >alium Azilinum</cei:persName>
+                <cei:geogName
+                    reg="Besitz des Erzbistums Salzburg an der Nordostgrenze der Pfarre Mautern (GB KR)"
+                    >Salzburgensis predii</cei:geogName>
+                <cei:placeName reg="Zaina (GB ST)" type="Ortsindex">Zeinaran</cei:placeName>
+                <cei:placeName reg="Inzersdorf ob der Traisen (GB P)" type="Ortsindex"
+                    >Imizinistorph</cei:placeName>
+                <cei:placeName reg="Mühlbach am Manhartsberg (GB HL)" type="Ortsindex"
+                    >Mulipach</cei:placeName>
+                <cei:placeName reg="Hagenbrunn (GB KO)" type="Ortsindex"
+                    >Hagninbrunnin</cei:placeName>
+                <cei:placeName reg="Pfarre Mühlbach (GB HL)" type="Pfarrindex">parrochia
+                    Mulipach</cei:placeName>
+                <cei:placeName reg="Petronell (GB BL)" type="Ortsindex">Sanctam
+                    Petronellam</cei:placeName>
+                <cei:placeName reg="Kierling (GB KN)" type="Ortsindex">Chirchlingin</cei:placeName>
+                <cei:placeName reg="Goggendorf (GB HL)" type="Ortsindex">Gogindorph</cei:placeName>
+                <cei:placeName reg="Paudorf (GB KR)" type="Ortsindex">Pumannestorph</cei:placeName>
+                <cei:placeName reg="Ravelsbach (GB HL)" type="Ortsindex"
+                    >Ramuoldespach</cei:placeName>
+                <cei:placeName reg="Parisdorf (GB HL)" type="Ortsindex">Boreistorph</cei:placeName>
+                <cei:persName
+                    reg="Hartwig von Ortenburg, Bischof von Regensburg (1106 - 1126), Zeuge"
+                    >Hartuuicus Ratisponensis</cei:persName>
+                <cei:geogName reg="Tanninger, Einzelgehöft, KG Windpassing (GB AM)"
+                    >Tanna</cei:geogName>
+                <cei:placeName reg="Mattighofen (?) (GB MH)" type="Ortsindex"
+                    >Matkouua</cei:placeName>
+                <cei:placeName reg="Maria Gugging (GB KN)" type="Ortsindex"
+                    >Guggingin</cei:placeName>
+                <cei:placeName reg="Marbach, Rotte, Gde. Kirchberg an der Pielach (GB P)"
+                    type="Ortsindex">Moraha</cei:placeName>
+                <cei:placeName reg="Pischelsdorf (GB TU)" type="Ortsindex"
+                    >Piscoluistorph</cei:placeName>
+                <cei:geogName reg="Paltbach, Bach (GB KR)">rivus Palta</cei:geogName>
+                <cei:placeName reg="Thern, Ober-, Unter- (GB HL)" type="Ortsindex"
+                    >Terni</cei:placeName>
+                <cei:placeName reg="Bad Reichenhall (Bayern)" type="Ortsindex">Halla</cei:placeName>
+                <cei:placeName reg="Krustetten (GB KR)" type="Ortsindex"
+                    >Chrucistetin</cei:placeName>
+                <cei:placeName reg="Thallern (GB KR)" type="Ortsindex">Talaran</cei:placeName>
+                <cei:placeName reg="Hainburg (GB BL)" type="Ortsindex">Heiminburch</cei:placeName>
+                <cei:geogName reg="Sendelbach, Waldbach, mündet in Paltbach (GB KR)"
+                    >Chrumbilbach</cei:geogName>
+                <cei:persName reg="Reginald, Inhaber eines Lehens bei Zeiselmauer (GB TU)"
+                    >Reginoldi</cei:persName>
+                <cei:placeName reg="Ober- Wagram (GB P)" type="Ortsindex">Wagrein</cei:placeName>
+                <cei:placeName reg="Stattersdorf (GB P)" type="Ortsindex"
+                    >Stoidratistorph</cei:placeName>
+                <cei:placeName reg="Frauendorf an der Schmida (GB HL)" type="Ortsindex"
+                    >Frouuindorph</cei:placeName>
+                <cei:persName reg="Azilinus, Inhaber eines Lehens in der Nähe von Mautern (GB KR)"
+                    >Azilinum</cei:persName>
+                <cei:placeName reg="Amstall (GB KR)" type="Ortsindex">Humistal</cei:placeName>
+                <cei:placeName reg="Flinsbach (GB P)" type="Ortsindex">Flinspach</cei:placeName>
+                <cei:placeName reg="Hetzmannsdorf (GB HL)" type="Ortsindex"
+                    >Hezimannestorph</cei:placeName>
+                <cei:placeName reg="Staudach, Gde. Leonding (GB LL)" type="Ortsindex"
+                    >Studaha</cei:placeName>
+                <cei:placeName reg="Poigen (GB HO)" type="Ortsindex">Piugin</cei:placeName>
+                <cei:persName reg="Egilbert, Archipresbyter">Egilberti
+                    archipresbiteri</cei:persName>
+                <cei:placeName reg="Pfarra Pyhra (GB NL)" type="Pfarrindex">Parrochia
+                    Pirchaha</cei:placeName>
+                <cei:persName reg="Heinrichus, schenkt Gut Haderwörth an Benediktinerstift Göttweig"
+                    >Heinricus</cei:persName>
+                <cei:geogName
+                    reg="Werd,  Insel und abgekommener Ort in den Donauauen östlich von Mautern, Nähe Palt (GB KR)"
+                    >Mutheimeruuerth</cei:geogName>
+                <cei:placeName reg="Mautern (GB KR)" type="Ortsindex">Mùtaran</cei:placeName>
+                <cei:placeName reg="Furth (GB KR)" type="Ortsindex">Uurta</cei:placeName>
+                <cei:placeName
+                    reg="Aschach an der Donau (GB EF) oder Aschach an der Steyr (GB SR) (?)"
+                    type="Ortsindex">Aschaha</cei:placeName>
+                <cei:placeName reg="Lanzendorf (GB P)" type="Ortsindex">Lanzindorph</cei:placeName>
+                <cei:placeName reg="Pfarre Mautern (GB KR)" type="Pfarrindex">parrochia
+                    Mutaran</cei:placeName>
+                <cei:placeName reg="Haunsberg bei Laufen (Bayern)" type="Ortsindex"
+                    >Hunisberch</cei:placeName>
+                <cei:placeName reg="Sulzbach (GB BD)" type="Ortsindex">Sulzbach</cei:placeName>
+                <cei:placeName reg="Greitsans, abgekommen, nördlich Freischling (GB Langenlois)"
+                    type="Ortsindex">Gritsanas</cei:placeName>
+                <cei:placeName reg="Kottes (GB ZT)" type="Ortsindex">Chotanas</cei:placeName>
+                <cei:placeName reg="Ötz (GB KR)" type="Ortsindex">Obizi</cei:placeName>
+                <cei:placeName reg="Mauer bei Melk (GB ME)" type="Ortsindex">Muri</cei:placeName>
+                <cei:placeName reg="Haindorf am Kamp (GB KR)" type="Ortsindex"
+                    >Hunindorph</cei:placeName>
+                <cei:placeName
+                    reg="Chellergnannin, abgekommener Ort, zwischen Hundsheim und Rossatzbach (GB KR)"
+                    type="Ortsindex">Chellergnannan</cei:placeName>
+                <cei:persName reg="Altmann, Bischof von Passau (1065-1091)">episcopus
+                    Altmannus</cei:persName>
+                <cei:persName
+                    reg="Adalbert Hiersolimitanus, vormaliger Inhaber des Lehens der Insel Mutheimerwerth"
+                    >Adalberto</cei:persName>
+                <cei:persName reg="Ekkiricus, Inhaber eines Lehens in der Nähe von Mautern (GB KR)"
+                    >Ekkirici</cei:persName>
+                <cei:persName reg="Friedrich">Fridericus</cei:persName>
+                <cei:placeName reg="Hundsheim (GB KR)" type="Ortsindex">huntisheim</cei:placeName>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Diese Insel wurde dem Stifte c. 1110 für 6 Mark
+                        von Adalbertus Hiersolimitanus mit allen Rechten vollständig abgetreten
+                        (Karlin, 59 nr. 254) und erhielt später den blossen Namen Werd. Das daselbst
+                        vom Stifte angelegte Dorf gleichen Namens wurde durch die zahlreichen
+                        Ueberschwemmungen der Donau im Laufe der Jahrhunderte hart mitgenommen,
+                        weshalb die Bewohner das heute verschollene Dorf am Ende des 18. Jahrh. ganz
+                        verliessen und in das nahe Dorf Palt übersiedelten. Die Grundstücke
+                        nordöstlich von Palt V. O. W. W. führen heute noch den Flurnamen: ê.
+                        Ausserdem werden zwei wohl schon früher eingegangene Ansiedelungen
+                        Kotweigeraw und Wambaseraw 1454 Juni 6 und 1459 November 4 urkundlich
+                        erwähnt, welche nahe bei dem Orte Werd östlich von Mautern lagen. </cei:note>
+                    <cei:note><cei:sup>2</cei:sup> Das jetzige Brunnkirchen, Gem. Oberfucha, östlich
+                        von Mautern nahe bei der Donau. Die Ansiedelung bestand im 15. Jahrh. aus
+                        dem oberen und unteren Brunnhofe und gieng 1529 im Türkenkriege ein. Seit
+                        dieser Zeit bestand dort bloss der sogenannte Brunnhof, welcher zum Stifte
+                        gehörte. Die daselbst 1522 erbaute Kapelle wurde, nachdem sie 1617 von Abt
+                        Georg Falbius hergestellt worden war, 1784 zur Pfarrkirche
+                        erhoben.</cei:note>
+                    <cei:note><cei:sup>3</cei:sup> Ein Eppenberg liegt nordwestlich von
+                        Albrechtsberg, V. O. M. B. Da jedoch Weingärten daselbst erwähnt werden und
+                        die Reihenfolge auf das V. O. W. W. schliessen lässt, so ist die Annahme
+                        berechtigt, welche es mit dem verschollenen Epprechtsberg zwischen Schaubing
+                        und Karlstetten identificiert, zumal dieses im Göttweiger Urbar von 1322
+                        (Urbar B.) S. 16 als Eppenberg erscheint. </cei:note>
+                    <cei:note><cei:sup>4</cei:sup> Wieselbruck, V. O. W. W. südlich von
+                        Weissenkirchen a. d. Perschling.</cei:note>
+                    <cei:note><cei:sup>5</cei:sup> Böding, Dorf westlich von Würmla, V. O. W. W. </cei:note>
+                    <cei:note><cei:sup>6</cei:sup> Ober-Waltersdorf südlich von Traiskirchen an der
+                        Triesting, V. U. W. W.</cei:note>
+                    <cei:note><cei:sup>7</cei:sup> Loitzmannsdorf, Rotte, bei Altendorf östlich von
+                        Gloggnitz, V. U. W. W. Vgl. nr. 1. </cei:note>
+                    <cei:note><cei:sup>8</cei:sup> Die erste Person Pluralis weist darauf hin, dass
+                        von Seite des Stiftes Göttweig eine Vorlage der königlichen Kanzlei
+                        unterbreitet wurde, welche aus Versehen diese subjective Fassung des Diploms
+                        aufnahm. </cei:note>
+                    <cei:note><cei:sup>9</cei:sup> Etwa der Weiler Krennling, gehörig zum Dorfe
+                        Klotzing bei Witzersdorf in Ober-Oest.? </cei:note>
+                    <cei:note><cei:sup>10</cei:sup> Tanning E.-H., O.-G. Windpassing, V. O. W. W. In
+                        demUrbar von 1302 wird S. 2, Col. 2 ein Rugerus in dem Tannech als zu dem
+                        Officium super Ybsveld und Perhartsdorf gehörig erwähnt. </cei:note>
+                    <cei:note><cei:sup>11</cei:sup> Krenglbach nordwestlich von Wels in Ober-Oest. </cei:note>
+                    <cei:note><cei:sup>12</cei:sup> Oetz bei Oetzbach südlich von Oberranna, V. O.
+                        M. B.</cei:note>
+                    <cei:note><cei:sup>13</cei:sup> Muthsthal, Rotte, südlich bei Mühldorf, V. O. M.
+                        B. </cei:note>
+                    <cei:note><cei:sup>14</cei:sup> Fohra, Dorf südwestlich von Gschwendt, V. O. M.
+                        B. </cei:note>
+                    <cei:note><cei:sup>15</cei:sup> Poigen, Dorf nordwestlich von Horn, V. O. M. B. </cei:note>
+                    <cei:note><cei:sup>16</cei:sup> Auch Greitschan, Grietschan, Greitschlag, lag
+                        zwischen Maiersch, Kotzendorf und Freischling, südöstlich von Gars, wohin
+                        der verödete Ort eingepfarrt war. Im 13. Jahrhunderte belehnte das Hochstift
+                        Passau den Rapoto von Schönberg unter anderem auch mit dem Zehente daselbst.
+                        Als letzterer um die Mitte des 13. Jahrhunderts starb, war es aber bereits
+                        verödet. 1504 wird es im Banntaiding von Maiersch. als Greitschlag erwähnt,
+                        wiewohl es nicht mehr besiedelt war (Bl. f. Landesk. XVII, 166). </cei:note>
+                    <cei:note><cei:sup>17</cei:sup> Auch Standorf, Staindorf und Steindorf, lag am
+                        linken Ufer des Kamp gegenüber von Buchberg, südlich vom Orte Zitternberg,
+                        wo jetzt der sogenannte Bankelwald sich befindet. Im Banntaiding von
+                        Maiersch wird es als nächst dem Bankel (,pankl') gelegen erwähnt, war aber
+                        bereits verödet (Bl. f. Landesk. XVII, 205). -</cei:note>
+                    <cei:note><cei:sup>18</cei:sup> Reinhard von Blankenburg 1106 März 31 - † 1123
+                        Febr. 27-März 2 (Gams, Series 280). </cei:note>
+                    <cei:note><cei:sup>19</cei:sup> Walram 1089 - † 1111 April 12 (Gams,
+                        296).</cei:note>
+                    <cei:note><cei:sup>20</cei:sup> Udo von Gleichen-Reinhausen 1079 - † 1114 Oct.
+                        19 (Gams, 281).</cei:note>
+                    <cei:note><cei:sup>21</cei:sup> Hartwig von Ortenburg 1106 - † 1126 März 3 [oder
+                        auch nachanderer Version Mai 17] (Gams, 304). </cei:note>
+                    <cei:note><cei:sup>22</cei:sup> Eberhard von Schweinfurt 1100 - † 1112 Jänner 6
+                        (Gams, 274).</cei:note>
+                    <cei:note><cei:sup>a</cei:sup> Der Oberschaft des <cei:quote>d</cei:quote> auf
+                        Rasur. </cei:note>
+                    <cei:note><cei:sup>b</cei:sup><cei:quote>Sca</cei:quote> auf Rasur. </cei:note>
+                    <cei:note><cei:sup>c</cei:sup> Das Kürzungszeichen auf Rasur.</cei:note>
+                    <cei:note><cei:sup>d</cei:sup><cei:quote>to</cei:quote> weggerieben. </cei:note>
+                    <cei:note><cei:sup>e</cei:sup> Folgt kleinere und gedrängtere Schrift von
+                        gleicher Hand. </cei:note>
+                    <cei:note><cei:sup>f</cei:sup><cei:quote>E</cei:quote> in Capitale und von
+                        anderer Hand geschrieben. </cei:note>
+                    <cei:note><cei:sup>g</cei:sup> Das Titelmonogramm ist unter die Signumzeile
+                        gestellt und zeigt deutlich den Vollziehungsstrich.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/DE-BayHStA/KURaitenhaslach/1034_05_08</atom:id>
+    <atom:title/>
+    <atom:published>2009-03-14T19:58:59+01:00</atom:published>
+    <atom:updated>2010-12-11T22:16:57+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" id="313317" type="charter"
+            b_name="Raitenhaslach OCist" n="Raitenhaslach OCist$1">
+            <cei:body>
+                <cei:idno id="1034_05_08" old="313317">1034 05 08</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Konrad II. schenkt seinem Eigenmann Pabo eine Edelhufe zu
+                        Waltendorf (LK Bogen) im Gau "Filisarihart" in der Grafschaft des Markgrafen
+                        Otto, sowie einige bisher zu seinem Lehen gehörende Hörige.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Beratzhausen</cei:placeName>
+                        <cei:dateRange to="10340508" from="10340508">8. Mai 1034</cei:dateRange>
+                    </cei:issued>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VIll idus maii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Druck: MB 31a (1836), 315 Nr. 166 zu 1034 Mai 19 aus
+                                B.</cei:bibl>
+                            <cei:bibl>MG. DDK. II.(1909), 291 Nr. 214 aus B.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Reg. u. Erl.: Stumpf (1865) Nr. 2062.</cei:bibl>
+                            <cei:bibl>Bresslau, Jahrb. Konrads II. (1879), 108.</cei:bibl>
+                            <cei:bibl>Klebel, Archival. Ztschr. 44 (1936), 228.</cei:bibl>
+                            <cei:bibl>Dumrath, TB (1938), 107 Anm. c.</cei:bibl>
+                            <cei:bibl>Böhmer-Appelt, Reg.Imp. III, 1 (1951), 106 Nr. 222.</cei:bibl>
+                            <cei:bibl>VN 79 (1953), 54.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Der Eintrag in C trägt den Randvermerk des Klosterarchivars P. Eugen
+                            Reitter (2. Hälfte 18. Jh.): "Originale non superest." Die Datierung und
+                            Signumzeile finden sich nur in B; sie sind von anderer (gleichzeitiger)
+                            Hand nachgetragen und zwar zuerst die Datierung, darauf die Signumzeile
+                            mit Monogramm. - Zu Diktat und Monogramm vgl. MG. DDK. IL 292 u.
+                            Böhmer-Appelt 106. Das Diplom kam vermutlich mit der Schenkung von
+                            Waltendorf durch den Ministerialen Rafold von Schönberg gleich den
+                            Diplomen von 1051 und 1079 (UB 2 u. 3) in den Besitz des Klosters (vgl.
+                            UB 20 u. 21). - In einem in den 80er Jahren des 12. Jh. in B
+                            eingetragenen Besitzverzeichnis des Klosters Raitenhaslach heißt es von
+                            Waltendorf ausdrücklich "trans Danubium". Wir glauben daher die von
+                            Dumrath a. a. 0. (auf Grund einer Mitteilung von Msg. J. B. Lehner,
+                            Diözesanarchivar von Regensburg) gebrachte Ortsbestimmung übernehmen zu
+                            können.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB von ca. 1180 p.
+                            15 (B). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB Anfang 13. Jh. p.
+                            17 (C)</cei:witness>
+                    </cei:witListPar>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                    <cei:witnessOrig>
+                        <cei:figure n="BayHStA-KURaitenhaslach_10340508_0001_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~BayHStajpgweb._~Raitenhaslach._~BayHStA-KURaitenhaslach_10340508_0001_v.jpg"
+                                >BayHStA-KURaitenhaslach_10340508_0001_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="BayHStA-KURaitenhaslach_10340508_0001_r">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~BayHStajpgweb._~Raitenhaslach._~BayHStA-KURaitenhaslach_10340508_0001_r.jpg"
+                                >BayHStA-KURaitenhaslach_10340508_0001_r.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et individue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Chůnradus divina favente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Omnium<cei:sup>a</cei:sup> Christi nostrique fidelium tam
+                            futurorum quam et presentium universitati notum esse
+                            cupimus,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob interventum ac peticionem dilecte coniugis
+                            nostre Gisile, imperatricis videlicet auguste et amantissime nostre,
+                            prolis Haeinrici regis, necnon et Pilgrimi Coloniensis archiepiscopi
+                            venerandi quoddam nostri iuris predium, id est unum nobilis viri mansum
+                            in loco Waltendorf dicto in pago Filisarihart et in comitatu Ottonis
+                            marchionis situm, cuidam nostri scilicet iuris servo Pabo dicto </cei:narratio>
+                        <cei:dispositio>cum omni lege et utilitate ad idem predium pertinente in
+                            proprium tradidimus, areis, edificiis, agris, campis, pratis, pascuis,
+                            exitibus et reditibus, terris cultis et incultis, silvis, venationibus,
+                            viis et inviis, aquis aquarumque decursibus, piscationibus, molis,
+                            molendinis, quesitis et inquirendis necnon cum omni commoditate, que
+                            scribi aut nominari potest, in proprietatem tradidimus. Insuper etiam
+                            eidem P. VIII<cei:sup>b</cei:sup> de suo beneficio mancipia, id est
+                            Willinum, Rvozinum, Regilam, Sickam, Lůzam et iterum Lůizam, Enzam, in
+                            proprium ius ac potestatem concessimus eo videlicet tenore, ut
+                            prescriptus P. de prenominato predio et mancipiis liberam deinceps
+                            habeat potestatem tenendi, tradendi, vendendi, commutandi vel quicquid
+                            sibi placuerit faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut<cei:sup>c</cei:sup> hec nostre donationis
+                                auctoritas<cei:sup>d</cei:sup> stabilis et inconvulsae omni
+                            permaneat evo, hanc paginam inde conscriptam sigilli nostri inpressione
+                            iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/><cei:lb/>Signum<cei:sup>f</cei:sup> domni Chůnradi
+                            (M.) invictissimi Romanorum imperatoris augusti.</cei:subscriptio>
+                        <cei:datatio><cei:lb/><cei:lb/>Data VIl<cei:sup>o</cei:sup>l idus maii anno
+                            dominice incarnationis
+                                M<cei:sup>o</cei:sup>XXX<cei:sup>o</cei:sup>III<cei:sup>o</cei:sup>I,
+                            indictione II, anno autem domni Chůnradi secundi regnantis
+                                X<cei:sup>o</cei:sup>, imperantis vero VIII; actum
+                            Bereharthuse;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Krausen, Edgar, Die Urkunden des Klosters Raitenhaslach,
+                            1034-1350, München, 1959, Nr. 1, S. 1-2</cei:bibl>
+                    </cei:sourceDescRegest>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Krausen, Edgar, Die Urkunden des Klosters Raitenhaslach,
+                            1034-1350, München, 1959, Nr. 1, S. 1-2</cei:bibl>
+                    </cei:sourceDescVolltext>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note>(a) Omniumque BC</cei:note>
+                    <cei:note>(b) namentlich aufgeführt werden nur sieben mancipia (c)
+                        übergeschrieben B</cei:note>
+                    <cei:note>(d) auctoritatis BC</cei:note>
+                    <cei:note>(e) inconvulsum BC</cei:note>
+                    <cei:note>(f) Signumzeile folgt in B erst auf die Datierung; beide fehlen
+                        C.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

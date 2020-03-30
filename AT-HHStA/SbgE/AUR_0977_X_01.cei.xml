@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_0977_X_01</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:23:51+02:00</atom:published>
+    <atom:updated>2010-04-27T14:00:04+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575556"
+            n="HHStA-Sbg E$116" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S 103-106.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 103.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_0977_X_01" old="575556">AUR 0977 X 01</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto II. bestätigt der Salzburger Kirche unter Eb Friedrich
+                        das Erentrudiskastell mit den dazu gehörigen Gütern, Jagd und Fischerei von
+                        der Martinskirche an beiden Ufern der Salzach aufwärts bis zum Schwarzbach
+                        (westlich Golling) und weiter vom Schwarzbach bis zur Dientner- und
+                        Gasteinerache, ferner den Forst am Erlbach (südlich vom Zellersee) bis zum
+                        Wassenberg (heute Sparber), Diendlbach (am Abersee) und Zifanken (östlich
+                        Henndorf) zum Nockstein, sowie viele namentlich aufgeführte Besitzungen in
+                        den südöstlichen Marken, wie sie von seinen Vorgängern geschenkt worden
+                        waren.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Passau</cei:placeName>
+                        <cei:dateRange to="9771001" from="9771001">1. Oktober 977</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_977_X_101">
+                            <cei:graphic url="AUR_977_X_101.jpg">AUR_977_X_101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth>
+                            <cei:sealDesc>Vom Siegel nur mehr ein Rest vorhanden, der kein Bild
+                                erkennen läßt.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 68'
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>Data kal. Octub.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 057 - Juvavia Anh. 200 n<cei:sup>o</cei:sup> 75 aus A
+                                zu 978 = Kukuljevic, Cod. dipl. Croatiae 1, 200 n° 244. - Zahn,
+                                Steir. U.-B. 1, 32 n<cei:sup>o</cei:sup> 27 teilw. aus A. - Mon.
+                                Germ. Dipl. 2, 185 n° 165 aus A. - v. .Jaksch, Mon. Carinth. 3, 59
+                                n° 147 teilw. aus A.Böhmer, Reg. n° 535 zu 978. - Stumpf, RK n°
+                                714.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sanctae et individuae trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina favente gratia imperator
+                            augustus</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Oportot * nos, qui divino sumus munere quodammodo pre ceteris
+                            mortalibus sublimati, eius in omnibus parere mandatis, cuius clementia
+                            prelati sumus; unde loca deo cuius gratia precellimus * dicata, si
+                            nostrae dationis et confirmationis augeantur stabilianturque
+                            auctoritate, et ad presentem vitam temporaliter transigendam et ad
+                            eternam feliciter obtinendam profuturum liquido credimus.</cei:arenga>
+                        <cei:publicatio>Quapropter * omnium nostrorum fidelium tam presentium quam
+                            et futurorum noverit sollertia,</cei:publicatio>
+                        <cei:narratio>qualiter Fridaricus Salzpurgensis aecclesiae venerabilis
+                            archiepiscopus ad nos veniens nostram postulavit serenitatem, ut ob
+                            mercedis nostrae augmentum quedam loca, quae nostri antesessores ad
+                            aeclesiam sancti Petri * sanctique Rodberti confessoris Christi, ubi
+                            ipse corporaliter requiescit, cui predictus * archiepiscopus preesse
+                            videtur, fidelium suorum petitionibus concesserunt, a nobis etiam
+                            firmarentur. Cuius petitioni ob amorem domini nostri Iesu Christi et ob
+                            remedium animarum antecessorum nostrorum ac beate memoriae domni ac
+                            genitoris nostri nostraeque etiam mercedis augmentum libenti animo
+                            assensum prebentes id ita fieri decrevimus.</cei:narratio>
+                        <cei:dispositio>Ideoque firmamus ad predictum monasterium sancti Petri
+                            sanctique Rodperti primitus castellum sanctae Erindrudis cum omnibus
+                            iuste ac legaliter ad idem castellum pertinentibus, cum curtibus
+                            venationibus piscationibus, id est ab aeclesia sancti Martini, que
+                            respicit contra monticulum, qui vulgo Nochstein nuncupatur, sursum ex
+                            utraque parte fluminis Iuaris nominati usque in rivolum Quartinespach,
+                            insuper etiam de ipso rivolo venationem piscationemqne ex utraque parte
+                            prenotati fluminis ad sanctum Maximilianum usque dum Tuontina ex
+                            aquilonali parte fluit in predictum flumen atque rivolus Gastuna ex
+                            australi parte. Ad haec etiam firmamus ad prefatum monasterium luuauense
+                            forestem a termino, qui in Pisoncia incipit, hoc est de rivolo Erilipach
+                            usque ad acutum montem, qui diutisce vocatur
+                                Vuassinperch<cei:sup>a)</cei:sup> prope Iscalam in illo loco, ubi
+                            termimis forestis Ratpotoni comitis se de isto disiungit, et in
+                            aquilonali parte de rivolo Tinnilinpach usque in summitatem montis
+                            Ciruencus nominati et de iam dicto monte Uuassinperch usque ad prefatum
+                            monticulum Nochstein: illa montana omnia, que in potestate antecessorum
+                            nostrorum fuerunt et nostra, ad iam dictum monasterium firmamus; curtem
+                            quoque * Piscofesdorf cum omnibus iure ad eandem cortem pertinentibus
+                            atque piscationem in lacu Atarseo vocitato<cei:sup>b)</cei:sup> sine
+                            alicuius hominis contradictione, id est illos quondam predictos *
+                            tractus XII, sicut dominicalis terra se ad Poumgartin ipso lacu
+                            adiungit, cum piscatione in eodem lacu ad Atarhof nostri iuris
+                            pertinenti *. Firmamus etiam istas curtes in proprium, quae antea inibi
+                            in beneficium fuerunt sive ex parte antecessorum
+                                nostrorum<cei:sup>c)</cei:sup> * seu ex alterius * ibi antea
+                            beneficiata essent, quarum haec sunt nomina: ad Scafarefeld curtem et
+                            aeclesiam cum decima, et sicut ille terminus in australi parte incipit,
+                            qui uuagreini dicitur, ultra Ipisam et in occidentali usque dum ducitur,
+                            ubi Urula fluit in prefatam amnem, et quicquid in orientali parte iam
+                            dicti fluminis habere videmur, per totum firmamus ad predictum
+                            monasterium exceptis duobus piscatoribus cum eorum ruribus in aquilonali
+                            parte; ad Megilicham tertiam partem civitatis, et sicut ille terminus se
+                            disiungit de illis rebus in occidentali parte, quas quondam ad sanctum
+                            Emmerammum nostri antecessores tradiderunt, totum in termino orientali
+                            ad prefatum monasterium firmamus exceptis hobis tribus; ad Arnesdorf id
+                            est ad Uuachauuam, quicquid ibi habuimus, cum vineis et saginatione et
+                            monte querceato pratisque inter ipsum querceatum montem sitis et inter
+                            silvam Paltam vel quicquid in ipsis silvis habuimus, totum in usum
+                            predicti monasterii firmamus; ad Crunzitam quicquid suiperfuit hobis V,
+                            quas nostri antecessores * Deotrico dederunt, hoc sunt hobae L, ad
+                            Liubinam, ad Holunpurch tertiam partem civitatis cum vineis XXX et hobis
+                            XV sine curtili terra, ad Treisimam civitatem et aeclesiam sancti
+                            Martini cum decima, et sursum in australi atque in orientali parte
+                            fluminis Treisima usque ad Potilinesprunnin et sicut Deotrichespach
+                            fluit contra duos acervos, qui in orientali parte campi positi sunt, et
+                            axinde usque Danubium in illum locum, qui Pripoliza<cei:sup>d)</cei:sup>
+                            dicitur, et ita sursum prope Danubium, cum agris pratis pascuis, cultis
+                            et incultis, auvis locis piscationum, que deutisce arichsteti vocantur,
+                            et ita sursum usque ad illam marcham, quae inter Treisimam et Holunpurch
+                            utrasque res dividendo discernit; ad Penninuuanc quicquid ibi habuimus,
+                            ad eclesiam Anzonis, ad Uuitinesperch quicquid ibi habuimus excepto quod
+                            Mosogouuoni nostri antecessores dederunt, hoc est
+                                hobas<cei:sup>e)</cei:sup> C, ad aeclesiam Ellodis, aeclesiam
+                            Mingonis prespiteri, ad Guntpoldesdorf quicquid ibi habuimus. ad Rapam,
+                            ad Sabariam civitatem et ecelesiam cum decima et theloneis, vineis agris
+                            pratis pascuis forestibus montibus cunctisque ad e[a]ndem civitatem iure
+                            pertinentibus, ad siccam Sabariam, ad Penninchaha, ad Mosapurch
+                            abbatiam, ubi sanctus Adrianus * requiescit, et * nonam * de omnibus
+                            nostris curtibus * cum theloneo in civitate et piscina, uti nostri
+                            antecessores ad iam dictum monasterium dederunt; ad Salapiugin curtem
+                            cum CCC mansis et totidem vineis et quicquid ibi habuimus; aeclesiam
+                            Quartinaha, eclesiam ad Gensi, ad V aeclesias cum theloneis * vineis
+                            forestibus et cum omnibus, que ab antecessoribus nostris * beneficiata
+                            erant, firmamus in proprium; ad Ruginesfeld quicquid ibi habuimus, ad
+                            Durnauua eclesiam, quo est constructa in honore sancti Rodperti
+                            ceterorumque * quam plurimorum martirum, cum monte Paruoz dicto, cum
+                            vineis agris pratis silvis et cum omnibus que ibi videmur habere circa
+                            montem sitis; ad Pettouiam eclesiam cum decima et duas partes civitatis,
+                            cum banns theloneis et ponte * et insuper tertiam partem civitatis, que
+                            proprietas fuit Carantani eique diiudicatum erat, eo quod reus
+                            maiestatis * criminatus est constare, exceptis illis rebus que suae
+                            uxori * concessae fiere, id est in superiori
+                                civitate<cei:sup>f)</cei:sup> in orientali parte civitatis *
+                            curtilem locum, ubi nova eclesia incepta est, atque inferiori civitate
+                            in occidentali parte civitatis ipsius illa curtilia loca, que in
+                            potestate tunc habuit cum hobis C et vineis X; in Zistanesfeld *
+                            firmamus ad prefatum monasterium sicut acervi duo prope Trauum positi
+                            sunt ex summitate termini, qui uuagreini dicitur, et * sicut ille
+                            uuagreini tendit, usque dum Treuuina fluit in amnem Trauum; ad Sulpam
+                            civitatem Zuip vocatam cum omnibus iure ad eandem civitatem
+                            pertinentibus cum quercetis et campis, sicut illa fossa, que incipit de
+                            Mora et tendit usque ad Luonznizam, et ut Luonzniza et Sulpa de alpibus
+                            fluunt, quicquid inter has duas amnes habemus, totum ad predictum
+                            monasterium firmamus, et forestum Svsel cum panno sicut in potestate
+                            antecessorum nostrornm fuit *, venationemque iu dulcis vallibus, quam
+                            populus cum sacramentis in poteatatem antecessorum nostrorum affirmavit,
+                            id est ebdomadas III ante equinoctium autumnale ac postea usque ad
+                            natalem sancti Martini ad venandos ursos et apros, ad Luminicham iuxta
+                            Rapam, quicquid ibi habuimus, ad Nezilinpach, ad Sabnizam, eclesiam et
+                            cortem cum mansis L, item ad Rapam, ad Tudleipin, ad Labantam eclesiam
+                            sancti Andree uti antecessores nostri ad iam dictum monasterium
+                            firmaverunt, cum decima, ut ibi consuetudo est, et de cortibus, quas
+                            nostri antecessores ibi habuerunt, decimam ut in sacris codicibus
+                            habetur, necnon et saginationem in omni Labanta valle excepto monte
+                            Forest dicto; * ligna quoque secanda ad eclesiam et ad aliud servitium
+                            episcopi tam in ipso monte quam in aliis omnibus montibus firmamus et
+                            unam fossam ruderis in monte Gamanara semper per totum annum habenda(m),
+                            ad Curcizam beneficium Engilpaldi; ad Carantanam eclesiam sancte Mariae
+                            cum decima sicut eclesiasticus precipit ordo, de cortibus, que
+                            temporibus antecessorum nostrorum ad Carantanam civitatem pertinebant et
+                            adhuc pertinent *, ea lege ac ratione, ut * deinceps predictae res ad
+                            prenominatam sancti Petri sanctique Rotperti * iure perpetuo permaneant
+                            aeclesiam absque ullius hominis contradictione *.</cei:dispositio>
+                        <cei:corroboratio>Et ut haec auctoritas nostrae confirmationis firmior
+                            habeatur et per futura tempora * verius credatur *, hanc cartam scribi
+                            manuque propria firmantes anuli nostri impressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Ottonis imperatoris augusti. (MP)
+                            <cei:lb/>Gerbertus cancellarius ad vicem Uuilligisi archicapellani
+                            notavi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data kal. Octub.<cei:sup>g)</cei:sup> anno dominice
+                            incarnacionis DCCCCLXXVIII, regni vero domni Ottonis invictissimi
+                            imperatoris augusti XVII<cei:sup>h)</cei:sup><cei:sup>,</cei:sup>
+                            imperii autem X, indict. VI; actum in civitate Patauii.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup><cei:quote>Wássenperg</cei:quote> Randglosse saec.
+                        XV C. <cei:sup>b</cei:sup><cei:quote>to</cei:quote> aus
+                            <cei:quote>tu</cei:quote> korr. A. <cei:sup>c</cei:sup> folgt eine
+                        Rasur, durch die <cei:quote>vel nostra</cei:quote> (vgl. n° 34) getilgt
+                        wurde A. <cei:sup>d</cei:sup> A.
+                            <cei:sup>e</cei:sup><cei:quote>hob</cei:quote>. A. <cei:sup>f</cei:sup>
+                        auf Rasur A. <cei:sup>g</cei:sup> A.
+                            <cei:sup>h</cei:sup><cei:quote>XIIII</cei:quote> C.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

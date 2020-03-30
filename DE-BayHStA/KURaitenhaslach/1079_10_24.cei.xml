@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/DE-BayHStA/KURaitenhaslach/1079_10_24</atom:id>
+    <atom:title/>
+    <atom:published>2009-03-14T19:59:08+01:00</atom:published>
+    <atom:updated>2009-08-29T16:28:13+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Raitenhaslach OCist" id="313342"
+            n="Raitenhaslach OCist$3" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Krausen, Edgar, Die Urkunden des Klosters Raitenhaslach,
+                            1034-1350, München, 1959, Nr. 3, S. 3-5</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Krausen, Edgar, Die Urkunden des Klosters Raitenhaslach,
+                            1034-1350, München, 1959, Nr. 3, S. 3-5</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1079_10_24" old="313342">1079 10 24</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich IV. schenkt seinem Ministerialen Rafold eine
+                        Königshufe zu Wald (LK Altötting) im Isengau sowie eine Magd
+                        Adelheid.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10791024" from="10791024">24. Oktober
+                            1079</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:figure n="BayHStA-KURaitenhaslach_10791024_0003_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~BayHStajpgweb._~Raitenhaslach._~BayHStA-KURaitenhaslach_10791024_0003_v.jpg"
+                                >BayHStA-KURaitenhaslach_10791024_0003_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="BayHStA-KURaitenhaslach_10791024_0003_r">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~BayHStajpgweb._~Raitenhaslach._~BayHStA-KURaitenhaslach_10791024_0003_r.jpg"
+                                >BayHStA-KURaitenhaslach_10791024_0003_r.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB von ca. 1180 p.
+                            14 (B). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB Anfang 13. Jh. p.
+                            16 (C). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB 14. Jh. f. 9 (D). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Eintrag 15. Jh. in
+                            KopB von 1442 f. 70 (F) und 82' (F'). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Annales von 1612 f. 79
+                                (G<cei:sup>2</cei:sup>), Annales von 1738 f. 53
+                                (G<cei:sup>3</cei:sup>).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>nono kl. novembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Drucke: MB 3 (1764), 104 Nr. 2 aus D u. F.</cei:bibl>
+                            <cei:bibl>MB 31a (1836), 362 Nr. 193 (Auszug) aus B.</cei:bibl>
+                            <cei:bibl>MG. DDH. IV. (1941), 418 Nr. 318 aus B.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Reg. u. Erl.: Böhmer (1831) 1890.</cei:bibl>
+                            <cei:bibl>Paulhuber (1840), 103 zu 1179.</cei:bibl>
+                            <cei:bibl>Stumpf(1865) Nr. 2819.</cei:bibl>
+                            <cei:bibl>Meyer von Knonau, Jahrb. Heinrichs IV. 3 (1900),
+                                218.</cei:bibl>
+                            <cei:bibl>VN 79 (1953), 55.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>In einem Urkundenrepertorium des Klosters aus der 1. Hälfte des 17.
+                            Jh. (KlL 163b, f. 16) ist die Urkunde Heinrichs IV. unter den
+                            "Imperialia" als Nr. 16 von späterer Hand (2. Drittel 17. Jh.)
+                            nachgetragen. Der Klosterarchivar P. Eugen Reitter (2. Hälfte 18. Jh.)
+                            vermerkt jedoch bei C: "Originale non superest." Als Verfasser und
+                            gleichzeitig auch als Schreiber wird vom Bearbeiter der MG. DDH. IV der
+                            Notar Adalbero C angenommen. Die Überlieferung des Eschatokolls ist
+                            mangelhaft. In BC fehlt es, in B wurden jedoch wohl von einer noch dem
+                            12. Jh. angehörenden Hand das Monogramm und von einer Hand des 15. Jh.
+                            (B') die Datierung nachgetragen. DF bieten die Datierung, die
+                            Unterschriftszeilen aber nur F' in deutscher
+                            Übersetzung.<cei:lb/>Tyroller, Die Grafschaften des Isengaues, OA 80
+                            (1955), 48 setzt das in vorliegender Urk. genannte Walde "in pago
+                                Isinigo<cei:sup>v</cei:sup>we" mit Wald a. d. Alz gleich. Nachdem
+                            der Reichsministeriale Rafold auch im nahen Schönberg (Nahtstal) Besitz
+                            hatte, hat diese Deutung viel für sich. Es sei jedoch darauf
+                            hingewiesen, daß im Gebiet des eigentlichen Isengaues noch weitere Orte
+                            mit Namen Wald vorkommen: 1. Gde. Geratskirchen, LK Altötting, 2. Gde.
+                            Rattenkirchen, 3. Gde. Flossing, 4. Gde. Grünbach, sämtl. LK Mühldorf.
+                            Vgl. die Karte bei Diepolder, Die Orts- und "in pago"-Nennungen im
+                            bayerischen Stammesherzogtum zur Zeit der Agilolfinger, ZBLG 20 (1957),
+                            364 ff.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et individue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Hæinricus divina favente dementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Notum sit omnibus Christi nostrique fidelibus tam futuris
+                            quam presentibus,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob interventum Berhte et regni et thori socie ac
+                            dilecti filii nostri Chůnradi, Haeinrici<cei:sup>a</cei:sup> patriarche,
+                            Megenwardi Frisingensis episcopi ceterorumque fidelium nostrorum cuidam
+                            servienti nostro nomine Rafold mansum, id est regalem, situm in villa
+                            Walde in pago Isinigowe in comitatu O<cei:sup>v</cei:sup>dalrici cum
+                            omnibus appenditiis, areis<cei:sup>b</cei:sup>, edificiis, terris cultis
+                            et incultis, viis et inviis, pratis, pascuis, campis, silvis,
+                            venationibus, aquis aquarumque decursibus, molis, molendinis,
+                            piscationibus, exitibus et reditibus, quesitis et inquirendis ac cum
+                            omni utilitate, que ullo modo inde provenire poterit,</cei:narratio>
+                        <cei:dispositio> in proprium tradendo firmavimus, firmando tradidimus;
+                            insuper ancillam unam nomine Adelhait<cei:sup>c</cei:sup> sibi dedimus
+                            ea autem conditione, ut idem Rafold deinceps liberam potestatem habeat
+                            eundem mansum possidendi, posteris relinquendi vel dandi cui voluerit,
+                            ita tamen ne de nostra potestate exeat.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostra traditio firma et inconvulsa omni evo
+                            permaneat, hanc cartam inde conscriptam et nostra manu, ut infra
+                                videtur<cei:sup>d</cei:sup>, corroboratam sigilli nostri inpressione
+                            iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/><cei:lb/>[Signum domni Heinrici quarti regis
+                                invictissimi.]<cei:sup>e</cei:sup>
+                            (M.)<cei:sup>f</cei:sup><cei:lb/><cei:lb/>[Gebhardus episcopus et
+                            cancellarius recognovi.]<cei:sup>e</cei:sup></cei:subscriptio>
+                        <cei:datatio><cei:lb/><cei:lb/>Armos dominice incarnacionis
+                                M<cei:sup>o</cei:sup> LXXVIIII, indicionis<cei:sup>h</cei:sup>
+                                III<cei:sup>o</cei:sup>, nono kl. novembris data, anno autem
+                            ordinacionis domini Heinrici<cei:sup>i</cei:sup> IIIIti regis XXVI,
+                            regni XXIIII; actum<cei:sup>k</cei:sup> Ratispone;</cei:datatio>
+                        <cei:apprecatio> feliciter in nomine domini amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note>(a) Hainrici C</cei:note>
+                    <cei:note>(b) aereis C</cei:note>
+                    <cei:note>(c) Adelhaeit C</cei:note>
+                    <cei:note>(d) videlicet BC</cei:note>
+                    <cei:note>(e) fehlt BCEFG. Daz zaichen hern Hainreichs des vierden sighafftten
+                        kunigs. Gebhardus bischoue vnd cancellor hab bekennt - F'</cei:note>
+                    <cei:note>(f) M. in B von anderer Hand nachgetragen</cei:note>
+                    <cei:note>(g) Datierung fehlt C, in B nachgetragen von Hand 15. Jh.
+                        (B')</cei:note>
+                    <cei:note>(h) indiccione DF</cei:note>
+                    <cei:note>(i) Heinreici B'</cei:note>
+                    <cei:note>(k) DF; datum B'.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

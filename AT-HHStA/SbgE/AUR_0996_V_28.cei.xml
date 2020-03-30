@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_0996_V_28</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:23:43+02:00</atom:published>
+    <atom:updated>2010-04-27T13:33:31+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575523"
+            n="HHStA-Sbg E$118" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S 116-117.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 116.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_0996_V_28" old="575523">AUR 0996 V 28</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto III. erlaubt auf Bitte des Eb Hartwig die Errichtung
+                        eines täglichen Marktes mit Regensburger Münze in Salzburg und weist den
+                        Ertrag der Kirche von Salzburg zu.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Rom</cei:placeName>
+                        <cei:dateRange to="9960528" from="9960528">28. Mai 996</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:figure n="AUR_996_V_28-101">
+                            <cei:graphic url="AUR_996_V_28-101.jpg"
+                                >AUR_996_V_28-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_996_V_28-Siegel01">
+                            <cei:graphic url="AUR_996_V_28-Siegel01.jpg"
+                                >AUR_996_V_28-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 77' (C). -
+                            K.-B. 6 f. 23 (D).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>Data V kal. iun.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 063 - Juvavia Anh. 212 n° 82 "ex autographo", doch aus
+                                C. - Mon. Germ. Dipl. 2, 619 n° 208 aus A. - Böhmer, Reg. n° 771. -
+                                Stumpf, RK n° 1078.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>(Lori,) Sammlung des bair. Münzrechtes 1, 6 n° 5 aus A. -
+                                Zeller Gustav, Des Erzstiftes Salzburg Münzrecht und Münzwesen
+                                (Salzburg 1883) 4.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina favente clementia imperator.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Noverit omnium fidelium nostrorum tam presentium quam
+                            futurorum industria,</cei:publicatio>
+                        <cei:narratio>qualiter nos consensu et consilio episcoporum atque laicorum
+                            astantium, ipsius quoque summi apostolici Gregorii, Romanorum,
+                            Francorum, Bauuariorum, Saxonum, Alsatiensium, Sueuorum, Lutharingorum
+                            ob remedium animae nostrae nostrorumque parentum necnon et interventum
+                            ac petitionem Hartuuici archiepiscopi Salzpurcgensis aecclesiae talem
+                            utilitatem ac tantum honorem,</cei:narratio>
+                        <cei:dispositio> id est mercatum omni die legitimum monetam Radesponensem in
+                            loco Salzpurc dicto imperiali potentia construi et ad prime incoeptari
+                            concessimus; theloneum autem nos exinde respitientem super gremium
+                            sancti Petri sanctique Ruodberti pro salute corporis nostri et animae
+                            perpetualiter inibi consistendum potestative tradidimus et omnibus
+                            quidem eundem mercatum inquirentibus pacificum aditum ac reditum nostri
+                            imperialis banni districtione firmiter sancimus, sed ea lege atque
+                            tenore, ut prefata aecclesia ac idem episcopus pretitulatus omnesque
+                            eius successores hanc et hunc utilitatem honorem in finem usque seculi
+                            feliciter obtineant.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae potestatis traditio nunc et in futuro
+                            stabilis et inconvulsa perseveret, hanc cartam inde conscriptam
+                            inpressionis nostrae sigillo confrmari atque corroborari statuimus
+                            potenterque praecepimus nostraque manu propria, ut infra videtur,
+                            secundum consuetudinem regum vel imperatorum hoc signo eam
+                            signavimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:lb/>
+                        <cei:subscriptio>Signum domni Ottonis (MF)<cei:sup>a)</cei:sup> invictissimi
+                            imperatoris augusti. <cei:lb/>Hildibaldus episcopus et cancellarius vice
+                            Uuilligisi archiepiscopi recognovi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data V kal. iun., anno dominicae incarnationis
+                            DCCCCXCVI, indict. VIIII, anno autem tertii Ottonis regnantis XIII,
+                            imperii I; actum Romae.<cei:sup>b)</cei:sup></cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup> Ein etwas tiefer gesetzter Querbalken wurde
+                        ausradiert. Dieselbe Hand, die den Querbalken dann höher setzte, hat mit
+                        schwärzerer Tinte den Kontext und die Signumszeile bis
+                            <cei:quote>invic</cei:quote> nachgefahren, worauf <cei:sup>b</cei:sup>
+                        der Rest des Eschatokolls von anderer Hand geschrieben wurde.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

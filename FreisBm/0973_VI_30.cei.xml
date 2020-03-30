@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/0973_VI_30</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:56:57+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:26+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240131"
+            n="Freising B$37" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            36-37</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 36, Nr.
+                            37</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0973_VI_30" old="240131">0973 VI 30</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto I. schenkt dem Bisthume Freising Güter in Krain an der
+                        Safniz, mit den Orten Safniz, Lach, "Susane" u. s. w. unter Angabe der
+                        Grenzen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Tribur</cei:placeName>
+                        <cei:dateRange to="9730630" from="9730630">30. Juni 973</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig> </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm> Cod. 189, f. 19 und
+                            238 f, 104' und 191 f. 83' und 106 </cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>II. kal. Ivlias</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./l, 180; Resch: Ann. Sabion. II. S33; Mon. boica
+                                XXXI./1, 220.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente clementia imperator
+                            augustvs.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Nouerit omnium industria fidelium nostrorum tarn presentium
+                            quam futurorum,</cei:publicatio>
+                        <cei:narratio> qualiter per interuentum dilecte matris nostre Adelheide et
+                            fidelis nostri uidelicet Heinrici ducis quasdam partes nostre
+                            proprietatis sitas in ducatu prefati ducis et in comitatu Poponis
+                            comitis quod Carniola uocatur et quod uulgo Creina marcha appellatur.
+                            Est enim in ipso comitatu riuulüs paruus qui uocabulo Sclauorum Sabniza
+                            nuncupatur, ab exitu illius ubi oritur, statim cacumina uel sumitates
+                            montium occidentalem partem uersus usque ad Zelsah, et hoc ipsum
+                            territorium cum omnibus ad hoc pertinentibus, nee non et alpenm
+                            Bosangam, deinde trans Zouriza usque ad montem Lubnic ipsumque montem
+                            usque ad maiorem amnem qui Zoura uocatur, utramque ripam illius amnis
+                            deorsum usque ad ostium pretitulati riuuli Sabniza indeque sursum ad
+                            caput uel exitum ipsius riuuli quicquid inter ipsa confluentia habuisse
+                            uideamur, loca sie notninata Sabniza, Lonca, Susane, iterumque Celsah
+                            uel qualicumque uocabulo uocantur, </cei:narratio>
+                        <cei:dispositio>hoc totum in proprium cuidam nostro fideli nobisque satis
+                            percaro episcopo Abraham uocitato donauimus cum omnibus rebus iure
+                            legitime(que) ad pretitulata loca aspicientibus, cum curtilibus et
+                            edifieiis, manieipiis utriusque sexus, si inibi nostri iuris
+                            inueniuntur, agris eultis et incultis, pratis, paseuis, siluis, aquis
+                            aquarumque decursibvs, molendinis, piscationibus, uenationibus, uineis
+                            et uinetis,- uiis et inuiis, exitibus et reditibus, quesitis et
+                            inquirendis, tnobilibus et inmobilibus, hec omnia ut prescripsimus
+                            uolumus ut prefatus episcopus fii-miter teneat sine obstaculo uel
+                            contradictione ulla. Insuper vero ubieunque in illa regione in foresto
+                            nostro siue in qualicunque loco pascua porcorum inuenta erunt, suis
+                            porcis inibi iiutritis saginationem habeat. Et ut nullus comes uel dux
+                            seu ulla persona in aliquo se intromittat absque licentia uel iussione
+                            prefati episcopi Abrahe aut illius hominis eui episcopus hoc ad regendum
+                            commiserit.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostre donationis auetoritas firmior
+                            stabiliorque permaneat, iussimus quoque hoc presens preeeptum inde
+                            conscribi anulique nostri inpressione sigillari, per quod uolumus
+                            firmiterque iubemus quatenus prefatus episcopus liberum arbitrium habeat
+                            sibi tenendi, commutandi, tradendi uel quicquid sibi placuerit exinde
+                            faciendi, et ut uerius a posteris nostris in futurum credatur, manu
+                            nostra id ipsum subtus roborantes.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Ottonis (M.) inuictissimi imperatoris.
+                            Willigisvs cancellarius uice Rodberti archicancellarii
+                            recognoui.</cei:subscriptio>
+                        <cei:datatio> Data II. kal. Ivlias anrio dominice incarnationis
+                            DCCCC.LXXIIII, indictione II., anno domni Ottonis regni XIII., Imperii
+                            VII. Actum Dribure.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes> </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

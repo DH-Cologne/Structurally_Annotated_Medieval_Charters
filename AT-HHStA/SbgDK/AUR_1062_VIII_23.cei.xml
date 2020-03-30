@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgDK/AUR_1062_VIII_23</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-20T10:09:55+02:00</atom:published>
+    <atom:updated>2010-04-23T18:47:03+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg DK" id="585699"
+            n="HHStA-Sbg DK$35" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 166-168..</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 166.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1062_VIII_23" old="585699">AUR 1062 VIII 23</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich IV. nimmt auf Bitten des Eb Gebhard alle
+                        Besitzungen der Salzburger Kirche in seinen Schutz und bestätigt sie,
+                        besonders die in fremden Diözesen gelegenen Güter in Bozen, in der Ostmark,
+                        in und um Regensburg mit dem Winzerurfahr, den daneben und am Berg gelegenen
+                        Weingärten.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Neuss</cei:placeName>
+                        <cei:dateRange to="10620823" from="10620823">23. August 1062</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_1062_VIII_23-Siegel01">
+                            <cei:graphic url="AUR_1062_VIII_23-Siegel01.jpg"
+                                >AUR_1062_VIII_23-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1062_VIII_23-101">
+                            <cei:graphic url="AUR_1062_VIII_23-101.jpg"
+                                >AUR_1062_VIII_23-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1062_VIII_23-201">
+                            <cei:graphic url="AUR_1062_VIII_23-201.jpg"
+                                >AUR_1062_VIII_23-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth>
+                            <cei:sealDesc>Posse XVI, 2</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 95'
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>X kal. sept.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 100 - Juvavia Anh. 254 n° 107 aus B = Ried, Cod. dipl.
+                                Ratisb. 1, 157 n° 165. Böhmer, Reg. n° 1751. - Stumpf, RK n°
+                                2610.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Omnibus sanctae dei aeclesiae nostrisque fidelibus notum
+                            esse volumus,</cei:publicatio>
+                        <cei:narratio> qualiter Gebehardus archiepiscopus nostram clementiam
+                            humiliter adiit rogans, quatinus pro remedio animae patris nostri
+                            Heinrici imperatoris nostramque salutem omnia aecclesiae suae bona in
+                            nostrum mundiburdium reciperemus ac more antecessorum nostrorum regum
+                            seu imperatorum precepto nostro confirmaremus. Nos vero petitionem eius
+                            iustam cognoscentes fidelium nostrorum consilio benignum assensum super
+                            hac re prebuimus atque eadem bona, que vel ipse aut antecessores sui
+                            proprie infra suam parrochiam hactenus possiderunt<cei:sup>a)</cei:sup>
+                            aut quarum investituram habuerunt, cum omnibus suis pertinentiis hoc est
+                            utriusque sexus familiis areis aedificiis terris cultis et incultis
+                            agris pratis pascuis campis silvis venationibus forestis piscationibus
+                            aquis aquarumve decursibus monetis theloneis aecclesiis decimationibus
+                            molis molendinis exitibus et reditibus, quaesitis et inquirendis seu cum
+                            omni utilitate, que ullo modo inde provenire potest,</cei:narratio>
+                        <cei:dispositio> in nostram tutionem recepimus ac per huius nostri paginam
+                            precepti aecclesiae suae asscripsimus annuimus atque. corroboravimus.
+                            Nominatim autem illa eiusdem aecclesiae suae bona, quae in caeteris
+                            parrochiis sunt queque maxime nostrae defensionis indigent, scilicet qua
+                            in Bozan vel in orientali marchia aut in civitate Radisbona infra aut
+                            extra posita sunt, cum areis aedificiis servis et ancillis cum portu,
+                            qui Wincirin dictus est, cum vineis iuxta eundem portum in monte
+                            positis, et cum omnibus, que antecessores sui Thietmarvs et Baldvvinus
+                            sub Gebehardo episcopo et sub ducibus Henricho, Cuonone Radisbone
+                            habuerunt, et quorum dehinc investituram succedente G(ebehardo)
+                            archiepiscopo eadem Salzburgensis aecclcsia tenuit, firmiter in nostrum
+                            mundiburdium assumsimus<cei:sup>a)</cei:sup> atque eidem aecclesiae
+                            eiusque rectori G(ebehardo) omnibusque suis successoribus in proprium
+                            dedimus, concessimus atque in perpetuum confirmavimus ea videlicet
+                            ratione, ut nulla persona eadem, supradictae aecclcsiae bona invadere
+                            diripere aut ullo modo inquietare presumat. </cei:dispositio>
+                        <cei:corroboratio>Et ut haec nostra regalis traditio et confirmatio stabilis
+                            et inconvulsa omni permaneat aevo, hanc paginam inde conscribi manuque
+                            propria corroborantes sigilli nostri impressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici qnarti regis.
+                            (M)<cei:lb/>Fridericus cancellarius vice Sigifridi archicancellari
+                            recognovi. S.<cei:sup>b)</cei:sup></cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data X kal. sept., anno dominicae incarnationis MLXII,
+                            indict. XV, anno autem ordinationis domni Heinrici quarti regis VIII,
+                            regni vero VI; actum Nuisse;</cei:datatio>
+                        <cei:apprecatio> in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a)</cei:sup> A.<cei:sup>b)</cei:sup> Posse XVI, 2.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

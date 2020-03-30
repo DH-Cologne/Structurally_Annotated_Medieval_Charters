@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1067_III_05</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:03+01:00</atom:published>
+    <atom:updated>2009-08-28T21:39:56+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240520"
+            n="Freising B$83" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            84-85</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 84, Nr.
+                            83</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1067_III_05" old="240520">1067 III 05</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich IV. schenkt dem Bisthume Freising die Ortschaften
+                        Couvedo, Lonche, Ospo, Rosariol, Trusche u. s. w. in der Markgrafschaft
+                        Istrien.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10670305" from="10670305">5. März 1067</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Hauptstaatsarchiv München</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedrücktes Siegel ausgefallen</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 12, 238,
+                            f. 113', 191, f. 84 und 102</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III. nonas Martii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./l, 261; Resch: Aet. millen. 96, Mon. boica
+                                XXIX/1, 170.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Sanctae dei ecclesiae profectui tanto diligentius providere
+                            debemus, quanto excelsius ex diuino munere sublimati sumus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnibus Christi nostrique fidelibus tam futuris
+                            quam presentibus notum esse uolumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos Frisingensi ecclesiae in honorem sancte Marie
+                            sanctique Corbiniani constructae et consecratae ob petitionem ac
+                            interuentum Berthe reginae regni thorique nostri consortis dilectissimae
+                            instinctu quoque Epponis Niwenburgensis episcopi, Ekkiberti marchionis,
+                            Odalrici marchionis, nec non ob fidele meritum Ellenhardi eiusdem sedis
+                            episcopi, hasuillas Cubida, Lovnca, Ozpe, Razari, Trvscvlo, Steina,
+                            sancte Petre in pago Istria in marcha Odalrici marchionis sitas cum
+                            omnibus appendiciis suis hoc est utriusque sexus mancipiis, uineis,
+                            agris, pratis, campis, pascuis, siluis, uenationibus, forestis,
+                            forestariis, ecclesiis, areis edificiis, terris cultis et incultis,
+                            aquis aquarumue decursibus, molis, molendinis, piscationibus, exitibus
+                            et reditibus, uiis et inuiis, merkatis, theloneis, monetis, quaesitis et
+                            inquirendis </cei:narratio>
+                        <cei:dispositio>omnique utilitate iu proprium dedimus, confirmauimus,
+                            perpetuo iure obtinendum concessimus, ea uidelicet ratione, ut nullus
+                            successorum nostrorum imperator siue rex, dux, marchio, comes aut alia
+                            maior uel minor persona iudicialis haec data prefatae ecclesiae auferre,
+                            alinare aut ullomodo presumat inquietare, sed prenominatus episcopus
+                            eiusque successores liberam inde potestatem habeant tenendi,
+                            pre˛cariandi, commutandi uel quicquid inde ad utilitatem eiusdem
+                            ecclesiae uoluerint faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostra regalis traditio stabilis et inconuulsa
+                            omni permaneat euo, hanc cartam scribi manuque propria corroborantes
+                            sigilli nostri impressione iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici (M.) quarti
+                            regis.<cei:lb/>Gregorius cancellarius uice Annonis archicancellarii
+                            recognoui.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data III. nonas Martii anno dominicae incarnationis M.
+                            LXVII., indictione V., anno autem ordinationis domni Heinrici quarti
+                            regis XII., regni vero XI. Actum Rätispone</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

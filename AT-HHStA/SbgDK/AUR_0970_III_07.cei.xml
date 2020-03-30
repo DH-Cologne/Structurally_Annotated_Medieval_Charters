@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgDK/AUR_0970_III_07</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-20T10:09:52+02:00</atom:published>
+    <atom:updated>2010-04-23T18:49:56+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg DK" id="585682"
+            n="HHStA-Sbg DK$22" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 96-97.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 96.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_0970_III_07" old="585682">AUR 0970 III 07</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto I. schenkt der Salzburger Kirche unter Eb Friedrich
+                        den in der Grafschaft des Markwart (von Epenstein) gelegenen Hof
+                        Vduleniduor, deutsch Nidrinhof, (bei Deutschlandsberg) mit 50 dazu gehörigen
+                        Königshufen, den Forst Sausal (westlich Leibnitz) sowie seinen Besitz zu
+                        Sulb und Leibnitz.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Pavia</cei:placeName>
+                        <cei:dateRange to="9700307" from="9700307">7. März 970</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_970_III_7-Siegel01">
+                            <cei:graphic url="AUR_970_III_7-Siegel01.jpg"
+                                >AUR_970_III_7-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_970_III_7-201">
+                            <cei:graphic url="AUR_970_III_7-201.jpg"
+                                >AUR_970_III_7-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_970_III_7-101">
+                            <cei:graphic url="AUR_970_III_7-101.jpg"
+                                >AUR_970_III_7-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth>
+                            <cei:sealDesc>Posse VII, 6</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 66
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>nonas mart.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 053 - Juvavia Anh. 186 n<cei:sup>o</cei:sup> 71 aus A.
+                                - Zahn, Steir. U.-B. 1, 29 n<cei:sup>o</cei:sup> 25 aus A - Mon.
+                                Germ. Dipl. 1, 590 n<cei:sup>o</cei:sup> 389 aus A - Ankershofen,
+                                Reg. Nachtrag n° 3. - Stumpf, RK n<cei:sup>o</cei:sup> 483 (setzt
+                                die Schrift ins 12. Jahrh.). - Böhmer-v. Ottenthal,
+                                    RJ<cei:sup>2</cei:sup> n<cei:sup>o</cei:sup> 514.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Felicetti in Beitr. z. Kde. steir. Gq. 10, 72 teilw. - Levec,
+                                Mitteil. d. anthrop. Ges. 53, 86 teilw. - Hormayr, Taschenbuch 1813,
+                                212.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sanctae et individuae trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina favente clementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Noverit omnium Christi fidelium
+                                presentium<cei:sup>a)</cei:sup> scilicet et futurorum
+                            industria,</cei:publicatio>
+                        <cei:narratio>qualiter nos fide catholica roborati et evangelica atque
+                            apostolica disciplina instructi id solum ex caducis transitoriisque
+                            imperii nostri rebus salvum atque multiplicatum inmarcescibili premio
+                            apud omnipotentem deum nobis reponi perpetualiter credimus, quicquid
+                            exinde necessitatibus Christo famulantium succurrimus vel ad divinos
+                            cultus pia atque religiosa intentione donamus. Hoc igitur fervore
+                            sanctaque devotione succensi precibus dilectissime coniugis nostrae
+                            Adalheide scilicet gloriose imperatricis, sed et cari fratruelis nostri
+                            Heinrici quoque Baiuuariorum ducis facilem prebuimus assensum, quatinus
+                            reverentissimo atque valde amato Fridarico, sanctae Salzpurcgensis
+                            ecclesiae archiepiscopo nostro, in servitium sancti Petri principis
+                            apostolorum sanctique Ruodberti confessoris Christi atque potestatem
+                            eiusdem iam dicte, cui preesse dinoscitur aecclesie, pro eterna
+                            remuneratione donaremus quedam nostri iuris predia in comitatu
+                            Marchuuardi marchionis nostri in plaga origentali constituta istisque
+                            vocabulis nuncupata, hoc est curtem ad Vduleniduor lingua sclavanisca
+                            sic vocatam, theotisce vero Nidrinhof nominatam, et L regales hobas ad
+                            eandem curtem pertinentes ubicumque sibi placuerit mensurandas
+                            pariterque etiam, ut contiguum atque adiacens eidem curti nemus Svsil
+                            nuncupatum et ad civitatem Zuib, que modo suis colonis possessa
+                            inhabitatur, quicquid in ea nostrae. Potestatis vel regiminis esse
+                            deprehenditur, atque iuxta situm locum civitatis Lipnizza vocatum ea
+                            integritate, qua hactenus in anteccessorum nostrorum regum sive
+                            imperatorum videbantur teneri vestitura, insuper in proprium
+                            concederemus.</cei:narratio>
+                        <cei:dispositio> Quod ergo absque fatigatione apud nostram serenitatem
+                            impetrantes regia ac imperatoria liberalitate et consuetudine
+                            prenominatas nostrae proprietatis causas ea lege ac conditione pleniter,
+                            quemadmodum postulati sumus, sicut hucusque serviebant detinebanturque a
+                            predecessoribus nostris, amodo in potestatem atque proprietatem
+                            prenominate sanctae Salzburchgensis aecclesiae eiusdemque sedis
+                            venerabili archiepiscopo infundimus et perpetuo possidendum
+                            perdonavimus, id est aecclesiis, piscinis et piscationibus, mancipiis
+                            utriusque sexus, molendinis molendinorumque locis vineis agris pratis
+                            pascuis campis silvis bannisque silvarum montibus alpibus, cultis et
+                            incultis, viis et inviis, aquis aquarumque decursibus, exitibus et
+                            reditibus, quesitis et inquirendis omnique pertinentia iure respicienti
+                            ad prefata loca. </cei:dispositio>
+                        <cei:corroboratio>Et ut hoc munificentie nostrae preceptum inconvulsum atque
+                            inpermutabile eternaliter in posterum fiat, hanc nostrae auctoritatis
+                            cartam scribi iussimus et, ut verius credatur, anulo regni nostri eam
+                            sigillari precepimus atque sub eadem nostra confirmatione annexuimus, ut
+                            quicumque sit, qui de pretitulatis rebus case dei violentiam vel rapinam
+                            aut omnino quicquid exinde sibi usurpare pres[umat, publicie
+                                sententie]<cei:sup>b)</cei:sup> velut reus magestatis
+                            subiaceat.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Ottonis magni et invictissimi (M)
+                            imperatoris augusti. <cei:lb/>Liutgerius cancellarius ad vicem Ruotberti
+                            archiepiscopi et cappellani recognovi et subscripsi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data nonas mart., anno dominice incarnationis
+                            DCCCCLXX, indictione XIII, anno regni serenissimi regis Ottonis XXXV,
+                            imperii scilicet sui in Italia VIIII; actum Papia civitate infra
+                            palacium;</cei:datatio>
+                        <cei:apprecatio> in Christi nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup><cei:quote>p</cei:quote> korr. aus
+                            <cei:quote>i</cei:quote> A. <cei:sup>b</cei:sup> durch Wasserflecke
+                        unleserlich A, aus C ergänzt.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

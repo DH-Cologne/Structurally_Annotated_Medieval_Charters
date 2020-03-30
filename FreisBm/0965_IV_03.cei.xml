@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/0965_IV_03</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:56:55+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:18+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240043"
+            n="Freising B$33" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            31-32</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 31, Nr.
+                            33</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0965_IV_03" old="240043">0965 IV 03</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto schenkt auf Bitten Bischof Abrahams von Freising dem
+                        Vasallen desselben, dem Slaven Negomir, Güter zu Wierthschach in
+                        Kärnthen.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Gelnheim</cei:placeName>
+                        <cei:dateRange to="9550403" from="9550403">3. April 955</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Stiftsarchiv Innichen</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedrücktes vorzüglich erhaltenes Siegel</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III. nonas Apriles</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Resch: Aet. millen. 49.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina annuente clementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Nouerint omnes fideles nostri praesentes scilicet et
+                            futuri, </cei:publicatio>
+                        <cei:narratio>qualiter nos per interuentum dilecte ducis (!) domineque
+                            Judite, nee non oratu riobis satis cari episcopi Abrabe cuidam suo
+                            vasallo Negomir nueupato (!)</cei:narratio>
+                        <cei:dispositio> donavimus talem proprietatem, qualem nos visi sumus habere
+                            ad Vuirzsosah in partibus Carantanie in comitatu Hartuuigi comitis qui
+                            et ipse inibi vualtpoto dicitur, ac in decania Vuolframmi decani,
+                            aeternaliter in proprietatem habendum cum curtibus et edifieiis, pratis,
+                            paseuis, terris eultis et incultis, aquis aquarumue decursibus,
+                            molendinis, piscationibus, viis et inviis, exitibus et reditibus,
+                            quesitis et inquirendis omnibusque rebus ad prefatum locum iure
+                            legitimeque pertinentibus eo tenore, vt prefatus Negomir Iiberam habeat
+                            potestatem de iam ante dieta proprietate sibi tenendi, donandi,
+                            vendendi, commutandi vel quiequid exinde ei placuerit
+                            faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et vt haec nostre donationis auetoritas firma permaneat,
+                            anuli nostri impressione sigillari iussimus manu nostra eam subtus
+                            roborantes.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Ottonis (M) pigissimi (!)
+                            imperatoris.<cei:lb/>Liutulfus notarius ad uicem Brunonis arcbicapellani
+                            recognouit.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data iii. nonas Apriles anno vero dominice
+                            incarnationis DCCCC.LXV., indictione VIII., imperante rero piissimo
+                            imperatore anno imperii eius iiii. Actum in Gilanheim</cei:datatio>
+                        <cei:apprecatio> amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

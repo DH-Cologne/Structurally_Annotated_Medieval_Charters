@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/ArdCan/1049_I_07</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-07T13:29:50+02:00</atom:published>
+    <atom:updated>2009-03-12T11:31:31+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Ardagger, Can" id="201740"
+            n="Ardagger, Can$1" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>FRIESS, Ardagger (AÖG 46, 1871) S. 466-467</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>FRIESS, Ardagger (AÖG 46, 1871) S. 466, Nr. 1</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1049_I_07" old="201740">1049 I 07</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich III. stiftet die Propstei Ardagger.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Ebersberg</cei:placeName>
+                        <cei:dateRange to="10490107" from="10490107">1049 Januar 7</cei:dateRange>
+                    </cei:issued>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm> Aus dem Codex Nr. 238
+                            in der Stiftsbibliothek zu Seitenstetten </cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VII. Idus Januarii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Archiv für Kunde österreichischer Geschichtsquellen VI. Bd.
+                                1851. S. 293 (fehlerhaft)</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sanctae et individuae trinitatis.</cei:invocatio>
+                        <cei:intitulatio>Heinricus divina favente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Quoniam ex iure suscepti regni omnibus ecclesiis Romani imperii
+                            debitam sollicitudinem debemus impendere, volumus, unamquamque, quantum
+                            nobis ex divinae gratiae munere coneditur, procurare et ad dei servitium
+                            promovere.</cei:arenga>
+                        <cei:publicatio>Unde quidem omnes Christi nostrique tam futuri quam
+                            praesentes noverint fideles,</cei:publicatio>
+                        <cei:narratio>qualiter nos pro animae nostrae felicitate et antecessorum
+                            nostrorum requie et ob interventum nostri thori ac regni consortis
+                            scilicet Agnetis imperatricis augustae, et ob devotam servitutem nostri
+                            fidelis et dilecti Nitkeri Frisingensis episcopi</cei:narratio>
+                        <dispositio>ad altare sanctae Mariae semper virginis sanctique Corbiniani
+                            confessoris in monasterio Frisinga tale praedium, quale Ulrich et Ascwin
+                            in Ardack in comitatu marchionis Adalberti trans fluvium Ensa,
+                            habuerunt, iure gentium nostrae potestati dicatum, tradidimus cum
+                            omnibus suis pertinentiis, cum mancipiis scilicet utriusque sexus,
+                            areis, aedificiis, agris, pratis, campis, pascuis, terris cultis et
+                            incultis, silvis, venationibus, aquis aquarumque decursibus, molis,
+                            molendinis, piscationibus, exitibus et reditibus, viis et inviis,
+                            quaesitis inquirendis et omni iure et utilitate, quae ullo modo poterit
+                            provenire, ea videlicet ratione et conditione, ut praefatus episcopus et
+                            sui successores in praedicto loco Ardacher clericos seculares ad dei
+                            servitium pascant et sustenten regulari praebenda in honorem sanctae
+                            Margaretae virginis et martyris ibidem constitutos et congregatos. </dispositio>
+                        <cei:corroboratio>Et ut haec nostra imperialis traditio stabilis et
+                            inconvulsa omni succedentis temporis aevo permaneat, ideo hoc praeceptum
+                            inde conscriptum manu propria corroborantes sigilli nostri impressione
+                            iussimus insigniri. Termini autem praefati praedii isti sunt: Ab
+                            Holesceit usque in Sambach. A Sambach usque in
+                            Tieufenpach.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:datatio>Data VII. Idus Januarii anno dominicae incarnationis MXLIX
+                            indictionis II. anno autem domini Heinrici tercii regis imperatoris II.
+                            ordinatione ejus XX. regni quidem X. imperii autem III.In nomine domini
+                            actum Ebersperg feliciter.</cei:datatio>
+                        <cei:apprecatio> Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:persName
+                    reg="Heinrich III., König (1028-1056), Kaiser (1046-1056), Aussteller und Siegler"
+                    >Heinricus</cei:persName>
+                <cei:persName reg="von Ardagger">Ulrich</cei:persName>
+                <cei:persName reg="Ascuin von Ardagger">Ascwin in Ardack</cei:persName>
+                <cei:placeName reg="Ardagger (GB AM)" type="Ortsindex">Ardack</cei:placeName>
+                <cei:persName reg="Markgraf Adalbert (1018-1055)">marchionis
+                    Adalberti</cei:persName>
+                <cei:geogName reg="Enns, Fluß">fluvium Ensa</cei:geogName>
+                <cei:geogName reg="Hollergschaid">Holesceit</cei:geogName>
+                <cei:geogName reg="Fluss">Sambach</cei:geogName>
+                <cei:geogName reg="Tiefenbach">Tieufenpach</cei:geogName>
+                <cei:placeName reg="Ebersberg (GB NL)" type="Ortsindex">Ebersperg</cei:placeName>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

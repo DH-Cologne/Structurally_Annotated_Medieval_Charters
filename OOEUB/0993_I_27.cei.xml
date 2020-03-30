@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/OOEUB/0993_I_27</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-19T14:07:15+01:00</atom:published>
+    <atom:updated>2009-08-28T21:20:45+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="OOEUB" id="238174" n="OOEUB$49"
+            type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 68-69</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 68</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0993_I_27" old="238174">0993 I 27</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Otto III. bestätigt dem Bischof Christian von Passau nebst
+                        allen Besitzungen auch die der Abtei Kremsmünster, Mattsee
+                        etc.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Trotmannia (heute?)</cei:placeName>
+                        <cei:dateRange to="9930127" from="9930127">27. Januar 993</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig> </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VI. Kal. Febr.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Hund, Metrop. 1. (München) 362. (Regensburg) 241.</cei:bibl>
+                            <cei:bibl>Lünig, Reichsarchiv. v XVII. 769.</cei:bibl>
+                            <cei:bibl>Bansiz, Germ. sacr. I. 232.</cei:bibl>
+                            <cei:bibl>Mon. boic. XXVIII. I. 249. Nr. 165. ex orig. c.
+                                sigillo.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente Clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Quia respicit ad regium ius pro diuino amore aecclesias dei
+                            exaltare et confirmare, </cei:arenga>
+                        <cei:publicatio>ideo omnibus fidelibus nostris praesentibus scilicet atque
+                            futuris notum esse uolumus,</cei:publicatio>
+                        <cei:narratio> quomodo uir uenerabilis Christianus patauiensis aecclesiae
+                            episcopus ad nos uenit rogans et petens, ut omnia a regibus uel
+                            imperatoribus aut ab aliis religiosis uiris uel feminis eidem aecclesiae
+                            tradita nostrae auctoritatis donatione confirmaremus, sicut antecessores
+                            nostri reges et imperatores fecerunt. Cuius iustae peticioni pro animae
+                            nostrae remedio pium assensum praebentes omnes curtes, abbacias,
+                            aecclesias, uicos et uillas et alia praedia cum suis pertinentiis ab
+                            aliquibus personis maioribus uel minoribus pro mercede aeternae
+                            retributionis praefatae aecclesiae tradita </cei:narratio>
+                        <cei:dispositio>hac nostrae praeceptionis auctoritate nouiter eidem
+                            aecclesiae donamus atque confirmamus Et insuper nominatiue abbaciam,
+                            quae dicitur Chremisemuntstiuri, cum suis omnibus pertinentiis,
+                            curtibus, uicis et uillis, aecclesiis et aliis utensilibus illuc rite
+                            pertinentibus in mancipiis utriusque sexus, areis, aedificiis, terris
+                            cultis et incultis, agris, pratis, campis, pascuis, siluis,
+                            uenationibus, aquis aquarumue decursibus, piscationibus, molendinis,
+                            uiis et inuiis, exitibus et reditibus, quaesitis et inquirendis
+                            cunctisque aliis appendiciis, quae dici possunt, Capellam quoque Otinga
+                            nominatam cum omnibus rebus ad eam rite aspicientibus, abbaciam Matahse
+                            et curtem Riuti cum aliis curtibus et pertinentiis, quae aliquo modo
+                            nominari possunt, similiter nostrae auctoritatis donatiuo hoc nouo ad
+                            iam dictam patauiensem sanctam aecclesia (sic) sub sua prouisorumque
+                            ejus potestate perpetualiter habenda corroboramus.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae donationis confirmatio praesenti ac
+                            futuro tempore firma consistat, hoc praeceptum inde conscriptum
+                            nostroque sigillo signatum manu propria
+                            corroborauimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Ottonis (Monogramma) gloriosissimi regis.
+                            Hildibaldus episcopus et cancellarius uice Willigisi archiepiscopi
+                            recognoui.</cei:subscriptio>
+                        <cei:datatio> Data VI. Kal. Febr. Anno dominicae incarnationis [69]
+                            DCCCCXCIII. indictione VI. Anno autern tercii Ottonis regnantis decimo.
+                            Actum Trotmannie.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes> </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

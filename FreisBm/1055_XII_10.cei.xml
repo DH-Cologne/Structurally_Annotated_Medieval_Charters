@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1055_XII_10</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:06+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:11+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="239949"
+            n="Freising B$77" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            79-80</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 79, Nr.
+                            77</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1055_XII_10" old="239949">1055 XII 10</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich III. stellt dem Bisthume Freising jene Güter zu
+                        Layen, Aufkirchen und Ebershausen zurück, welche bedingterweise Graf Otto
+                        demselben verliehen hatte und die von Gerichts wegen dem Grafen abgenommen
+                        worden waren.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Neuburg a. d. Donau</cei:placeName>
+                        <cei:dateRange to="10551210" from="10551210">10. Dezember
+                            1055</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Hauptstaatsarchiv München</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedrücktes Siegel ausgefallen</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Meichelbeck I/l, 251 ; Resch: Aet. millen. 87; Monum boica XXIX/1.
+                            123.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 8' und
+                            191, f. 99'</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>IIII. idus
+                            Decembris</cei:quoteOriginaldatierung>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Agenda est causa rei puplice (!), sed salua re matris nostre
+                            ecelesie et plerumque que iure fori obtinemus, hec iure ce˛li ultro
+                            reddere destinamus. Hoc ergo conplacuit nobis in re fratrum nostrorum
+                            spiritalium qui Frisinge sub canonica constituti deo seruiunt et de
+                            collectis fidelium se agunt. Cum ipsis enim aliquando Otto marchio
+                            precarium fecit et dedit quod uisus est habere in loco qui dicitur Leian
+                            inter montana in comitatu Popponis, et in loco qui dicitur Ufchirchin in
+                            comitatu Fridirici et in loco qui dicitur Ebarhvsen in comitatu
+                            Burchardi. Antea autem ille Otto infelix deo et sancte ecclesie˛ pro
+                            incesto ad satisfactionem inobediens iuxta quod apostolus instituit,
+                            traditus est santane in interitum carnis et ob hoc secundum legem
+                            Bauuariorum in nostro colloquio diffinitum est, omnia ad fiscum
+                            pertinere quae idem Otto potuit habere. Qua ratione Geroldvs aduocatus
+                            supra memoratorum fratrum nostrorum conuictus nobis et aduocato nostro
+                            Hartvvigo eiusdem traditionis inuestituram tradidit, quia in eius
+                            defensionem nullam inuenire potuit rationem. Igitur habemus in
+                            potestate, ut quodlibet in de faciamus. Libet ergo amicos nobis de
+                            mammona iniquitatis facere, qui nos ex presenti uita deficientes in
+                            eterna tabernacula possint recipere.</cei:arenga>
+                        <cei:publicatio> Propterea notum sit omnibus Christi nostrique fidelibus tam
+                            futuris quam presentibus,</cei:publicatio>
+                        <cei:narratio> quia illis nostris fratribus in memoriam nostri et regni
+                            thorique nostri consortis Agnetis imperatricis, necnon dilectissimi
+                            filii nostri Heinrici regis quarti, quicquit Otto dare destinauit, cum
+                            omnibus suis appenditiis hoc est utriusque sexus mancipiis, areis,
+                            edificiis, agris, pratis, pascuis, terris cultis et incultis, uineis,
+                            aquis aquarumque decursibus, molis, molendinis, piscationibus, siluis,
+                            uenacionibus, exitibus et reditibus, </cei:narratio>
+                        <cei:dispositio>quesitis et inquirendis cum omni utilitate quae ullomodo
+                            inde poterit prouenire, in proprium damus.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostre imperigalis (!) traditionis auctoritas
+                            stabilis et inconuulsa omni euo permaneat, hanc cartam inde conscriptam
+                            manu propria ut infra uidetur, corroborantes sigilli nostri impressione
+                            iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici tercii regis (M.) seeundi
+                            Romanorum imperatoris augusti.<cei:lb/>Uuinitherius cancellarius uice
+                            Liutpoldi archicancellarii recognoui. (M.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data IIII. idus Decembris anno dominice˛ incarnationis
+                            M. L. VI., indictione VIII., anno autem domni Heinrici tercii regis
+                            imperatoris secundi, ordinationis eius XXVIII., regni vero XVIII.,
+                            imperii uero VIIII. Actum Niuenburc</cei:datatio>
+                        <cei:apprecatio> in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

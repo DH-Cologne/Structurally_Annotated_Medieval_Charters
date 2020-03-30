@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgDK/AUR_1006_XII_07</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-20T10:09:50+02:00</atom:published>
+    <atom:updated>2010-04-23T18:49:52+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg DK" id="585674"
+            n="HHStA-Sbg DK$24" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 121-122.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 121.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1006_XII_07" old="585674">AUR 1006 XII 07</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich II. schenkt der Salzburger Kirche unter Eb Hartwig
+                        das Gut Schlierbach (im Kremstal).</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Merseburg</cei:placeName>
+                        <cei:dateRange to="10061207" from="10061207">7. Dezember
+                            1006</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:figure n="AUR_1006_XII_7-201">
+                            <cei:graphic url="AUR_1006_XII_7-201.jpg"
+                                >AUR_1006_XII_7-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1006_XII_7-101">
+                            <cei:graphic url="AUR_1006_XII_7-101.jpg"
+                                >AUR_1006_XII_7-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1006_XII_7-Siegel01">
+                            <cei:graphic url="AUR_1006_XII_7-Siegel01.jpg"
+                                >AUR_1006_XII_7-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 78
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VII id decembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 067 - Juvavia Anh. 214 n° 84 zu 1005 aus C = OÖ. U.-B.
+                                2, 71 n° 54. - Mon. Germ. Dipl. 3, 148 n° 122 aus A. - Böhmer, Reg.
+                                n° 978. - Stumpf, RK n° 1435. - Kaiserurkk. in Abbildungen VI,
+                                1.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Si de terrestrium rerum facultatibus nobis divinitus collatis
+                            aecclesias dei locupletare sub obtentu futurae remunerationis
+                            studuerimus, decurso huius vitae agone bravio<cei:sup>a</cei:sup>)
+                            indeficienti nos coronari non diffidimus.</cei:arenga>
+                        <cei:publicatio> Quapropter generaliter omnium pateat
+                            industriae,</cei:publicatio>
+                        <cei:narratio>qualiter nos interveniente dilecta<cei:sup>b</cei:sup>)
+                            coniuge nostra Cunigunda videlicet regina quoddam nostri iuris predium
+                            Slierbach dictum in comitatu Radpotonis situm, in pago vero
+                                Oliupestale<cei:sup>c)</cei:sup> Iubensi
+                                acclesiae<cei:sup>d</cei:sup>), ubi sanctus Rodbertus corporaliter
+                            requiescit, pro redemptione animae nostrae dilectaeque coniugis </cei:narratio>
+                        <cei:dispositio>per hoc regale testamentum donando firmamus, cum omnibus
+                            appendiciis et utilitatibus eidem predio adiacentibus cum familia
+                            utriusque sexus, cum areis aedificiis terris
+                                culltis<cei:sup>d)</cei:sup> et incultis, viis inviis, exitibus et
+                            reditibus, aquis earumve decursibus molendinis piscationibus silvis
+                            venationibus pratis pascuis conpascuis sive apium pascuis necnon cum
+                            omnibus quae dici vel scribi possunt quoquolibet modo utilitatibus.
+                            Precipientes igitur regali auctoritate iubemus, quatinus Iubensis
+                                acclesiae<cei:sup>d) </cei:sup>venerabilis
+                                archiepiscopus<cei:sup>e)</cei:sup> Hartuuicus suique successores
+                            liberam dehinc habeant potestatem possidendi aedificandi commutandi
+                            precaricandi <cei:sup>d)</cei:sup> seu quicquid sibi libeat omni modo ad
+                            utilitatem monasterii de eodem predio faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae traditionis auctoritas stabilis et
+                            inconvulsa permaneat, hanc cartam inde conscriptam manu propria
+                            roborantes sigillique nostri inpressione insigniri
+                            iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici (MF) regis invictissimi.
+                            <cei:lb/>Eberhardus cancellarius vice Uuilligisi archicapellani
+                            recognovi. <cei:lb/>S.<cei:sup>f</cei:sup>)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data VII id decembris, indictione III, anno dominicae
+                            incarnationis MV, anno vero domni Heinrici secundi regn[antis] V; actum
+                            Merseburc;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup><cei:quote>b</cei:quote> aus
+                            <cei:quote>p</cei:quote> korr. A. <cei:sup>b</cei:sup> ein auf
+                            <cei:quote>a</cei:quote> folgendes <cei:quote>b</cei:quote> radiert A.
+                            <cei:sup>c</cei:sup><cei:quote>Oliupestale</cei:quote> von anderer Hand
+                        später nachgetragen A. <cei:sup>d</cei:sup> A.
+                            <cei:sup>e</cei:sup><cei:quote>archieps</cei:quote>, ohne
+                        Kürzungszeichen A. <cei:sup>f</cei:sup> Posse XI, 2.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

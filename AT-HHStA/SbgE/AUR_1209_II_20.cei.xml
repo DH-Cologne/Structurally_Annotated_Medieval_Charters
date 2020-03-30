@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1209_II_20</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:23:59+02:00</atom:published>
+    <atom:updated>2010-04-27T14:00:58+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575586"
+            n="HHStA-Sbg E$149" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, III. Band, Urkunden von 1200 bis 1246.
+                            Willibald Hauthaler und Franz Martin. S. 122-124.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, III. Band, Urkunden von 1200 bis 1246.
+                            Willibald Hauthaler und Franz Martin. S. 122.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1209_II_20" old="575586">AUR 1209 II 20</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Otto IV. beurkundet, dass Bf Walter von Gurk auf dem Hoftag
+                        gegen Eb Eberhard II. geklagt habe, dass er ihn zum Empfang der Regalien von
+                        ihm statt vom Reiche verhalte, wogegen Eberhard ausführliche Beweise
+                        beibrachte, bestätigt dann nach Untersuchung der Angelegenheit durch den Bf
+                        Engelhard von Naumburg den von den Reichsfürsten ergangenen Rechtsspruch,
+                        dass der Gurker Bischof vom Erzbischof die Regalien zu empfangen habe, und
+                        legt jenem und seinen Nachfolgern ewiges Stillschweigen auf.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Nürnberg</cei:placeName>
+                        <cei:dateRange to="12090220" from="12090220">20. Februar
+                            1209</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="HHSTA_Salzburg_1209_02_20v">
+                            <cei:graphic url="HHSTA_Salzburg_1209_02_20v.jpg"
+                                >HHSTA_Salzburg_1209_02_20v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="HHSTA_Salzburg_1209_02_20">
+                            <cei:graphic url="HHSTA_Salzburg_1209_02_20.jpg"
+                                >HHSTA_Salzburg_1209_02_20.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:dimensions>55 : 38.8</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:notariusDesc>139</cei:notariusDesc>
+                            <cei:sealDesc>1 Siegel</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 4 f. 204
+                            (D).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>CCVIIII, indict. XIII, regnante domino Ottone
+                            (...), anno regni eius XII; dat. apud Norinberc. X kalendas
+                            marcii.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB III 0624</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Über die Trennung von Handlung und Beurkundung vgl. Ficker,
+                                Beiträge zur Urkundenlehre 1, 204 und 2, 362.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. ++ In nomine sancte, et individue
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio>Otto quartus divina favente clementia Rom(anorum) rex et
+                            semper augustus. ++</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:narratio>Regalis excellentie nostre decet equitatem subiectorum
+                            commodis curam diligentem impendere et causas seu etiam lites, quociens
+                            coram nobis emerserint, quo pacto decidantur, scripture amminiculo
+                            perpetuare, ut inposterum omni careat ambiguitate, quod prius a
+                            plerisque deduci solebat perverse in questionem.</cei:narratio>
+                        <cei:publicatio> Eapropter noverit universorum imperii fidelium presens etas
+                            et successura posteritas,</cei:publicatio>
+                        <cei:dispositio>quod cum apud No/urinberc imperialem locum sub frequentia
+                            principum curiam sollempnem celebraremus, Waltherus venerabilis
+                            Gurcensis episcopus una cum ecclesie, sue familia cleri et populi in
+                            nostra constitutus presentia exposuit nobis, quod ecclesia Gurcensis eo
+                            modo fundata esset et dotata, quod ad imperium et nos nec non ad
+                            successores nostros Rom(anorum) imperatores et reges solummodo respectum
+                            habere deberet in hiis, que ad regalium pertinent concessionem. Dilectus
+                            itaque princeps noster Euirhardus Salzpurgensis archiepiscopus proposuit
+                            ex adverso, quod memorata Gurcensis ecclesia ab antecessore suo
+                            Geuehardo felicis memorie auctoritate regia taliter creata esset et de
+                            prediis decimis et parrochiis in primis sue fundationis annis ditata,
+                            quod electio episcopi et concessio sive investura<cei:sup>a)</cei:sup>
+                            regalium ac consecratio ad ipsum suosque successores nullo mediante
+                            pertinerent ostendens illud multis rationibus: primo per privilegium
+                            Heinrici quarti Rom(anorum) regis<cei:sup>1)</cei:sup>, in quo expressum
+                            invenimus et manifeste contineri Gurcensem ecclesiam taliter fundatam
+                            esse, quod electio episcopi et concession sive
+                                investura<cei:sup>a)</cei:sup> regalium ac consecratio ad
+                            Salzpurgensem archiepiscopum pertineret, secundo per sententiam
+                            Friderici Rom(anorum) imperatoris apud Augustam antiquitus
+                                promulgatam<cei:sup>2)</cei:sup>, tercio possessionem longissimam
+                            sive concessionem circa investituram regalium vivo testimonio
+                            comprobavit. Intellectis vero singulis, que ab utraque proponebantur,
+                            atque super hiis principum sententiam requirentes Engilh(ardus)
+                            venerabilis Nuenburgensis episcopus talem protulit sententiam, quod
+                            archiepiscopus Salzpurgensis suique successores concessionem sive
+                            investituram regalium in Gurcensi ecclesia habere debeat quam tantorum
+                            principum videlicet Heinrici quarti Rom(anorum) regis et Friderici
+                            imperatoris scriptis autenticis et vivo testimonio comprobasset. Quam
+                            sententiam universi principes in nostra tunc constituti presentia equam
+                            et semper observandam uno ore firmiter proclamarunt. Nos itaque deo
+                            nobis auxiliante in cunctis agendis nostris iusticie semitam tenere
+                            cupientes hiis et aliis, que dicta fuerunt, auditis et presertim, quia
+                            iam dictus Gurcensis episcopus coram nobis est confessus, quod nec ipse
+                            nec antecessores sui regalium investituram a Rom(anorum) regibus vel
+                            imperatoribus aliquo tempore recepisset<cei:sup>b)</cei:sup> Gurcensem
+                            ecclesiam matris sue Salzpurgensis ecclesie cum omni iure investiture
+                            regalium subicimus potestati ipsi episcopo suisque successoribus circa
+                            questionem regalium perpetuum silentium imponentes.</cei:dispositio>
+                        <cei:corroboratio>Ut autem hec omnia rata semper et illibata permaneant,
+                            hanc divalem paginam exinde conscriptam sigilli nostri charactere
+                            iussimus communiri. Testes huius rei sunt: Mangoldus Pattauiensis
+                            episcopus, Otto Frisingensis episcopus, Hertwicus Eistedensis episcopus,
+                            Cono abbas Elwacensis, Bernhardus dux Karinthie, comes Hartmannus de
+                            Wirtinberc, comes Lodwicus frater eius, Rapoto et Heinricus comites de
+                            Ortinberc, comes Albertus de Dilingen, Bertholdus de Niffên, Liutoldus
+                            de Reginsperc, Conradus de Krenchingen, Heinricus marscalcus de
+                            Kallindin, Heinricus dapifer de Walpurc, Waltherus pincerna et alii quam
+                            plures.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>++ Signum domini Ottonis quarti Romanorum regis
+                            invictissimi. ++ M<cei:lb/>Ego Conradus Spirensis episcopus regalis aule
+                            cancellarius vice domini Sifridi Magunt(ini) archiepiscopi tocius
+                            Germanie archicancellarii recognovi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Acta sunt hec anno dominice incarnationis millesimo
+                            CC°VIIII°, indict. XIII<cei:sup>a</cei:sup>, regnante domino Ottone
+                            quarto Rom(anorum) rege glorioso, anno regni eius XII°; dat. apud
+                            No/urinberc. X° kalendas
+                            marcii.<cei:lb/>SD.<cei:sup>c)</cei:sup></cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a)</cei:sup> A statt <cei:quote>investitura</cei:quote>.
+                            <cei:sup>b)</cei:sup> A. <cei:sup>c)</cei:sup> an rot-weiß-grüner Seide.
+                            <cei:sup>1)</cei:sup> SUB n° 103. <cei:sup>2)</cei:sup> SUB n°
+                        422.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

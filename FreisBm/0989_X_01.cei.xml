@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/0989_X_01</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:05+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:05+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240620"
+            n="Freising B$43" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            43-45</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 43, Nr.
+                            43</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0989_X_01" old="240620">0989 X 01</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Otto III. bestätiget dem Bisthume Freising unter genauerer
+                        Feststellung der Grenzen einen (demselben von Otto II. geschenkten)
+                        Landstrich in Kram an der Safniz und Zeyer.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Frankfurt</cei:placeName>
+                        <cei:dateRange to="9891001" from="9891001">1. Oktober 989</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 38' und
+                            Cod. 238, f. 104' u. 191, f. 118</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>kal. Octobris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./1, 185; Monum boiea XXXI/1. 247.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sancte et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Nouerit igitur omnium fidelium nostrorum presentium
+                            scilicet et futurorum industria,</cei:publicatio>
+                        <cei:narratio> qualiter nos dignis et admodum honestis peticionibus dilecte
+                            matris nostre Theopbanu, necnon cari nepotis nostri Karentinorum ducis
+                            Heinrici suppliciter rogati uenerabili viro Abrahe sancte Frisingensis
+                            ecclesie presuli nostre familiaritati digne adiuncto quandam nostrae
+                            proprietatis partem in regione uulgari uocabulo Chreine et in marcha
+                            ducis Heinrici et in comitatu Waltilonis comitis sitam, inde ubi riuulus
+                                Sabniza<cei:sup>1</cei:sup> originem producere incipit, deinde
+                            statim occidentem uersus cacumina montium siluasque interiacentes usque
+                                ad<cei:sup>2</cei:sup> Bosanam et sie ad fines earundem alpium,
+                            deinde ubi riuulus Cotabla originem sumit usque ad hunc locum ubi
+                            hostium in Zoura fluuium mittit, sieque trans Zouram usque ad summitatem
+                            ipsius montis Zoure adiacentis qui extenditur orieutem uersus, et ita
+                            per eundem montem perque ualles usque ad castrum quod uulgo Bosisen
+                            uocat(ur) statimque de eodem castro usque in riuulum qui uocatur Goztehe
+                            et cacumina montium ad Zouram respicientia perindeque ubi prefatiis
+                            riuulus australi parte decurrens hostium uadit in Zouram ac sie tractim
+                            dum Zoura hostium facit in Zauam ac quiequid inde locorum inter illas
+                            proprietates duas situm est, Abrahe uidelicet episcopi ac
+                                Vuernhardi<cei:sup>3</cei:sup> comitis, excepta proprietate
+                            Pribizlauui, </cei:narratio>
+                        <cei:dispositio>nostra regali traditione sibi donata hoc totum nobis
+                            pertinens Abrahe episcopo in proprietatem donare curauimvs a iuncta ripa
+                            Zourae quantum extenditur unius iugeri longitudo, usque ad uadum quod
+                            uulgo Stresoubrod uocant, ibique ultra eundem fluuium occidentem uersus
+                            usque in uiam que uocatur uia Chreinariorum et sursum per «andern uiam
+                            quicquid campi in australi eiusdem uie parte iacet, ita ut Primet
+                            territorium et siluula que Zourska Dobrauua (dicitur) sub eadem
+                            comprehensione teneatur, et spatium quod iacet inter Primet et
+                            Uvizilinesteti, per medium diuidatur et sic usque in prefatum riuulum
+                            Sabniza, nostra regali potentia in proprium usum concessimus firmiterque
+                            donauimus cum terris cultis et incultis, pratis, pascuis, siluis,
+                            edificiis, aquis aquarumve decursibus ipsoque iam dicto foresto,
+                            uenationibus, piscationibus, molendinis, mobilibus et intnobilibus, uiis
+                            et inuiis, exitibus, et reditibus, quesitis et inquirendis et cum
+                            omnibus iure legaliterque ad hec pertinentibus. Precipimus etiam et
+                            nouiter constituimus eisdem locis bannum nostrum a riuulo Sabniza ueisus
+                            occidentem usque ad flnem Bosanga et inde usque ad iam dictum riuulum
+                            Chotabla indeque usque in Zoura fluuium et quicquid inter hec eadem
+                            prefata undique secus comprehensum uidetur loca, et regio imperatorioque
+                            more uibemus eo tenore, ut siquis quarumlibet personarum in quibuslibet
+                            iam dictis siluularum uel forestorum locis cuiuslibet generis feras
+                            canibus uel qualicumque modo insequitur, bannum huiusmodi culpa nostro
+                            debitum fisco ipsi episcopo omni dubietate postposita, si hoc absque
+                            eius fecerit licentia, dominica estimatione persoluat. Hec vero et
+                            cetera iam dieta tali consta(n)t<cei:sup>4</cei:sup> ratione, ut ipse
+                            iam dictus episcopus libero deinceps perfruatur arbitrio hec
+                            omniatenendi, dandi, uendendi, commutandi seu quicquidiiide uoluerit
+                            faciendi. </cei:dispositio>
+                        <cei:corroboratio>Et ut hec nostre largitionis auetoritas firmior
+                            stabiliorque cunctis sancte dei ecclesie<cei:sup>5</cei:sup> filiis
+                            perpetim credatur, hanc cartam inscribi iussimus anuloque nostro
+                            signatam manu propria subtus eam firmauimus. Precipimus etiam ut nullus
+                            comes nee iudex siue decanus neque aliqua persona ius habeat se
+                            intromittendi absque licentia episcopi aut eius cuicumque ipse
+                            commendauerit.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Ottonis gloriosissimi regis (M). Hildibaldus
+                            episcopus et cancellarius uice Vuilligisi archiepiscopi
+                            recognoui.</cei:subscriptio>
+                        <cei:datatio> Data kal. Octobris anno dominice incarnationis DCCCCLXXXVIIII,
+                            indictione II., anno autem tercii Ottonis regni VI. Actum
+                            Franconofurt</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Cod. 238 Sabiniza;</cei:note>
+                    <cei:note><cei:sup>2</cei:sup> Ebend. fehlt ad;</cei:note>
+                    <cei:note><cei:sup>3</cei:sup> Ebend. steht Werhardi;</cei:note>
+                    <cei:note><cei:sup>4</cei:sup> Die Codd. constat; consistant?;</cei:note>
+                    <cei:note><cei:sup>5</cei:sup> Ecclesie fehlt.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

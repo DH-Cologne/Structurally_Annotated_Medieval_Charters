@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgDK/AUR_1045_XII_07</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-20T10:09:49+02:00</atom:published>
+    <atom:updated>2010-04-23T18:46:56+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg DK" id="585672"
+            n="HHStA-Sbg DK$29" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 144-145.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 144.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1045_XII_07" old="585672">AUR 1045 XII 07</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich III. schenkt der Salzburger Kirche das Gut
+                        Leitersdorf im Wald Sausal an der Lasnitz</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Fritzlar</cei:placeName>
+                        <cei:dateRange to="10451207" from="10451207">7. Dezember
+                            1045</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_1045_XII_07-101">
+                            <cei:graphic url="AUR_1045_XII_07-101.jpg"
+                                >AUR_1045_XII_07-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1045_XII_07-201">
+                            <cei:graphic url="AUR_1045_XII_07-201.jpg"
+                                >AUR_1045_XII_07-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth/>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 82'
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VII idus decembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 083 - Juvavia Anh. 232 n<cei:sup>o</cei:sup> 95 aus C.
+                                - Zahn, Steir. U.-B. 1, 63 n° 55 aus A. - Böhmer, Reg. n° 1537. -
+                                Ankershofen, Reg. Nachtrag 10. - Stumpf, RK n° 2287.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Hormayr, Taschenbuch 1813, 220. - Levec, Mitteil, d. anthrop.
+                                Ges. 53, 88.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae trinitatis. </cei:invocatio>
+                        <cei:intitulatio>Heinricus divina favente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Omnium dei nostrique fidelium tam futurorum quam et
+                            presentium sollers industria noverit, </cei:publicatio>
+                        <cei:narratio>qualiter nos ob interventum et peticionem Agnetis regine
+                            nostrae contectalis dilectae necnon ob amorem et fidele obsequium
+                            Balvvini venerabilis archiepiscopi Salzpvrgensis sedis tale predium,
+                            quale visi sumus Livtoldasdorf habere, in comitatu Gotefridi marchionis,
+                            et foresto Svsel iuxta litus Losnicae [flumi]nis situm prenominate sedi
+                            et aecclesiae videlicet in honore sancti Petri piique Rovdberti
+                            constructae</cei:narratio>
+                        <cei:dispositio> atque Baldvvino eiusdem aecclesia[e archipre]suli regia
+                            nostra benivolentia et auctoritate de nostro [iure] et dominio in eius
+                            ius et dominium liberaliter tranfudimus<cei:sup>a)</cei:sup> cum omnibus
+                            suis app[enditiis, cum ar]eis aedificiis terris cultis et incultis
+                            pratis [pascuis] agris campis aquis aquarumque decursibus molis
+                            molendinis piscationibus s[ilvis venationibus exitibus et redi]tibus,
+                            viis et inviis, quaesitis et inquirendis cum onmi utilitate, quae
+                            ullo[modo inde poterit provenire, ea videlicet ratio[ne, ut predic]tus
+                            archiepiscopus et omnes successores eius de prefato predio in eorum
+                            dominium de nostro manu transfuso liberam dehinc potestatem habeant
+                            obtin[endi venden]di commutandi precariandi vel quicquid sibi placuerit
+                            inde faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec regalis nostrae traditionis auctoritas
+                            stabil[is et inc]onvulsa per succedentium momenta temporum maneat, hanc
+                            cartam inde conscriptam manu propria, ut infra poterit videri,
+                            corroborantes sigilli nostri impressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici tercii (MF) regis
+                            invictissimi. SMP.<cei:lb/>Theodericus cancellarius vice Bardonis
+                            archicancellari recognovi. SR. SD.<cei:lb/></cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data VII idus decembris, anno dominicae incarnationis
+                            MXLV,indict. XIIII, anno autem domni Heinrici tercii ordina[tionis
+                            eiusXVI; a]ctum Fritislare ;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a</cei:sup> A statt
+                        <cei:quote>transfudimus</cei:quote>.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

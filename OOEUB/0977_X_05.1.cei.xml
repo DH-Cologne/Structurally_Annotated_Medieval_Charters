@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/OOEUB/0977_X_05.1</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-19T14:07:17+01:00</atom:published>
+    <atom:updated>2009-08-28T21:21:16+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="OOEUB" id="238330" n="OOEUB$48"
+            type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 66-67</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 66-67</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0977_X_05.1" old="238330">0977 X 05</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Otto II. schenkt der Kirche Lorch das Prädium Ensburg im
+                        Traungau und zehn königliche Huben zu Lorch.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Eidrateshusa (heute?)</cei:placeName>
+                        <cei:dateRange to="9771005" from="9771005">5. Oktober 977</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III. Non. octobris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Wiener Jahrbücher XL. Anzeigeblatt H.</cei:bibl>
+                            <cei:bibl>Mon. boic. XXVIII. I. 221. Nr. 149. ex orig. c.
+                                sigill.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In Nomine sanctae et indiuiduae
+                            Trinitatis</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente clementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Notum sit omnibus sanctae Dei aecclesiae fidelibus
+                            nostrisque, presentibus scilicet et futuris,</cei:publicatio>
+                        <cei:narratio> qualiter uenerabilis sanctae pataviensis aecclesiae antistes
+                            piligrimus nostrae celsitudinis pietatem querulosa reclamatione adiit
+                            pro diocesis suae locis in perturbatione bauuarorum regni tarn
+                            pernitiosa scalauorum (sclavorum) inuasione quam aliorum inimicorum
+                            damnosa insectatione miserabiliter desolatis, quatenus nos aecclesiae
+                            suae huiusmodi dispendio laesae atque adnullatae aliquod leuamen
+                            imperiali nostra munificentia impendere curaremus. Cuius itaque
+                            miserandis moti querelis praecipue, quia et nos barroechiae suae licet
+                            necessitate impulsi tum in destructione urbis patauiae tum etiam in
+                            exercitus nostri morosa sustentatione grauem intulimus iacturam, pro
+                            diuino timore et aeternae retributionis indubia spe ac insuper
+                            amantissimi fratruelis nostri Ottonis ducis nec non spectabilis
+                            liutbaldi marchionis petitionibus inducti quoddam nostrae potestatis
+                            praedium Anesapurch nuncupatum in pago trungouue in ripa anesi fluminis
+                            in comitatu liutbaldi cum omnibus suis pertinentiis, sicut piae
+                            recordationis noster patruus Heinricus et beatae memoriae episcopo
+                            Adalberto in concambium recepit, Sanctae Lauriacensi aecclesiae, quae in
+                            honore sancti Stephani sanctique laurentii martyrum foris murum
+                            aedificata est, ubi antiquis etiam temporibus prima sedes episcopalis
+                            habebatur,</cei:narratio>
+                        <cei:dispositio> imperiali auctoritate in proprium tradimus atque
+                            concedimus, Quin etiam decem regales hobas ab occidentali ripa praedicti
+                            fluminis Anesi in quadam nostri juris uilla nomine Loracho cum mancipiis
+                            utriusque sexus, quibus erant possessae, et cum omni integritate,
+                            exitibus quippe, reditibus, aecclesiis, decimationibus, curtibus,
+                            siluis, pratis, pascuis, aquis aquarumque decursibus, molendinis,
+                            piscationibus, mobilibus et inmobilibus, quaesitis et inquirendis in jus
+                            sanctae patauiensis aecclesiae absque omnium contradictione firmiter
+                            tenendum ac possidendum regia atque imperiali majestate transfundimus
+                            atque donamus.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae liberalitatis traditio firma et
+                            inconuulsa permaneat, hanc cartam conscribi et anuli nostri impressione
+                            jussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum Domni Ottonis inuictissimi imperatoris.
+                            (Monogramma.) Gerbertus Cancellarius ad uicem uilligisi archicappellani
+                            notaui.</cei:subscriptio>
+                        <cei:datatio> Data III. Non. octobris Anno dominicae Incarnat. DCCCCLXXVII.
+                            Indict. VI. Regnante piissimo imperatore augusto Ottone anno XVII.
+                            Imperii autem X. Actum Eidrateshusa</cei:datatio>
+                        <cei:apprecatio> in christi nomine feliciter. amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1007_V_10.1</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:04+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:03+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240598"
+            n="Freising B$55" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            56-57</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 56, Nr.
+                            55</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1007_V_10.1" old="240598">1007 V 10</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich II, schenkt dem Bisthume Freising das Gut Katsch im
+                        oberen Murthale.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Bamberg</cei:placeName>
+                        <cei:dateRange to="10070510" from="10070510">10. Mai 1007</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 4', k.
+                            Reichsarchiv zu München; ebend. auch Codd. 238, f. 108 und 19, f.
+                            113</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VI. idus Maii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./l. 206; Resch: Aet. mill. 63; Mon. boica
+                                XXXI./l, 280.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Nouerint omnes Christi nostrique fideles</cei:publicatio>
+                        <cei:narratio> qualiter nos pro nostre seniorisque nostri Ottonis
+                            imperatoris anime consulentia parentumue nostrorum felici memoria et per
+                            interuentum dilecte coniugis nostre Cunigunde regine Parthenopolitanique
+                            archiepiscopi Taginini dicti ac pro indulgentia bone memorie Abrahe
+                            episcopi in cuius laribus eis que sancte Marie sanctique Corbiniani
+                            erant, bonis pariter utentes paterno lenimine benigne nutriebamur, ac
+                            pro requie pii presulis Gotescalchi iam defuncti et quia nostrutn
+                            fidelem Egilbertmn antistitem </cei:narratio>
+                        <cei:dispositio>de propria quasi camera ad tale dispendium superandum vix
+                            nostre assiduitati subtraximus, quoddam nostri iuris predium Chatsa
+                            uulgo nominatum, in prouincia Karinthia situm cum familiis utriusque
+                            sexus, cortiferis (!), edificiis, terris cultis et incultis, quesitis et
+                            inquirendis, rebus mobilibus et inmobilibus, uiis et inuiis, exitibus et
+                            reditibus, aquis aquarumque decursibus, molendinis, piscationibus,
+                            siluis uenationibus, saginis, zidaluueidis, alpibus, uallibus, paludibus
+                            omnibusque eidem predio iuste uel legaliter pertinentibus ad ecelesiam
+                            Marie matris domini eiusque sancte confessoris Corbiniani ia proprium
+                            donauimus eo namque tenore, ut iam dictus Egilbertus Frisingensis
+                            episcopus suique successores absque contradictione omnium nostro dominio
+                            subditoruin liberam exinde habeant potestatem tenendi, possidendi,
+                            commutandi uel quicquid in usum ecclesie libuerit faciendi, precipientes
+                            igitur ut nullus dux aliquisue comes iugum aut aliquam districtionem
+                            seruis libertisque in eodem predio habitantibus imponere ius habeat, sed
+                            aduocatus eidem corti<cei:sup>1</cei:sup> ab episcop.o inpositus,
+                            quicquid in eadem curte regendum emendandumue sit, iuxta leges ac
+                            instituta maiorum potestatiue difiniat (!). </cei:dispositio>
+                        <cei:corroboratio>Et ut hec nostre traditionis auctoritas stabilis et
+                            inconuulsa permaneat, hanc nostri precepti paginam inde conscriptam manu
+                            propria roborantes sigilli nostri inpressione insigniri
+                            iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Heinrici (M.) regis inuictissimi. Eberhardus
+                            cancellarius uice Willigisi archicapellani recognoui.</cei:subscriptio>
+                        <cei:datatio> Data VI. idus Maii, iudictione V., anno dominice incarnationis
+                            M. VII., anno vero domni Heinrici secundi regnantis V. Actum
+                            Babenberg</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>1</cei:sup> Cod. hat "corn".</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

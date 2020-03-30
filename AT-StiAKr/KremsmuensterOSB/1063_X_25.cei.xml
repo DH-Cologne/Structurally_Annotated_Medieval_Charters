@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAKr/KremsmuensterOSB/1063_X_25</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:43:38+02:00</atom:published>
+    <atom:updated>2009-08-28T16:11:52+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Kremsmünster, OSB" id="272569"
+            n="Kremsmünster, OSB$72" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 92-94</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 92</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1063_X_25" old="272569">1063 X 25</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich IV. bestätigt dem Bischof Egilbert von Passau die
+                        Güter seiner Kirche, namentlich den Besitz von Kremsmünster
+                        etc.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10631025" from="10631025">25. Oktober
+                            1063</cei:dateRange>
+                    </cei:issued>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>VIII. Kal. Nov.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Lünig, Reichsarchiv XVII. 772.</cei:bibl>
+                            <cei:bibl>Hund.</cei:bibl>
+                            <cei:bibl>Gewold I. 366.</cei:bibl>
+                            <cei:bibl>Buchinger, II. 507.</cei:bibl>
+                            <cei:bibl>Mon. boic. XXIX. pag. 166 ex orig, c. sigillo. (Conf.
+                                Urkundenbuch von Kremsmünster, pag. 31. Nr. 22.)</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sanctae et indiuiduae
+                            trinitatis</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Res aecclesiasticas et seruorum dei petitiones nostro releuari
+                            iuuamine atque regali munimine tueri, ad animae nostrae remedia et ad
+                            imperii, quod administramus, profuturum esse credimus
+                            gubernacula.</cei:arenga>
+                        <cei:publicatio> Quare fidelium nostrorum praesentium scilicet ac futurorum
+                            non ignoret industria,</cei:publicatio>
+                        <cei:narratio> Egilbertum sanctae Patauiensis aeeclesiae episcopum
+                            uenerabilem episcopii sui traditiones aliquot nostrae celsitudini
+                            obtulisse obsecrantem, ut ex his nobis innotesceret, Quid regum aut
+                            imperatorum munificentia aecclesiae contulisset suae, et idem
+                            renouationis nostrae auetoritas roboraret. Eius nos iuste petitioni non
+                            solum fidelis seruitii sui assiduitate commoniti, Sed et dilecti nostri
+                            magistri ANNONJS coloniensis archiepiscopi caeterorumque fidelium
+                            nostrorum precibus sollicitati pium assensum</cei:narratio>
+                        <cei:dispositio> praebuimus et curtes, aecclesias, villas et omnia praedia
+                            cum suis pertinentiis a regibus uel imperatoribus aut ab aliis
+                            religiosis viris uel feminis sanctae Patauiensi aeeclesiae tradita,
+                            Insuper etiam specialiter abbatias Chremisimvnistivri, Matiseo cum
+                            praedio nomine Hvnisperch, capellam otingam et curtim Rviti et villam
+                            Hvfhvsvn, quemadmodum eandem Adalbertus eiusdem sanctae Patauiensis
+                            aecclesiae episcopus pro anesibvrch sanctae Lauriacensis aecclesiae
+                            praedio, ubi quondam episcopatus sedem fore nouimus, ab Heinrico duce
+                            bawariorum iuste et legaliter in concambium accepit et possedit, et in
+                            osterichi in loco, qui dicitur chirichbach, territorium quoddam cum
+                            aecclesia, quae ad radices comageni montis sita est, et in eodem monte
+                            mansos c. faciendos et plus nee non praedia quaedam in comitatu Ernasti
+                            (Ernusti) marchionis sita Gowacisbrvnnum et Bovmgarden ac Chrvbet dicta,
+                            quae dilectus noster genitor piae memoriae Heinricus imperator augustus
+                            eidem Patauiensi aeeclesiae imperiali auctoritate tradidit, cum omnibus
+                            ad eadem pertinentibus, hoc est utriusque sexus mancipiis, aecclesiis,
+                            villis, areis, cultis et incultis, agris, pratis, campis, pascuis,
+                            siluis, venationibus, aquis aquarumque decursibus, piscationibus, molis,
+                            molendinis, viis et inviis, exitibus et reditibus, quesitis et
+                            inquirendis cunctisque aliis appenditiis, quae dici possunt, donatiuo
+                            hoc nouo praefatae aeeclesiae sancti Stephani protomartyris Christi, in
+                            qua et sanctus Valentinus confessor corporaliter requiescit,
+                            prouisorumque eius potestati aeternaliter possidenda regali nostra
+                            auctoritate donamus, corroboramus atque confirmamus.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostra regalis confirmatio stabilis et
+                            inconuulsa omni permaneat aeuo, hanc cartam inde conscribi manuque
+                            propria, ut subtus cernitur, corroborantes sigilli nostri impressione
+                            iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Heinrici (Monogramma) quarti
+                            regis.<cei:lb/>Fridericus cancellarius uice sigefridi archicancellarii
+                            recognouit.</cei:subscriptio>
+                        <cei:datatio> Data VIII. Kal. Nov. Anno dominicae incarnat. M.LX.III.
+                            Indict. II. Anno autem ordinat. domni Heinrici quarti regis VIIII. Regni
+                            uero VII. actum Ratisbone</cei:datatio>
+                        <cei:apprecatio> in dei nomine feliciter. amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

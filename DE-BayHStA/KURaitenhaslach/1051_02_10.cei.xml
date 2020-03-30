@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/DE-BayHStA/KURaitenhaslach/1051_02_10</atom:id>
+    <atom:title/>
+    <atom:published>2009-03-14T19:59:08+01:00</atom:published>
+    <atom:updated>2009-08-29T16:28:15+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Raitenhaslach OCist" id="313343"
+            n="Raitenhaslach OCist$2" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Krausen, Edgar, Die Urkunden des Klosters Raitenhaslach,
+                            1034-1350, München, 1959, Nr. 2, S. 2-3</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Krausen, Edgar, Die Urkunden des Klosters Raitenhaslach,
+                            1034-1350, München, 1959, Nr. 2, S. 2-3</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1051_02_10" old="313343">1051 02 10</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich III. schenkt seinem Ministerialen Rafold zwei
+                        Königshufen zu "Nahtstal" (heute Schönberg, LK Altötting) im
+                        Zeidlarngau.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Augsburg</cei:placeName>
+                        <cei:dateRange to="10510210" from="10510210">10. Februar
+                            1051</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:figure n="BayHStA-KURaitenhaslach_10510210_0002_r">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~BayHStajpgweb._~Raitenhaslach._~BayHStA-KURaitenhaslach_10510210_0002_r.jpg"
+                                >BayHStA-KURaitenhaslach_10510210_0002_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="BayHStA-KURaitenhaslach_10510210_0002_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~BayHStajpgweb._~Raitenhaslach._~BayHStA-KURaitenhaslach_10510210_0002_v.jpg"
+                                >BayHStA-KURaitenhaslach_10510210_0002_v.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB von ca 1180 p. 13
+                            (B). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB Anfang 13. Jh. p.
+                            14 (C). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>KopB von 1442 f. 82
+                            (F'). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Annales von 1612 f.
+                            78' (G<cei:sup>2</cei:sup>), Annales von 1738 f. 51'
+                                (G<cei:sup>3</cei:sup>). </cei:witness>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Einzelabsch. 17./18.
+                            Jhr. Nr. 1 (L<cei:sup>2</cei:sup>).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>Data(i) IIII idus februarii anno dominice
+                            incarnationis MLI</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Druck: MB 3 (1764), 103 Nr. 1 zu 1050 wohl aus B.</cei:bibl>
+                            <cei:bibl>MG. DDH. III. (1931), 347 Nr. 261 aus B (hier fälschlich ins
+                                14. Jh. versetzt).</cei:bibl>
+                            <cei:bibl>VN 79 (1953), 55: deutsche Übersetzung nach MG. DDH.
+                                III.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Reg. u. Erl.: Böhmer (1831) Nr. 1612.</cei:bibl>
+                            <cei:bibl>MB 31a (1836), 326 Nr. 173 aus B.</cei:bibl>
+                            <cei:bibl>Paulhuber (1840), 103 zu 1050.</cei:bibl>
+                            <cei:bibl>Stumpf (1865) Nr. 2398.</cei:bibl>
+                            <cei:bibl>Steindorff, Jahrb.Heinrichs III. 2 (1881), 138.</cei:bibl>
+                            <cei:bibl>Deutsches Archiv 1 (1937), 503.</cei:bibl>
+                        </cei:listBiblErw>
+                        <cei:p>Der Eintrag in C trägt den Randvermerk des Klosterarchivars P. Eugen
+                            Reitter (2. Hälfte 18. Jh.): "inter Priv. Imp. Nro. 9 sed non superest."
+                            Als Verfasser und Schreiber der Urkunde wird von den Bearbeitern der MG.
+                            DDH. III. der Notar Winither A angenommen. Das Original der Urkunde
+                            diente der im 17./18. Jh. im Kloster angefertigten Abschrift L2 noch als
+                            Vorlage, wie deren Rückvermerk zeigt: "Originale habetur in monasterii
+                            archivo, vetustate tamen consumptum." Im Gegensatz zu dieser Abschrift
+                            fehlt bei den ursprünglichen Eintragungen in den beiden ältesten
+                            erhalten gebliebenen KopB des Klosters (B, C) das Eschatokoll. Bei B
+                            wurde es im 15. Jh. zum Teil nachgetragen. Vgl. Dumrath, Zum Diplom
+                            Heinrichs III. für den Ministerialen Rafold, Deutsches Archiv a. a. 0. —
+                            Über den Reichsministerialen Rafold und die spätere Umbenennung von
+                            Nahtstal in Schönberg vgl. v. Rohr, Die von Rohr. Ein mittelalterliches
+                            Geschlecht in Niederbayern, Oberösterreich und der Mark Brandenburg, in:
+                            VN 79(1953), 54 (mit weiteren Literaturhinweisen), sowie Kirchner,
+                            Staatsplanung und Reichsministerialität, in: Deutsches Archiv 10 (1953),
+                            456 ff.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et individue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Haeinricus divina favente dementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Quisquis in nostro servicio strennuus et devotus manebit, huic
+                            apud nos certum premium semper paratum erit.</cei:arenga>
+                        <cei:publicatio> Proinde omnium Christi nostrique tarn futurorum quam et
+                            presentium noverit pietas fidelium,</cei:publicatio>
+                        <cei:narratio> qualiter nos ob interventum nostri thori ac regni consortis,
+                            scilicet Agnetis imperatricis auguste, ceterorumque nostrorum fidelium
+                            Chůnradi Bawariorum ducis et Nitgeri Frisingensis episcopi
+                                Gebehardique<cei:sup>a</cei:sup> Eichstetensis episcopi servienti
+                            nostro Rafoldo duos regales mansos<cei:sup>b</cei:sup> in villa Nahtstal
+                            in pago Zidalarego<cei:sup>v</cei:sup>we in comitatu
+                                O<cei:sup>v</cei:sup>zzonis comitis sitos<cei:sup>c</cei:sup>
+                        </cei:narratio>
+                        <cei:dispositio>cum omnibus pertinentiis suis in proprium tradidimus areis,
+                            edificiis, agiis, pratis, campis, pascuis, terris cultis et incultis,
+                            silvis, venationibus, saginationibus, lignorum incisionibus, aquis
+                            aquarumque decursibus, molis, molendinis, piscationibus, viis et inviis,
+                            exitibus et reditibus, quesitis et inquirendis et cum omni utilitate,
+                            que ullo modo inde poterit provenire, ea scilicet ratione, ut prefatus
+                            serviens noster Rafoldus amodo liberam potestatem habeat commutandi,
+                            tradendi, precariandi vel quicquit illi placuerit inde
+                            faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut hec nostre, imperialis auctoritatis traditio
+                            stabilis et inconvulsa omni permaneat evo, haue cartam inde conscriptam
+                            manu propria corroborantes sigilli nostri impressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/><cei:lb/>Signum<cei:sup>d</cei:sup> domini
+                                Heinrici<cei:sup>e</cei:sup> tercii<cei:sup>f</cei:sup> regis
+                            invictissimi (M.) secundi Romanorum imperatoris augusti
+                                (SMP.).<cei:lb/><cei:lb/>Winitherius<cei:sup>g</cei:sup>
+                            cancellarius vice Bardonis<cei:sup>h</cei:sup> archicancellarii
+                            recognovi.</cei:subscriptio>
+                        <cei:datatio><cei:lb/><cei:lb/>Data<cei:sup>i</cei:sup> IIII idus februarii
+                            anno dominice incarnationis MLI, indictione IIII, anno autem domini
+                                Heinrici<cei:sup>k</cei:sup> tercii regis imperatoris seeundi
+                            ordinationis eius XXII, regni eius XII, imperii autem V, in nomine
+                            domini actum<cei:sup>l</cei:sup> Augusta;</cei:datatio>
+                        <cei:apprecatio> in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note>(a) Eberhardique L<cei:sup>2</cei:sup></cei:note>
+                    <cei:note>(b) mansus BC</cei:note>
+                    <cei:note>(c) situs BC</cei:note>
+                    <cei:note>(d) Signumzeile nur F'L<cei:sup>2</cei:sup>, L<cei:sup>2</cei:sup>
+                        ohne SMP, Rekognitionszeile nur L<cei:sup>2</cei:sup>; Text endet bei
+                            CG<cei:sup>2</cei:sup> mit insigniri; sigillum
+                        L<cei:sup>2</cei:sup></cei:note>
+                    <cei:note>(e) Henrici L<cei:sup>2</cei:sup></cei:note>
+                    <cei:note>(f) tertii L<cei:sup>2</cei:sup></cei:note>
+                    <cei:note>(g) Wintherius L<cei:sup>2</cei:sup></cei:note>
+                    <cei:note>(h) Bordonis L<cei:sup>2</cei:sup></cei:note>
+                    <cei:note>(i) Datumzeile von späterer Hand (15. Jh.) am oberen Seitenrand in B
+                        nachgetragen; Datum B</cei:note>
+                    <cei:note>(k) Hainrici B</cei:note>
+                    <cei:note>(l) dictum B.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

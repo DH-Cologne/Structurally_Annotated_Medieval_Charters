@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAKr/KremsmuensterOSB/0975_VI_21</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:43:31+02:00</atom:published>
+    <atom:updated>2009-08-28T16:11:37+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Kremsmünster, OSB" id="274746"
+            n="Kremsmünster, OSB$45" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 62-63</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 62</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0975_VI_21" old="274746">0975 VI 21</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Otto II. bestätigt dem Bischof Piligrim von Passau die
+                        Schenkung der Abtei Kremsmünster.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Altstadt</cei:placeName>
+                        <cei:dateRange to="9750621" from="9750621">21. Juni 975</cei:dateRange>
+                    </cei:issued>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XI. Kalendas (sic)</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mon. boic. XXXI. I, 225. Nr. 116. ex lib. cop.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Nach dem Zitat der Erstveröffentlichung steht die folgende Anmerkung:
+                            "Erzbischof Willigis folgte in der Würde eines archicapellanus dem am
+                            13. Jänner 975 verstorbenen [63] archicancellarius Rupert. Diesem und
+                            der angegebenen indictio III. zu Folge scheint diese Urkunde richtiger
+                            zum Jahre 975 eingereiht zu werden."</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sanctae et indiuiduae trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina fauente clementia Imperator
+                            Augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si petitiones seruorum dei iustas et rationabiles ad effectum
+                            perducimus, hoc nobis procul dubio ad regni nostri statum et ad aeternae
+                            beatitudinis praemia capessenda manifeste confidimus.</cei:arenga>
+                        <cei:publicatio> Quapropter comperiat omnium fidelium nostrorum tarn
+                            praesentium quam et futurorum industria</cei:publicatio>
+                        <cei:narratio> qualiter Piligrimus sanctae Patauiensis aecclesie presul
+                            uenerandus obtulit serenitatis nostrae obtutibus quasdam sui cartas
+                            episcopatus, in quibus continebatur, qualiter piae memoriae antecessores
+                            nostri Imperatores quandam Abbatiam Chremisa uocitatam ad Patauiensem
+                            aecclesiam iure imperiali donauerint, nostram flaggitans munificentiam,
+                            ut easdem cartas in nostra nostrorumque fidelium praesentia legi
+                            iuberemus. Cuius igitur petitionibus assensum praebentes coram fidelibus
+                            nostris eas legi fecimus et interuentu dilecti ac fidelis nostri
+                            Willigisi archiepiscopi pium praedecessorum nostrorum morem sequentes
+                            praedictam abbatiam cum omnibus ad eam iuste et legaliter pertinentibus,
+                            hoc est ecclesiis, decimationibus, cellulis, curtis, agris, uineis,
+                            nemoribus, pratis, pascuis, aquis, molendinis, exitibus et reditibus,
+                            quaesitis et inquirendis et cum omnibus attinentiis ad iam dictam
+                            patauiensem sedem</cei:narratio>
+                        <cei:dispositio> iure imperiali tradimus et traditam confirmamus eo
+                            uidelicet tenore, ut eiusdem iam dictae Patauiensis aecclesiae rectores
+                            perpetualiter eandem Abbatiam absque alicuius contradictione personae
+                            teneant atque possideant.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae donationis et renouationis confirmatio
+                            pleniorem firmioremque in Christi nomine per cuncta uoluentis mundi
+                            curricula obtineat uigorem, iussimus hanc cartam conscribi et sigillo
+                            nostro sigillatam manu propria subtus firmauimus. </cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio>Signum domini Ottonis imperatoris Augusti. (Monogramma.)
+                            Poppo Cancellarius ad uicem Willigisi archicapellani
+                            recognoui.</cei:subscriptio>
+                        <cei:datatio> Datum XI. Kalendas (sic) Anno dominice incarnationis
+                            DCCCCLXXIIII. (sic) anno regni domni Ottonis imperatoris XIII. imperii
+                            autem VII. Indictione IIIa. Actum Altstat</cei:datatio>
+                        <cei:apprecatio> in Christi nomine feliciter. Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

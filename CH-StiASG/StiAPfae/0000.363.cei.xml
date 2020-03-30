@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.363</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:07+01:00</atom:published>
+    <atom:updated>2010-02-22T15:11:48+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513600"
+            n="StA Pfaefers$12" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/3, Nr. 156, S.
+                            151-152.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/3, Nr. 156, S.
+                            151.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.363" old="513600"/>
+                <cei:chDesc>
+                    <cei:abstract>König Lothar III. bestätigt dem Kloster Pfäfers den Königsschutz,
+                        die Immunität, das Recht der freien Abtwahl und die Unabhängigkeit und
+                        verbietet die Verleihung und Verschenkung von Klostergut.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Strasbourg</cei:placeName>
+                        <cei:dateRange to="11251228" from="11251228">28. Dezember
+                            1125</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_11251228_r">
+                            <cei:graphic url="StiASG_StiAPf_11251228_r.jpg"
+                                >StiAPf_11251228_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_11251228_v">
+                            <cei:graphic url="StiASG_StiAPf_11251228_v.jpg"
+                                >StiAPf_11251228_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>49,5 x 54 cm (carta transversa)</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc> Siegel fehlt, war auf der Rückseite befestigt und zwar
+                                durch einen länglichen Pg. läppen, der an drei Seiten aus dem Pg.
+                                herausgeschnitten war, an der vierten mit diesem verbunden blieb.
+                            </cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm> Abschr.
+                                (B<cei:sup>1</cei:sup>) ebd. Cod. XXVI, f. 260' (16. Jh.). - Abschr.
+                                (B<cei:sup>2</cei:sup>) Stöckli ebd. f. 215' und Antiquitates
+                            Fabarienses ebd. Cod. 106a, f. LVIII (vor 1628). </cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>V. k. ian.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 156. - Weg. 38. - Grandidier, Histoire de l'Alsace 2,
+                                605 nach B<cei:sup>1</cei:sup>. - MG. D. L. III, n. 5. - BU. I, n.
+                                279, beide nach A.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Kopial: Abschr. (B<cei:sup>3</cei:sup>) ebd. Mappe III. 14. c. 1, S.
+                            18-19 (1634, Av. 730). - Abschr. (B<cei:sup>4</cei:sup>) ebd. V 31 c.
+                            (1636). - Abschr. (B<cei:sup>5</cei:sup>) ebd. V 33 c (1638). - Abschr.
+                                (B<cei:sup>6</cei:sup>) Widmer, Transsumpt, ebd. Cod. 17, S. 124
+                            (1656). - Abschr. (B<cei:sup>7</cei:sup>) Suiter, Annales Fabarienses,
+                            ebd. Cod. 107, S. 251. - Abschr. (B<cei:sup>8</cei:sup>) ebd. V 32 a
+                            (1696). - Weitere Abschr. Vils, Cod. 27, S. 357, 401 f.; Good, Cod. 22,
+                            f. 75'f.; V 32 bc; V 33 ab; V 39 b.$$Regest: Tschudi, Chronicon Helv. I,
+                            S. 60 (Auszug); Eichhorn, Episcopatus Curiensis, cod. prob. n. 41
+                            (Auszug); Mohr, CD. I. n. 114; Wegelin, Reg. Pfävers, n. 38; Böhmer,
+                            Reg. Imp. n. 2096; Stumpf, Reichskanzler, n. 3230; Hidber, Urk. reg. I,
+                            n. 1641; Ladewig, REC. 738; Helbok, Reg. Vorarlberg, n. 209.$$Das Diplom
+                            ist verfaßt mit Benützung von Nr. 144. - Das Stück, von der älteren
+                            Forschung als unecht betrachtet, erweist sich als unbedenklich, ist
+                            jedoch von unbekannter und in Diplomschrift ungeübter Hand geschrieben,
+                            vgl. Hirsch, Studien über die Privilegien süddeutscher Klöster, in MIÖG.
+                            7. Erg. bd. S. 479 ff.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sancte et individue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Lotarivs tercius divina favente<cei:sup>a)</cei:sup>
+                                clementia<cei:sup>b)</cei:sup> Ro + manorum rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si res ecclesiis dei pertinentes auctoritatis nostrę potentia
+                            stabilimus earumque commoda in omnibus provide perpensamus, in hac et in
+                            ęterna vita premia nobis permansura speramus.</cei:arenga>
+                        <cei:publicatio> Quapropter omnium Christi nostrique fidelium tam futurorum
+                            quam presentium noverit industria,</cei:publicatio>
+                        <cei:narratio> qualiter fidelis noster Wernerus<cei:sup>1</cei:sup>
+                                abbas<cei:sup>c)</cei:sup> venerabilis Fabariensis monasterii, quod
+                            est constructum in honore sancte dei genitricis Marię situm in pago
+                            Retia Curiensi in comitatu
+                                Ro<cei:sup>v</cei:sup>dolfi<cei:sup>2</cei:sup>, cum
+                                monachis<cei:sup>d)</cei:sup> sibi subiectis celsitudinis nostrę
+                            clementiam adiit, humiliter postuians et obsecrans ut eosdem monachos
+                            atque res predicti monasterii propter quorundam hominum perversorum
+                            tergiversationes in nostrum mundiburdium et tuitionem susciperemus atque
+                            illorum precepta ac privilegia, quę ab antecessoribus nostris regibus
+                            vel inperatoribus<cei:sup>e)</cei:sup> acceperunt, nostrę auctoritatis
+                            munimine renovando confirmaremus electionemque illis concederemus.
+                            Insuper etiam ostendit nobis precepta ac privilegia antecessorum
+                            nostrorum regum vel inperatorum Karoli, Lo<cei:sup>v</cei:sup>duuici,
+                            trium Ottonum, Heinrici secundi, Chunradi nec non Heinrici tercii et
+                            Heinrici quarti, in quibus continebatur, ut prefati monachi regię vel
+                            imperialis defensionem tuitionis super res ad idem monasterium
+                            pertinentes habere debeant. Quorum nos petitioni pro ęterna
+                            remuneratione annuentes monachos et res ad ipsos pertinentes * </cei:narratio>
+                        <cei:dispositio>in nostrum mundiburdium * suscepimus, eo * tenore ut nullus
+                            * iudex dux comes * episcopus vel quilibet * in eis vel in eorum rebus
+                            aliquam exerceat potestatem *, sed eiusdem monasterii prefatus abbas *
+                            eiusque successores ad monachorum usus * potestative teneant atque
+                            possideant. Sit vero abbatia eadem libera et ab omni * iniqua potestate
+                            secura, nec alicui * regum vel imperatorum liceat hanc abbatiam vel res
+                            suas alteri monasterio aut personę inbeneficiare aut in proprietatem
+                                donare<cei:sup>3</cei:sup>. Concessimus nanque<cei:sup>f)</cei:sup>
+                            eis electionem et potestatem *, quemcunque inter eos abbatem voluerint
+                            eligere *.</cei:dispositio>
+                        <cei:corroboratio> Et ut hęc presentis auctoritas precepti firmior
+                            stabiliorque nostris successoribus credatur, hanc cartam * scribi et *
+                            sigillari iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum Lotarii tertii Romanorum regis. + (M.)
+                            (SI. D.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Hec notata sunt sub Adalberto archicancellario
+                            Mogontino archiepiscopo<cei:sup>6</cei:sup>.<cei:lb/>Data est V. k.
+                            ian., anno incarnationis domini MCXXV, indictione III; actum Argentinę
+                            coram principibus<cei:sup>h)</cei:sup>.</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup><cei:quote>u</cei:quote> verschrieben aus
+                        <cei:quote>n</cei:quote> A. - <cei:sup>b)</cei:sup><cei:quote>a</cei:quote>
+                    verschrieben A. - <cei:sup>c)</cei:sup> erstes <cei:quote>b</cei:quote>
+                    verschrieben aus <cei:quote>l</cei:quote>, A. -
+                        <cei:sup>d)</cei:sup><cei:quote>monanachis</cei:quote> A; die Verschreibung
+                    entstand durch Abteilung des Wortes von Z. 4 auf Z. 5. -
+                        <cei:sup>e)</cei:sup><cei:quote>e</cei:quote> wohl verschrieben. -
+                        <cei:sup>f)</cei:sup> A. -<cei:sup>g)</cei:sup><cei:quote>Hec -
+                        archiepiscopo</cei:quote> auf der Signumzeile in Minuskelschrift. -
+                        <cei:sup>h)</cei:sup> zweites <cei:quote>p</cei:quote> durch Rasur korr. aus
+                        <cei:quote>b</cei:quote>; nach dem Worte eine radierte Stelle. -
+                        <cei:sup>1</cei:sup> Abt Werner erscheint urkundlich nur hier; Jahrzeit zum
+                    24. Feb., vgl. Necr. Fab. 1 (Anfang 14. Jh. Stiftsarchiv Pfävers). S. Perret,
+                    ZSKG. 1950, S. 277. n. 33. - <cei:sup>2</cei:sup> Rudolf von Bregenz, Graf in
+                    Unterrätien. - <cei:sup>3</cei:sup> Der Satz über die Unabhängigkeit des
+                    Klosters bezieht sich nicht direkt, wie Hirsch, a. a. 0. vermutet, auf die
+                    Ansprüche des Bistums Basel (vgl. Nr. 146-152) sondern geht formell auf das alte
+                    Verbot benefiziarischer Verleihung zurück, vgl. Nr. 144.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1140_V_03</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:56:55+01:00</atom:published>
+    <atom:updated>2009-08-28T21:40:18+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240044"
+            n="Freising B$100" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            97-98</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 97, Nr.
+                            100</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1140_V_03" old="240044">1140 V 03</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Konrad III. bestätiget die Privilegien des Bisthumes
+                        Freising unter namentlicher Betonung des Besitzes der Grafschaft
+                        Cadober.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Frankfurt</cei:placeName>
+                        <cei:dateRange to="11400503" from="11400503">3. Mai 1140</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig/>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f.
+                            18</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>V. nonas Maii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Resch: Aetas millen 159, Monum. boica XXXI./1, 294.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Conradus diuina fauente clementia Romanoruin rex
+                            secundus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si religiosorum uirorum dignis peticionibus benigne
+                            acquiescimus, si illorum utilitati paterne consulimus, si priuilegia
+                            ecclesiis dei antiquitus collata renouando confirmamus, si libertatis
+                            iura eisdem rationabiliter concessa retinemus et conseruamus procul
+                            dubio predecessorum nostrorum regum siue imperatorum exempla sequendo
+                            tenemus et id nimirum tam ad presentis uite felicem cursum peragendum
+                            quam ad future uite beatitudinem promerendam nobis profuturum non
+                            dubitamus.</cei:arenga>
+                        <cei:publicatio> Omnibus Christi nostrisque fidelibus tam futuris quam
+                            presentibus notum esse uolumus, </cei:publicatio>
+                        <cei:narratio>qualiter nos pro remedio anime nostre nec non parentum
+                            nostrorum et instinctu dilectissime (coniugis) nostre Gerdrudis regine,
+                            interuentu quoque dilecti fratris nostri Ottonis uenerabilis episcopi
+                            omnia sancte Frisingensis ecclesie priuilegia renouando confirmasse,
+                            nominatim autem comitatum Catuurie cum prediis adiacentibus que pie˛
+                            memorie imperator Otto pia matris sue Adelheidis peticione et
+                            uenerabilis episcopi Abrahe legitime eidem concessit
+                            ecclesie.</cei:narratio>
+                        <cei:dispositio> Decernimus etiam regia auctoritate, ut ministeriales
+                            eiusdem ecclesie in ea libertate permaneant in qua ministeriales regni
+                            et ceterarum ecclesiarum (existunt?), et in predicto episcopatu nemo
+                            monetam habeat preter ipsum episcopum. Preterea firme interdicimus omne
+                            nouum forum in eodem episcopatu, nisi quod antiquitus roboratum est
+                            auctoritate predecessorum nostrorum, in ipsa vero Frisingensi ciuitate
+                            annale forum concedimus.</cei:dispositio>
+                        <cei:corroboratio> Ut autem liuius nostre renouationis et confirmationis
+                            preceptum stabile permaneat, hanc cartam inde scribi et sigilli nostri
+                            inpressione insigniri iussimus manuque propria ut infra apparet,
+                            corroborantes testes qui presentes aderant, subnotari feeimus, quorum
+                            nomina hec sunt, Adelbertus Moguntinus archiepiscopus, Adelbero
+                            Treuirensis archiepiscopus et apostolice sedis legatus, Embricho
+                            Wirceburgensis episcopus, Bucco Wormatiensis episcopus, Sifridus
+                            Spirensis episcopus, Reimbertus Patauiensis episcopus, Adebertvs (!) dux
+                            Saxonie, Conradus dux Burgundie, Heinricus comes palatinus, Engelbertus
+                            marchio, Othelricus comes de Lenzeburch.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domni Cunradi secundi Romanorum regis inuictissimi
+                            (M.). Ego Arnoldus cancellarius uice Adelberti Moguntini
+                            archicancellarii recognoui.</cei:subscriptio>
+                        <cei:datatio> Anno dominice incarnationis M. CXL., indictione III., regnante
+                            Cunrado Romanorum rege secundo anno vero regni eius III., data
+                            Francheneuord V. nonas Maii</cei:datatio>
+                        <cei:apprecatio> in Christo feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

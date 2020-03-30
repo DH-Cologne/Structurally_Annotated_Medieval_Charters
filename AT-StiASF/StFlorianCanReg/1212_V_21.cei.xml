@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiASF/StFlorianCanReg/1212_V_21</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:46:43+02:00</atom:published>
+    <atom:updated>2009-08-28T17:01:49+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="St. Florian, CanReg" id="287353"
+            n="St. Florian, CanReg$378" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 547-550</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 547</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1212_V_21" old="287353">1212 V 21</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto IV. nimmt das Kloster St. Florian in seinen besonderen
+                        Schutz und bestätigt die durch Herzog Leopold von Österreich eingeleitete
+                        Befreiung des Klosters St. Florian von der weltlichen
+                        Gerichtsbarkeit.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Nürnberg</cei:placeName>
+                        <cei:dateRange to="12120521" from="12120521">21. Mai 1212</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StAStFlorian_12120521">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgweb._~Urkunden._~1071-1299._~StAStFlorian_12120521.jpg"
+                                >StAStFlorian_12120521.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StAStFlorian_12120521_v">
+                            <cei:graphic
+                                url="K.._MOM-Bilddateien._~StFlorianjpgweb._~Urkunden._~1071-1299._~StAStFlorian_12120521_v.jpg"
+                                >StAStFlorian_12120521_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>Stiftsarchiv St. Florian
+                                (http://www.stift-st-florian.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc> Das Siegel hängt an grünen Seidenfäden, ist wohlerhalten,
+                                und stimmt mit der Abbildung im Chron. Gottw. I. 402 überein: Die
+                                Umschrift lautet: C. DEI GRATIA OTTO ROMANORVM IMPP. (sic) ERATOR ET
+                                SEMPER AVGVSTVS. </cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XII Kalendas Junii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Abgedruckt bei Kurz, Albrecht IV. II. 470.</cei:bibl>
+                            <cei:bibl>Coll. Stülz, Geschichte von St. Florian, 280.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto quartus diuina fauente clemencia romanorum imperator
+                            et semper augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Imperialis dignitatis debitum prosequentes Ecclesias et
+                            pauperes christi pie fouere et a uiolatorum oppressione eripere pro
+                            diuina miseracione intendimus, ab ipso, per quem Reges regnant, deuoti
+                            studii nostri premium expectantes; ad instanciam igitur dilecti
+                            consanquinei nostri Leopoldi Illustris Ducis austrie ac styrie
+                            ecclesiam, que domus sancti floriani uocatur, pro spe eterne
+                            retributionis in specialem defensionem nostram recepimus omnia iura sua
+                            illi confirmantes et cuncta beneficia, que prefatus Dux et antecessores
+                            sui eidem Ecclesie contulerunt, auctoritate nostra
+                            corroborantes.</cei:arenga>
+                        <cei:publicatio> Omnibus ergo christi fidelibus presentis pagine inspectione
+                            innotescere uolumus,</cei:publicatio>
+                        <cei:narratio> quod prefata Ecclesia per prouidenciam iam dicti principis
+                            mediante Ottone eiusdem Ecclesie preposito a iurisdictione secularium
+                            iudicum taliter est exempta videlicet, quod Ortolfus de uolchinsdorf
+                            ministerialis Ducis Austrie iudex prouincie, in qua eadem Ecclesia sita
+                            est, omne ius, quod in prediis et in hominibus illius Ecclesie racione
+                            secularis iudicii habebat, tu<cei:sup>o</cei:sup>maduocato et ille Duci
+                            resignauit et Ecclesia eidem Ortolfo Trecentas quinquaginta libras
+                            publice monete auxilio Ducis freta persoluit, ut isdem Ortolfus predia
+                            sua in lamperge et gruennowe sita ad estimacionem annue pensionis
+                            viginti librarum cum omni proprietatis iure Duci traderet, quibus iam
+                            dictus Dux tu<cei:sup>o</cei:sup>maduocatum et ille sepedictum Ortolfum
+                            in recompensacionem resignati iuris pheudali iure denuo inuestiret et
+                            hec omnia presente Herbordo fratre prefati Ortolfi cum auxilio Ducis et
+                            consensu tu<cei:sup>o</cei:sup>maduocati sub ydoneis testibus et debita
+                            sollempnitate adhibita sunt tractata. Nos itaque pro misericordia dei
+                            promerenda totam istius facti seriem ratam habentes sepedictam Ecclesiam
+                            sancti floriani cum hominibus et prediis suis cultis et incultis,
+                            quesitis et inquisitis, habitis et habendis, cum pratis et
+                            pascuis,</cei:narratio>
+                        <cei:dispositio> cum uenacionibus et piscacionibus ab omni iure et
+                            obnoxietate secularis iudicii Imperiali auctoritate eximentes absoluimus
+                            et liberam esse statuimus. Decernimus igitur, ut ab hac die nostre
+                            constitucionis in antea nulli umquam secularium iudicum liceat alicuius
+                            placitacionis formam in prediis Ecclesie exercere nec homines ipsius
+                            Ecclesie siue Colonos siue proprios siue censuales ad standum suo
+                            iudicio conpellere nec de nauigacionibus nec de uectionibus uenalium
+                            suorum aliquid ab eis exigere; volumus enim, ut ipsa Ecclesie predia et
+                            omnes cause, que in ipsis emerserint, ab omni iurisdictione seculari tam
+                            integre sint exempta, ut de ipsis soli preposito et eius officialibus
+                            liceat cognoscere et de cognitis diffinire. Quod si aparencia furti uel
+                            latrocinii aut aliquid genus maleficii, quod mortem exigit malefici, in
+                            homine Ecclesie notorie fuerit deprehensum, quia huius iudicii
+                            execucionem ordo ecclesiasticus sibi non uendicat, omni possessione rei
+                            tam mobili quam inmobili Ecclesie adiudicata, sola et nuda nocentis
+                            persona per eum, qui in defensione Ecclesie uices Ducis Austrie sibi
+                            gerit conmissas, ad iudicium sanquinis tradatur omni tamen culpa, que
+                            pecuniarias admittit conposiciones, Ecclesie reseruata et concessa.
+                            Nocentium autem personarum inquisiciones officiales Ecclesie tantummodo
+                            faciant. Inuentos uero a bonis Ecclesie infra mensem amoueant et in eis
+                            priuilegio suo renuncient et de factis eorum deinceps respondere non
+                            teneatur Ecclesia. Confirmamus preterea sepius memorate Ecclesie sancti
+                            floriani omnia iura priuilegiorum sibi a pataviensis Ecclesie presulibus
+                            et a Ducibus Austrie super diuersis iusticiis collatorum, eximentes eam
+                            secundum continenciam priuilegiorum Ducis Austrie ab omni uectigalium et
+                            theloneorum solucione et reddicione marchialis annone, remittentes etiam
+                            ei uniuersaliter omnes iusticias aduocacie, scilicet placita, bannos,
+                            steuras, oblaciones, pernoctaciones, omnisque generis obuenciones
+                            secundum formam priuilegiorum Reinberti pataviensis Episcopi et Leopoldi
+                            Illustris Ducis Austrie et Styrie. Sed quia utilitas Ecclesie exigit, ut
+                            Dux Austrie defensor et aduocatus sepedicte Ecclesie propter frequentes
+                            occupaciones suas alicui uices suas in defensione eiusdem Ecclesie
+                            conmittat, ne occasione talis conmissionis, que ad repellendas ab
+                            Ecclesia oppressiones ab ipso Duce pro tempore pie fit, contra ius huius
+                            priuilegii ipsi uicedefensores in illicitas transeant abusiones,
+                            uniuersorum noticie uolumus inculcari, quod ei soli fieri debet talis
+                            conmissio, quem prepositus Sibi ad hoc ydoneum a Duce postulauerit, qui
+                            nec nomine nec aliqua utilitate seu iure aduocati sibi usurpato tantum
+                            sub legacione Ducis eiusdem Ecclesie prepositum fideliter manuteneat,
+                            non se ingerendo nisi in illis nisi in illis (sic) tantum negociis, ad
+                            que prepositus eum expetiuerit, nullas sibi uendicans utilitates preter
+                            pecuniarias conposiciones, que pro lesione hominibus Ecclesie ab
+                            extraneis illata Ducibus austrie sic ut ueris aduocatis fuerint
+                            adiudicate, prius tamen Ecclesie et leso plena satisfactione exhibita.
+                            In hominibus autem et prediis seu colonis Ecclesie nichil Sibi iuris
+                            uendicet nomine huius conmissionis, nisi forte ad cohercionem rebellium
+                            personarum a preposito fuerit ascitus. Quia uero pretextu talium
+                            conmissionum huiusmodi uicedefensores frequenter auiditate temeraria in
+                            iura aduocatorum se solent ingerere, firmiter interponimus, ut, si
+                            quando a tali uicedefensore prepositus se senserit grauari, liceat ei
+                            ipsum recusare et alium a Duce expetere. Et ne diuturnitas temporis ulli
+                            talium possit in preiudicium Ecclesie suffragari, statuimus, ut
+                            expirante tempore administracionis prepositi, talis etiam expiret
+                            conmissio, donec successor eius ipsum denuo expetat, uel alium. Horum
+                            autem articulorum tam circa exemptionem sepedicte Ecclesie a foro
+                            secularis iudicii quam circa iura aduocatie tam cautam expressionem
+                            uniuersitas omnium hanc paginam inspiciencium nos nouerit ideo tam
+                            sollicite annotasse, ut omnis questio super iusticiis fori secularis
+                            tarn hic expressis quam non expressis ab irruptione huius nostri
+                            priuilegii sit exclusa. Et ut nostra nouerit posteritas, neque per
+                            pheudacionem neque per aliud quodcunque genus alienacionis huius
+                            exceptionis priuilegium infringi infringi (sic) posse uel uiolari in
+                            perpetuum: Quod si in eius preiudicium aliquo precipiti consilio ab
+                            heredibus Leopoldi Illustris Ducis Austrie et Styrie inpheudacio de solo
+                            facto contigerit, irritam eam et omni robore uacuam censemus omnino non
+                            tenere.</cei:dispositio>
+                        <cei:corroboratio> Ad cuius rei euidenciam et nostre diffinicionis perpetuam
+                            stabilitatem presentem paginam autentici nostri inpressione insignimus
+                            robore perpetuo ualituram cum horum testium subscriptione: Liupoldus Dux
+                            austrie et Styrie, Bernardus Dux Karintie, Diepoldus Marchio de
+                            Voheburc, Gebhardus comes de Tollensten, Otto
+                            tu<cei:sup>o</cei:sup>maduocatus, Vlricus de Peka et Leutoldus frater
+                            suus, Gundakar de stir, Godfridus de Trussen, Rodulphus de Stadek,
+                            Rainbertus de Mu<cei:sup>o</cei:sup>recd, Fridericus de Pettowe,
+                            Leutoldus comes de Plaien, Otto de Crems, Otto de Graez, Duringus de
+                            Ratelperge et frater suus, Harnidus filius Herrandi de
+                            Wilidonen,Godfridus de Ewenstain, Herbordus de folkestorf, Henricus
+                            Marescalcus Imperii, Walterus Pincerna Imperii et alii quam plures.
+                        </cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio>Signum domini Ottonis quarti Romanorum imperatoris
+                            inuictissimi.</cei:subscriptio>
+                        <cei:datatio> Acta sunt autem hec Anno Domini Millesimo Ducentesimo Tercio
+                            Decimo. Regnante domino Ottone Quarto Romanorum Imperatore glorioso,
+                            Anno Imperii eius tercio.<cei:lb/>Datum apud Norenberc XII Kalendas
+                            Junii, Indictione quinta Decima. (Monogramma.)</cei:datatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-StiAKr/KremsmuensterOSB/0975_VI_11</atom:id>
+    <atom:title/>
+    <atom:published>2008-05-09T15:43:29+02:00</atom:published>
+    <atom:updated>2009-08-28T16:11:28+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Kremsmünster, OSB" id="274635"
+            n="Kremsmünster, OSB$44" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 61</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856) S. 61</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0975_VI_11" old="274635">0975 VI 11</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Otto II. erneuert dem Bischof Piligrim von Passau die Schenkung
+                        der Abtei Kremsmünster.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Erfurt</cei:placeName>
+                        <cei:dateRange to="9750611" from="9750611">11. Juni 975</cei:dateRange>
+                    </cei:issued>
+                    <cei:witListPar> </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III. idus Junii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mon. boic. XXXI. I. 223. Nr. 115. ex lib. cop.
+                                patav.</cei:bibl>
+                            <cei:bibl>Urkundenbuch von Kremsmünster, pag. 26. Nr. 15.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>In nomine sanctae et indiuidue trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto diuina clementia Imperator
+                            Augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> Nouerit omnium fidelium nostrorum tarn praesentium quam et
+                            futurorum industria,</cei:publicatio>
+                        <cei:narratio> qualiter uenerabilis Piligrimus sanctae Patauiensis
+                            aecclesiae episcopus obtutibus serenitatis nostrae adtulit quasdam sui
+                            Kartas episcopatus, in quibus continebatur, qualiter piae recordationis
+                            antecessores nostri Hludowicus et Arnolfus imperatores quamdam sui iuris
+                            Abbatiam Chremisa vocitatam ad Patauiensem aecclesiam, quae est in
+                            honore sancti Stephani prothomarthyris Christi constructa et dedicata,
+                            ubi sanctus Valentinus confessor Christi corpore requiescit, iure
+                            imperiali donauerint, obsecrans pietatis nostrae munificentiam, ut eas
+                            nostre quoque auctoritatis roboratione renouaremus. Idcirco non suae
+                            solum seruitutis assiduitate commoniti sed et interuentu fidelium
+                            nostrorum Willigisi et Gereonis archiepiscoporum incitati iustis eius
+                            praecibus assensum</cei:narratio>
+                        <cei:dispositio> praebuimus et eandem abbatiam cum omnibus iuste et
+                            legaliter pertinentibus ad praefatam aecclesiam sancti Stephani, ubi
+                            Piligrimus pontifex praeesse dinoscitur, donamus et imperiali uigore
+                            perpetualiter roboramus eo uidelicet tenore, ut sepedictae aecclesiae
+                            rectores eandem iam dictam Abbatiam sine alicuius contradictione atque
+                            molestia securiter teneant atque possideant. </cei:dispositio>
+                        <cei:corroboratio>Et ut haec nostrae donationis et renouationis auctoritas
+                            ueriorem firmioremque per cuncta uoluentis mundi curricula optineat
+                            uigorem, iussimus hanc cartam conscribi et anuli nostri inpressione
+                            sigillatam manu propria subtus firmauimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio> Signum domini Ottonis Imperatoris augusti. (Monogramma.)
+                            Poppo Cancellarius ad uicem Willigisi archicapellani
+                            recognoui.</cei:subscriptio>
+                        <cei:datatio> Datum III. idus Junii anno dominice incarnationis DCCCCLXXV.
+                            Indictione III. anno uero regni domni imperatoris Ottonis XIIII. Imperii
+                            autem VIII. Actum Erfesfurt</cei:datatio>
+                        <cei:apprecatio> In Christi nomine feliciter. Amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

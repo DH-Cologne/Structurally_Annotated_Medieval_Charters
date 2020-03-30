@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.399</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:27+01:00</atom:published>
+    <atom:updated>2011-04-06T11:19:37+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" id="513761" type="charter"
+            b_name="StA Pfaefers" n="StA Pfaefers$7">
+            <cei:body>
+                <cei:idno id="0000.399" old="513761"/>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Konrad II. bestätigt dem Kloster Pfäfers die Immunität und
+                        das Recht der freien Abtwahl.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Strasbourg</cei:placeName>
+                        <cei:dateRange to="10320130" from="10320130">30. Januar 1032</cei:dateRange>
+                    </cei:issued>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III. k. feb.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 118. - Weg. 25. - Tschudi, Chron. Helv. I, S. 12
+                                (Auszug); Herrgott, Genealogia 2, n. 171 wohl nach A = Mohr CD. I,
+                                n. 82 (unvollständig). - MG. D. K. II, n. 179 nach A. - BU. I, n.
+                                176.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Regest: Wegelin, Reg. Pfävers, n. 25; Böhmer, Reg. imp. n. 1379;
+                            Hidber, Urk. reg. I, n. 1300; Stumpf, Reichskanzler, n.
+                            2029.$$Geschrieben von Notar D des Kanzlers Udalrich mit Benützung des
+                            dem Kaiser vorgelegten Diploms Heinrichs II. Da dieses nicht mehr
+                            vorhanden ist, werden die Übereinstimmungen mit dem Privileg Ottos I.
+                            vom 11. Juni 972 (n. 80) durch Petitdruck gekennzeichnet.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:witnessOrig>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:auth>
+                            <cei:sealDesc>Das einst durchgedrückt gewesene Siegel fehlt.
+                                Siegeleinschnitte.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:dimensions>60 x 49,5 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:figure n="StiAPf_10320130_r">
+                            <cei:graphic url="StiASG_StiAPf_10320130_r.jpg"
+                                >StiAPf_10320130_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_10320130_v">
+                            <cei:graphic url="StiASG_StiAPf_10320130_v.jpg"
+                                >StiAPf_10320130_v.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr. (B<cei:sup>1
+                                etc.</cei:sup>) Tschudi ebd. Lit. B, n. 8 (Ausz.); ebd. Cod. 127 IV,
+                            S. 9-10 (1634, Av. 730); ebd. Mappe V 31 c (1636) und V 33 c (1638);
+                            Suiter, Cod. 107, S. 204 (1696).</cei:witness>
+                        <cei:witness><cei:traditioForm>ins.</cei:traditioForm>Mappe V 32 a (1696);
+                            Cod. 27, S. 262, 340, 391 f.; Good, Cod. 22, f. 72' f.; Mappe III 14 d
+                            (1739) S. 40 f.; V 32 bc; V 33 ab; V 39 b. - Reg.: Widmer, Transsumpt,
+                            Cod. Fab. 17, S. 106 (1656). - Auszug bei Scheuckzer CD.</cei:witness>
+                    </cei:witListPar>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Chuonradus divina favente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio> + Noverit omnium dei nostrique fidelium tam presentium quam
+                            et futurorum sollertia,</cei:publicatio>
+                        <cei:narratio> qualiter fidelis noster Salomon abbas Fabariensis monasterii,
+                            quod constructum est in honore sanctae dei genitricis
+                                Mariae<cei:sup>a)</cei:sup> situm in pago Retia Curiensi * in
+                            comitatu Marguuardi<cei:sup>b)1</cei:sup>, cum monachis sibi subiectis
+                            celsitudinis nostrae clementia<cei:sup>c)</cei:sup> adiit
+                                ho<cei:sup>v</cei:sup>militer<cei:sup>d)</cei:sup> obsecrans, ut
+                            eosdem monachos atque res predicti monasterii propter quorundam hominum
+                            perversorum tergiversationes in nostrum mundiburdium et tuitionem
+                            susciperemus atque illorum precepta ac privilegia quae ab antecessoribus
+                            nostris regibus vel imperatoribus acceperunt, nostrae auctoritatis
+                            munimine renovando confirmaremus electionemque illis concederemus.
+                            Insuper etiam ostendit nobis precepta ac privilegia antecessorum
+                            nostrorum regum et imperatorum Karoli * Ludouuici et trium Ottonum nec
+                            non beatae memorię Heinrici imperatoris, in quibus continebatur, ut
+                            prefati monachi regię vel imperialis defensionem tuitionis super res ad
+                            idem monasterium * pertinentes habere debuissent. Quorum nos petitioni
+                            ob amorem Christi et ob interventum dilectae coniugis nostrae Gislae
+                            imperatricis augustae et amantissimę<cei:sup>e)</cei:sup> nostrae prolis
+                            Heinrici regis ipsos monachos et res ad prefatum monasterium pertinentes </cei:narratio>
+                        <cei:dispositio>per hoc imperiale preceptum in nostrum mundiburdium et
+                            tuitionem suscepimus, eo quoque tenore ut nullus publicus iudex dux *
+                            comes vel episcopus vel quislibet iudiciaria potestate constitutus
+                            aliquam super eos in rebus vel in familiis eorum exerceat potestatem
+                            intus vel foris, sed eiusdem monasterii prenominatus abbas suique
+                            successores ad monachorum necessarios usus
+                                potestative<cei:sup>f)</cei:sup> teneant atque possideant; et ut
+                            nullus inde quippiam alicui in beneficium prestare presumat, sed sub
+                            nostra defensione illorum res perpetualiter permaneant ad illorum, ut
+                            supra diximus, necessarios usus. Concessimus namque eis electionem et
+                            potestatem firmissimam quemcunque inter eos abbatem voluerint eligere,
+                            quatinus eos pro nobis libentius deum exorare delectet.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec presentis auctoritas precepti firmior
+                            stabiliorque cunctis nostris fidelibus credatur, hanc kartam inscribi
+                            anulique nostri impressione sigillari iussimus propriaque manu nostra
+                            subtus firmavimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Chuonradi invictissimi Romanorum
+                            imperatoris (M.) augusti. +<cei:lb/>+ O<cei:sup>v</cei:sup>dalricus
+                            cancellarius vice Bardonis archycapellani recognovit. +
+                            (SI.D.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data III. k. feb.<cei:sup>g)</cei:sup> indictione XV,
+                            anno dominice incarnationis millesimo XXXII°, anno autem domni Chuonradi
+                            secundi regnantis VIII, imperantis vero V; actum
+                            Strazburch;</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 118, S.
+                            118.</cei:bibl>
+                    </cei:sourceDescRegest>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 118, S.
+                            119-120.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                </cei:sourceDesc>
+            </cei:front>
+        </cei:text>
+    </atom:content>
+</atom:entry>

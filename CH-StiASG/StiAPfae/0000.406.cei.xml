@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/CH-StiASG/StiAPfae/0000.406</atom:id>
+    <atom:title/>
+    <atom:published>2009-11-14T11:23:31+01:00</atom:published>
+    <atom:updated>2010-02-22T15:11:56+01:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="StA Pfaefers" id="513784"
+            n="StA Pfaefers$6" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 88, S.
+                            93-94.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>UB der südl. Teile des Kantons St. Gallen I/2, Nr. 88, S.
+                            93.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="0000.406" old="513784"/>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Otto II. bestellt den Mönch Alawich von Reichenau zum Abt
+                        von Pfäfers und bestätigt dem Kloster das Recht der freien Abtwahl und die
+                        Immunität.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Dornburg</cei:placeName>
+                        <cei:dateRange to="9731013" from="9731013">13. Oktober 973</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="StiAPf_09731013_v">
+                            <cei:graphic url="StiASG_StiAPf_09731013_v.jpg"
+                                >StiAPf_09731013_v.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="StiAPf_09731013_r">
+                            <cei:graphic url="StiASG_StiAPf_09731013_r.jpg"
+                                >StiAPf_09731013_r.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>StA Pfäfers.</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                            <cei:condition>am Rande besch.</cei:condition>
+                            <cei:dimensions>54 x 50 cm</cei:dimensions>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Das durchgedrückt gewesene Siegel fehlt.
+                                Siegelschnitt.</cei:sealDesc>
+                        </cei:auth>
+                        <cei:nota>Rückvermerk (15. Jh.): Dat. DCCCCLXXIIII.</cei:nota>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Abschr.
+                                (B<cei:sup>1</cei:sup>) Auszug Tschudis ebd. litt. B, Nr. 7. -
+                            Abschr. (C<cei:sup>1</cei:sup>) Auszug aus Tschudi, ebd. cod. XXVI, f.
+                            260' (nach 1600). - Abschr. (B<cei:sup>2</cei:sup>) Widmer, Transsumpt,
+                            ebd. Cod. 17, S. 92 (1656).</cei:witness>
+                        <cei:witness><cei:traditioForm>ins.</cei:traditioForm>Abschr.
+                                (B<cei:sup>3</cei:sup>) Suiter, Annales Fabarienses, ebd. Cod. 107,
+                            S. 180 (1696). - Abschr. (B<cei:sup>4</cei:sup>) Vils, ebd. Cod. 27, S.
+                            336, 343. - Abschr. (B<cei:sup>5</cei:sup>) Good, ebd. Cod. 22 f.
+                            70'.</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>III. id. octob.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>UB Süd 88. - Weg. 20. - Eichhorn, Episcopatus Curiensis, cod.
+                                prob., n. 25 (unvollständig) nach A zu 974. - MG. D. O. II, n. 63
+                                nach A. - BU. I, n. 139 nach A.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:p>Regest: Wegelin, Reg. Pfävers, n. 20; Böhmer, Reg. Imp., n. 481 zu
+                            974; Hidber, Urk. reg. I, n. 1107; Stumpf, Reichskanzler, n. 611.$$Das
+                            Diplom ist mundiert von einem Schreiber, der nur noch ein einziges
+                            Privileg ausführte (MG. D. O. I, 430) nach dem Konzept des Notars B des
+                            Kanzlers Willigis unter Benützung der Diplome 80 und 81 für den zweiten
+                            Teil der Urkunde. Die Datierung weist das Ärenjahr 974 auf, Königs- und
+                            Kaiserjahre dagegen ergeben das Jahr 973, was bei der Uneinheitlichkeit
+                            der Datierungselemente maßgebend sein dürfte; vgl. Sickel, Einleitung zu
+                            MG. D. O. II, S. 7.</cei:p>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>P + In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Otto divina favente dementia imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:publicatio>Noverit omnium fidelium nostrorum tam praesen + tium quam et
+                                futurorum<cei:sup>a)</cei:sup> industria,</cei:publicatio>
+                        <cei:narratio> qualiter monachi Fabariensis abbatiae nostram clementiam
+                            quęsierunt abbatem sibi dare subplicantes nobisque praecepta
+                            antecessorum nostrorum, videlicet regum ac imperatorum Karoli, Ludovuici
+                            nostrique genitoris Ottonis ceterorumque afferentes, in quibus
+                            electionem sibi abbatem eligendum ab ipsa
+                                congregatione<cei:sup>b)</cei:sup> praefati monasterii
+                                affirmatum<cei:sup>c)</cei:sup> invenimus. Nos vero abbatiam cuidam
+                            monacho Augensis coenobii nomine Alauuico<cei:sup>1</cei:sup>
+                            commendatam habuimus quem idoneum et a nostris fidelibus probatum vitam
+                            beati Benedicti monachos instruendum eligimus et abbatem posuimus.
+                            Quorum tamen depraecationi ob amorem Christi futuraeque mercedis
+                            augmentum benigne consentientes privilegii praeceptum electionisque
+                            scriptum sicut ab antecessoribus nostris abbatem sibi ab ipso coenobio
+                            eligendum tenuerunt,</cei:narratio>
+                        <cei:dispositio> tali tenore concessimus ut post obitum ac discessum ipsius
+                            praelibati Alauuici abbatis firmiter teneant. Insuper eadem
+                                munificitia<cei:sup>c)</cei:sup> de rebus ad praefatum monasterium
+                            pertinentibus concessimus ut nullus iudex publicus vel episcopus vel
+                            comes vel quilibet iudiciaria potestate constitutus aliquam super eos in
+                            rebus vel in familiis eorum exerceat potestatem intus vel foris, sed
+                                eusdem<cei:sup>c)</cei:sup> monasterii abbas ad monasterii ac
+                            monachorum * usus potestative teneat ac possideat; et ut nullus inde
+                            alicui beneficium praestare praesumat, sed sub nostra imperiali
+                            defensione illorum res perpetualiter permaneat<cei:sup>c)</cei:sup>,
+                                sed<cei:sup>d)</cei:sup> in eiusdem monasterii abbatis arbitrio fiat
+                            perdonavimus.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec nostrae donationis ac privilegii auctoritas
+                            imperialis firmior stabiliorque apud successores
+                                nostros<cei:sup>e)</cei:sup> permaneat a cunctisque catholicis
+                            Christique fidelibus veratius credatur, manu nostra propria subtus
+                            firmantes anuloque nostri imperialis palatii iussimus
+                            sigillari.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>+ Signum domni Ottonis (M.)
+                                invitissimi<cei:sup>c)</cei:sup> imperatoris augusti. +<cei:lb/>+
+                            Vuillegisus cancellarius vice Rodberti archicapellani subscripsi. + (SI.
+                            D.) (SR.)</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data III. id. octob.<cei:sup>f)</cei:sup>, anno
+                            Incarnationis dominicae DCCCCLXXIIII, indictione II, anno regni domni
+                            Ottonis XIII, imperii vero VI; actum Dorenburch; </cei:datatio>
+                        <cei:apprecatio>feliciter.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:note><cei:sup>a)</cei:sup> das erste <cei:quote>r</cei:quote> auf Rasur. -
+                        <cei:sup>b)</cei:sup><cei:quote>c</cei:quote> korr. aus
+                        <cei:quote>t</cei:quote>. - <cei:sup>c)</cei:sup> A. -
+                        <cei:sup>d)</cei:sup><cei:quote>ed</cei:quote> auf Rasur. -
+                        <cei:sup>e)</cei:sup><cei:quote>nostros</cei:quote> von gl. Hand
+                    nachträglich zwischen <cei:quote>successores - permaneat</cei:quote>
+                    eingeschoben. - <cei:sup>f)</cei:sup><cei:quote>id. octob.</cei:quote> in
+                    Majuskeln. - <cei:sup>1</cei:sup> zu Abt Alawich vgl. Perret, ZSKG. 44 (1950),
+                    S. 257 f.</cei:note>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

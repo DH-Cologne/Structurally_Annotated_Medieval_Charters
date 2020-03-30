@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1072_II_04</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:23:49+02:00</atom:published>
+    <atom:updated>2010-04-27T13:34:39+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575544"
+            n="HHStA-Sbg E$36" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S 171-172.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 171.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1072_II_04" old="575544">AUR 1072 II 04</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Heinrich IV. erlaubt dem Eb Gebhard mit Rücksicht auf die
+                        große Ausdehnung seiner Diözese in Gurk ein Bistum zu erreichten, dasselbe
+                        auszustatten und räumt Gebhard und seinen Nachfolgern das Ernennungs- und
+                        Investiturrecht ein.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10720204" from="10720204">4. Februar 1072</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:figure n="AUR_1072_II_04-Siegel01">
+                            <cei:graphic url="AUR_1072_II_04-Siegel01.jpg"
+                                >AUR_1072_II_04-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1072_II_04-101">
+                            <cei:graphic url="AUR_1072_II_04-101.jpg"
+                                >AUR_1072_II_04-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1072_II_04-201">
+                            <cei:graphic url="AUR_1072_II_04-201.jpg"
+                                >AUR_1072_II_04-201.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:archIdentifier>
+                            <cei:arch>HHStA Wien, AUR (http://www.oesta.gv.at)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc/>
+                        <cei:auth/>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 475 s. XII: Vita
+                            Gebehardi et succ. in Adinont (B). - K.-B. 1 f. 97 (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>II nonas februarii</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 103 - Canisius, Lectiones antiqu. 6, 1232; Ed. Basnage
+                                    3<cei:sup>b</cei:sup>, 437 aus B = Hund-Gewold, Metrop. I. Ed.
+                                Monac. 57, Ratisb. 39 = Lünig, Reichsarchiv Spicileg. eccl. I/2 951
+                                n° 9. - Juvavia Anh. 258 n<cei:sup>o</cei:sup> 110 aus A (i) =
+                                Ankershofen, Handbuch 2, 97. - Mon. Germ. SS 11, 38 aus B = Schmued,
+                                Jahresb. d. Oberrealsch. am Schottenfeld 1857, 11.- v. Jaksch, Mon.
+                                Carinth. 1, 74 n° 30 aus A. Archiv f. vat. Gesch. 1, 80
+                                    n<cei:sup>o</cei:sup> 149. - Ankershofen, Reg. n° 155. - Böhmer,
+                                Reg. n<cei:sup>o</cei:sup> 1848. - Stumpf n° 2755.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Hirn, Rechtsverhältnisse 9 aus i. - Schwind-Dopsch, Ausgew.
+                                Urkunden z.Verf.-Gesch. d. österr. Erblande (1895) 2
+                                    n<cei:sup>o</cei:sup> 2 aus A.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sancte, et iudividue.
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus divina favente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:narratio>Quotiens ea a nobis petuntur que religioni oouveniunt, prompta
+                            debemus concessione annuere et favoris nostri gratanter prebere
+                            assensum. Ergo quia fidelis noster Gebehardus Iuuauensis archiepiscopus
+                            de commissarum sibi animarum periculis dolens conquestus est, quod
+                            episcopatum suum in montanis situm pre nimia parrochie amplitudine et
+                            viarum difficultate per se solum regere nun sufficeret, consultu
+                            fidelium nostrorum pro necessitate ecclesie,</cei:narratio>
+                        <cei:dispositio> decrevimus et annuimus, ut infra parrochiam suam adiutorem
+                            sui operis episcopum et sedem episcopalem constitueret. Igitur in loco,
+                            qui dicitur Gurca, apud ecclesiam sancte Marie, ubi prius erat
+                            congregatio sanctimonialium, placuit nobis, ut cathedram episcopalem
+                            faceret et eidem nove sedi partem parrochie sue. et de prediis et
+                            decimis, quantum sibi conveniens videretur, attribueret et ad
+                                eandem<cei:sup>a)</cei:sup> sedem episcopum ex sua consideratione
+                            ordinaret, ea videlicet ratione, ut episcopatus ille ecclesie Iuuauensi
+                            et predicto archiepiscopo suisque successoribus nunquam subtrahatur et
+                            nullus ibi episcopus quandoque sive per investituram sive quocumque
+                            pacto constituatur, nisi quem predictus archiepiscopus suique
+                            successores elegerint ordinaverint consecraverint.</cei:dispositio>
+                        <cei:corroboratio> Et ut hoc nostrum regale preceptum stabile et inconvulsum
+                            omni permaneat evo, hanc cartam inde conscribi manuque propria
+                            corroborantes sigilli nostri impressione iussimus
+                            insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici quarti regis.
+                            <cei:lb/>Adalbero cancllarius vice Sigefridi archicancellarii (MF)
+                            recognovi. S.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data II nonas februarii, anno dominice incarnationis
+                            MLXXII, anno autem ordinationis domni Heinrici quarti regis XVIII, regni
+                            vero XVI,. indict. X; actum est Ratispone;</cei:datatio>
+                        <cei:apprecatio> in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes>
+                    <cei:note><cei:sup>a)</cei:sup><cei:quote>eande</cei:quote> ohne
+                        Abkürzungszeichen A.</cei:note>
+                </cei:divNotes>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

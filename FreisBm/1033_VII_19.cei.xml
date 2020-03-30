@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/FreisBm/1033_VII_19</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-16T18:57:03+01:00</atom:published>
+    <atom:updated>2009-08-28T21:39:55+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="Freising B" id="240498"
+            n="Freising B$73" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S.
+                            73-74</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>ZAHN, Codex Diplomaticus (=FRA II/31, Wien 1870) S. 73, Nr.
+                            73</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1033_VII_19" old="240498">1033 VII 19</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>König Konrad II. schenkt dem Bisthume Freising den Hof Ollern in
+                        der Ostmark bei Tulln.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Memleben</cei:placeName>
+                        <cei:dateRange to="10330719" from="10330719">19. Juli 1033</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Hauptstaatsarchiv München</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>aufgedrückte Bleibulle</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>Cod. 189, f. 17, 238,
+                            f. 109', 191 f. 76', 104' und 108</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>XIIII. kal. Augusti</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Meichelbeck I./l, 227, Monum. boica XXIX/1, 37. Vgl. wegen der
+                                Datirung Stumpf II., 168, Nr. 2043.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Chuonradus diuina fauente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Si loca uenerabilia diuino cultui mancipata ob memoriam diuine
+                            remunerationis munere nostrae consolationis benignius adaugendo ditare
+                            decreuerimus, hoc non solum nobis ad regni nostri commodum, uerum et ad
+                            animae nostrae remedium salubriter prouenire credimus. </cei:arenga>
+                        <cei:publicatio>Quapropter omnium Christi nostrorum fideliam presentium
+                            scilicet et futurorum uniuersitati notum esse uolumus,</cei:publicatio>
+                        <cei:narratio> qualiter nos summe divinitatis intuitu per interuentum
+                            amantissime coniugis nostrae Gislae imperatricis augustae nostrique
+                            dilecti filii Heinrici regis cara petitione, nec non ob assiduum
+                            fideleque seruitium Egilberti Frisingensis aecclesie uenerabilis
+                            episcopi, qui pre ceteris multiplicato genere seruitutis pro uiribus
+                            (gratanter deseruiuit) suumque seruitium in hoc multipliciter adauxit,
+                            quod eundem unicum nostrum filium per nos sue fidei commendatum plena
+                            fide vice nostra fouit, amplectitur, amauit et per omnia fideliter
+                            educauit,</cei:narratio>
+                        <cei:dispositio> tradidimus ad altare semper virginis Marie sanctique
+                            Corbiniani nobilissimi Christi confessoris in civitate Frisinga corpore
+                            quiescentis, curtem Alarun sitam in marchia et in comitatu Adalberti
+                            marchionis cum omnibus ad eundem locum iure ac legaliter pertinentibus
+                            cum mancipiis utriusque sexus, cum areis, aedificiis, agris, vineis,
+                            campis, terris cultis et incultis, pratis, pascuis, siluis,
+                            uenationibus, aquis aquarumue decursiubs, piscationibus, molis,
+                            molendinis, viis et inviis, exitibus et reditibus, que˛sitis et
+                            inquirendis seu cum omni utilitate que uel scribi aut nominari ullo modo
+                            potest, eandemque curtem de nostro ivre ac dominio ea ratione in ius
+                            atque dominium prefatae Frisingensis aecclesiae omnino transfudimus et
+                            in perpetuam proprietatem donauimus, ut idem uenerabilis antistes
+                            Egilbertus et successores sui absque uiolentia ullius nostri successoris
+                            siue regis sive imperatoris liberam posthac licentiam hanc habeant
+                            potenter possidendi, commutandi vel quicquid inde sibi saluo iure
+                            aecclesiae placuerit faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut haec imperialis nostrae traditionis integritas
+                            stabilis et inconuulsa per futura annorum curricula perseueret, hoc
+                            auctoritatis nostrae praeceptum inde conscriptum sigilli nostri
+                            impressione insigniri ivssimus et ambo nos ego idemque filius meus
+                            dilectus rex videlicet Heinricus, ego ipso humiliter interueniente, ille
+                            me consentiente atque iubente uterque in sui nominis signo manu propria
+                            subtus corroboravimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Chuonradi inuictissimi (M.) Romanorum
+                            imperatoris augusti. Signum domni Heinrici (M.) tertii regis
+                            gloriosissimi.<cei:lb/>Burchardus cancellarius uice Bartonis
+                            archicapellani recognoui.</cei:subscriptio>
+                        <cei:datatio><cei:lb/>Data XIIII. kal. Augusti, indictione I., anno dominice
+                            incarnationis millesimo XXXIII., anno vero domni Chuonradi secundi
+                            regnantis VIII., imperii autem VII., anno etiam domni Heinrici regis
+                            tertii VI. Actum Imileb</cei:datatio>
+                        <cei:apprecatio> feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>

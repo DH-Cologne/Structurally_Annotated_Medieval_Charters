@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/AT-HHStA/SbgE/AUR_1055_III_06</atom:id>
+    <atom:title/>
+    <atom:published>2010-04-19T21:23:54+02:00</atom:published>
+    <atom:updated>2010-04-27T13:35:05+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="HHStA-Sbg E" id="575566"
+            n="HHStA-Sbg E$120" type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S 151-152.</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>Salzburger Urkundenbuch, II. Band, Urkunden von 790 bis 1199.
+                            Willibald Hauthaler und Franz Martin. S. 151.</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="AUR_1055_III_06" old="575566">AUR 1055 III 06</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>Kaiser Heinrich III. schenkt der Salzburger Kirche auf Bitte von
+                        Eb Balduin das Gut und die Kirche zu Strassgang und Besitzungen zwischen
+                        Strassgang und der Mur, die einem gewissen Boto vom kaiserlichen Gericht
+                        aberkannt worden waren.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Regensburg</cei:placeName>
+                        <cei:dateRange to="10550306" from="10550306">6. März 1055</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:figure n="AUR_1055_III_06-Siegel01">
+                            <cei:graphic url="AUR_1055_III_06-Siegel01.jpg"
+                                >AUR_1055_III_06-Siegel01.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1055_III_06-101">
+                            <cei:graphic url="AUR_1055_III_06-101.jpg"
+                                >AUR_1055_III_06-101.jpg</cei:graphic>
+                        </cei:figure>
+                        <cei:figure n="AUR_1055_III_06-201">
+                            <cei:graphic url="AUR_1055_III_06-201.jpg"
+                                >AUR_1055_III_06-201.jpg</cei:graphic>
+                        </cei:figure>
+                    </cei:witnessOrig>
+                    <cei:witListPar>
+                        <cei:witness><cei:traditioForm>cop.</cei:traditioForm>K.-B. 1 f. 88
+                            (C).</cei:witness>
+                    </cei:witListPar>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>Data II nonas mart.</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>SUB II 088 - Juvavia Anh. 239 n° 100 aus A. - Zahn, Steir.
+                                U.-B. 1, 68 n° 60 aus A. - Böhmer, Reg. n° 1660. - Ankershofen, Reg.
+                                Nachtrag n° 11. - Stumpf, RK n° 2465.</cei:bibl>
+                        </cei:listBiblEdition>
+                        <cei:listBiblErw>
+                            <cei:bibl>Wichner, Gesch. v. Admont 1, 228 n° 5. - Hormayr, Taschenbuch
+                                1813, 222. - Levec, Mitteil. d. anthr. Ges. 53, 88.</cei:bibl>
+                        </cei:listBiblErw>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>C. In nomine sanctae et individuae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio>Heinricns divina favente clementia Romanorum imperator
+                            augustus.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga>Si nostra imperialis munificentia locis venerabilibus sacraeque
+                            religionis cultoribus quicquam utilitatis contulerit, scimus magna
+                            presidia tam animae nostre quam etiam stabilitati regni nostri inde
+                            accrescere.</cei:arenga>
+                        <cei:publicatio>Proinde noverit omnium Christi nostrique fidelium
+                            industria,</cei:publicatio>
+                        <cei:narratio> qualiter nos pro remedio animarum omnium antecessorum
+                            nostrorum et nostri et pro vite nostrae coniugisque nostrae Agnetis et
+                            dilectissimae prolis Heinrici regis quarti incolumitate et regni nostri
+                            stabilitate precante Beldingo archiepiscopo atque fideli servitio suo
+                            monente ad ecclesiam Ivvanensem, cui ipse presidet, in honore sancti
+                            Petri principis apostolorum et sancti Rotberti constructam, quoddam
+                            predium et ecclesiam quae dicitur Strazkang ad sanctum Martinvm dimidiam
+                            cum omnibus suis iusticiis et pertinentiis, et quicquid Botonis
+                            diiudicati atqne proscripti erat inter fluvium Mora et inter predictum
+                            locum Strazkang, quod nostrae imperiali potestati in palatino placito
+                            adiudicatum est,</cei:narratio>
+                        <cei:dispositio> tradidimus in proprium cum omnibus suis appenditiis, hoc
+                            est utriusque sexus mancipiis areis aedificiis terris cultis et
+                            incultis, pratis pascuis aquis aquarumque decursibus molis molendinis
+                            piscationibus silvis venationibus exitibus et reditibus, viis et inviis,
+                            quaesitis et inquirendis cum omni utilitate, quae ullo modo inde poterit
+                            provenire, ea videlicet ratione, ut prenominatus Beldingvs
+                            archiepiscopus sive quilibet eius successor predicti loci Ivvanensis
+                            gubernator de prefato predio liberam dehinc potestatem habeant obtinendi
+                            tradendi commutandi precariandi vel quicquid sibi placuerit inde
+                            faciendi.</cei:dispositio>
+                        <cei:corroboratio> Et ut hoc ratum stabile et inconvulsum omni succedentis
+                            temporis aevo permaneat, hanc cartam inde conscriptam manu propria, ut
+                            infra videtur, corroborantes sigilli nostri impressione iussione
+                            iussimus insigniri.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum domni Heinrici tercii regis, seeundi (M)
+                            Romanorum imperatoris augusti. SMP.<cei:lb/>Uuinitherius cancellarius
+                            vice Liutpoldi archicancellari recognovi.</cei:subscriptio>
+                        <cei:datatio>
+                            <cei:lb/>Data II nonas mart., anno dominicae incarnationis MLV, indict.
+                            VIII, tempore domni Heinrici tercii regis, secundi Romanorum imperatoris
+                            augusti, anno autem ordinationis eius XXVII, regni XVI, imperii VIIII;
+                            actum Ratisbonae;</cei:datatio>
+                        <cei:apprecatio>in dei nomine feliciter amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back/>
+        </cei:text>
+    </atom:content>
+</atom:entry>

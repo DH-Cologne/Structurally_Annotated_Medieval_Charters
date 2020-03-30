@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<atom:entry xmlns:atom="http://www.w3.org/2005/Atom">
+    <atom:id>tag:www.monasterium.net,2011:/charter/OOEUB/1007_XI_01</atom:id>
+    <atom:title/>
+    <atom:published>2009-01-19T14:07:15+01:00</atom:published>
+    <atom:updated>2009-08-28T21:20:45+02:00</atom:updated>
+    <atom:author>
+        <atom:email/>
+    </atom:author>
+    <app:control xmlns:app="http://www.w3.org/2007/app">
+        <app:draft>no</app:draft>
+    </app:control>
+    <atom:content type="application/xml">
+        <cei:text xmlns="http://www.monasterium.net/NS/cei"
+            xmlns:cei="http://www.monasterium.net/NS/cei" b_name="OOEUB" id="238175" n="OOEUB$55"
+            type="charter">
+            <cei:front>
+                <cei:sourceDesc>
+                    <cei:sourceDescVolltext>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 73-74</cei:bibl>
+                    </cei:sourceDescVolltext>
+                    <cei:sourceDescRegest>
+                        <cei:bibl>OÖUB 2 (Wien 1856), S. 73</cei:bibl>
+                    </cei:sourceDescRegest>
+                </cei:sourceDesc>
+            </cei:front>
+            <cei:body>
+                <cei:idno id="1007_XI_01" old="238175">1007 XI 01</cei:idno>
+                <cei:chDesc>
+                    <cei:abstract>K. Heinrich II. schenkt dem von ihm gestifteten Bistum Bamberg den
+                        Aterhof im Atergau, in der Grafschaft des Grafen Gebehard.</cei:abstract>
+                    <cei:issued>
+                        <cei:placeName>Frankfurt/Main</cei:placeName>
+                        <cei:dateRange to="10071101" from="10071101">1. November
+                            1007</cei:dateRange>
+                    </cei:issued>
+                    <cei:witnessOrig>
+                        <cei:traditioForm>orig.</cei:traditioForm>
+                        <cei:archIdentifier>
+                            <cei:arch>Bayerisches Hauptstaatsarchiv München
+                                (www.gda.bayern.de/hsta00.htm-8k)</cei:arch>
+                        </cei:archIdentifier>
+                        <cei:physicalDesc>
+                            <cei:material>Pergament</cei:material>
+                        </cei:physicalDesc>
+                        <cei:auth>
+                            <cei:sealDesc>Aufgedrucktes Siegel.</cei:sealDesc>
+                        </cei:auth>
+                    </cei:witnessOrig>
+                    <cei:witListPar/>
+                    <cei:diplomaticAnalysis>
+                        <cei:quoteOriginaldatierung>Kalendis Novembris</cei:quoteOriginaldatierung>
+                        <cei:listBiblEdition>
+                            <cei:bibl>Mon. boic. XXVIII. II. 371. Nr. 237.</cei:bibl>
+                        </cei:listBiblEdition>
+                    </cei:diplomaticAnalysis>
+                    <cei:lang_MOM>Latein</cei:lang_MOM>
+                </cei:chDesc>
+                <cei:tenor>
+                    <cei:protocol>
+                        <cei:invocatio>(Chrismon.) In nomine sanctae et indiuiduae
+                            trinitatis.</cei:invocatio>
+                        <cei:intitulatio> Heinricus diuina fauente clementia rex.</cei:intitulatio>
+                    </cei:protocol>
+                    <cei:context>
+                        <cei:arenga> Saluberrimis igitur sacri eloquii institutionibus erudimur et
+                            admonemur, ut temporalia relinquentes bona et terrena postponentes
+                            commoda aeterna et sine fine mansura in celis studeamus adipisci
+                            consistoria. Quapropter nos dominicis non surdum auditum prebentes
+                            preceptis et deificis obtemperando intendentes suasionibus quendam
+                            nostrae paternae hereditatis locum Babenberc dictum in sedem et culmen
+                            episcopatus sublimando proueximus et romana auctoritate atque
+                            venerabilis Heinrici vvirciburgensis episcopi consensu ac pari
+                            communique omnium nostri fidelium tarn archiepiscoporum quam episcoporum
+                            abbatumque nec non ducum, comitum consultu decretoque in honorem sanctae
+                            dei genitricis Mariae Sanctorumque apostolorum Petri et Pauli necnon
+                            Martirum Kiliani atque Georii stabiliuimus et corroborauimus, ut et
+                            inibi nostrum parentumque nostrorura celebre haberetur memoriale et
+                            jugis pro omnibus ortodoxis hostia mactaretur salutaris.</cei:arenga>
+                        <cei:publicatio> Proinde nouerit omnium nostri fidelium tarn presens etas
+                            quam et successura posteritas,</cei:publicatio>
+                        <cei:narratio> quia nos nostrae proprietatis quendam locum Aterahof dictum
+                            in pago Ateragowi et in comitatu Gebehardi comitis situm ad eandem
+                            episcopalem sedem Babenberc dictam vna cum omnibus eius pertinentiis
+                            siue adherentiis, videlicet vicis, villis, aecclesiis, seruis et
+                            ancillis, areis, aedificiis, terris cultis et incultis, uiis, inuiis,
+                            exitibus et reditibus, quaesitis uel inquirendis, siluis, forestibus,
+                            saginfs, venatonibus, aquis, piscationibus, molis, molendinis, rebus
+                            mobilibus et inmobilibus ac ceteris rebus omnibus, quae rite dici uel
+                            scribi posunt,</cei:narratio>
+                        <cei:dispositio> utilitatibus hac nostrae auctoritatis preceptali pagina,
+                            prout firmissime possumus, donamus atque proprietamus omnium
+                            contradictione remota. Precipientes igitur, ut nobis in deo dilectus
+                            sepe dictae sedis Eberhardus episcopus liberam dehinc habeat potestatem
+                            ac sui successores eundem praescriptum locum Aterahof dictum cum omnibus
+                            appendiciis suis tenendi, possidendi seu quicquid sibi libeat, rnodis
+                            omnibus in usum episcopatus inde faciendi. Siquis igitur, quod absit,
+                            huius nostrae donationis munificentiam destruere siue violare praesumet,
+                            in nouissimo die coram oculis dei inextinguibili tormento luat. </cei:dispositio>
+                        <cei:corroboratio>Quod ne fiat sed haec traditio nostra ab omnibus
+                            incorrupta permaneat, hanc cartam inde conscriptam manu propria
+                            roborantes sigilli nostri inpressione insigniri
+                            iussimus.</cei:corroboratio>
+                    </cei:context>
+                    <cei:eschatocol>
+                        <cei:subscriptio><cei:lb/>Signum Domni Heinrici (Monogramma) regis
+                            Inuictissimi, Eberhardus Cancellarius uice uuilligisi Archicapellani
+                            recognoui. </cei:subscriptio>
+                        <cei:datatio>Data Kalendis Novembris indictione V. anno dominicae
+                            incarnationis M.VII. Anno uero domni Heinrici secundi regnantis VI.
+                            actum Frankonofurt</cei:datatio>
+                        <cei:apprecatio> feliciter. amen.</cei:apprecatio>
+                    </cei:eschatocol>
+                </cei:tenor>
+            </cei:body>
+            <cei:back>
+                <cei:divNotes/>
+            </cei:back>
+        </cei:text>
+    </atom:content>
+</atom:entry>
