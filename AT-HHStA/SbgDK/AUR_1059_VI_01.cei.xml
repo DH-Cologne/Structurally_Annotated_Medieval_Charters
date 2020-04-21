@@ -88,7 +88,8 @@
                             presentibus notum esse volumus,</cei:publicatio>
                         <cei:narratio> qualiter nos ob interventum ac petitionem dilectissimae
                             genitricis nostrae Agnetis imperatricis augustae nec non ob fidele
-                            servicium Baltwini Salzburgensis archiepiscopi quinque mansos habitatos
+                            servicium Baltwini Salzburgensis archiepiscopi </cei:narratio>
+                        <cei:dispositio> quinque mansos habitatos
                             in marchionis Otacheres marchia Carintina in villa autem Gunprehtesteten
                             sitos, si ex integro in eadem mensurari possent, sin autem minus, in
                             proximis superioribus eiusdem villae partibus iuxta flumen Lonsinice in
@@ -96,8 +97,8 @@
                             sexus mancipiis areis aedificiis terris cultis et incultis, agris pratis
                             pascuis campis silvis venationibus aquis aquarumque decursibus molis
                             molendinis piscationibus exitibus ac reditibus, viis et inviis, quesitis
-                            et inquirendis cum omni utilitate, que ullo modo inde provenire potest, </cei:narratio>
-                        <cei:dispositio>sanctae dei ecclesiae ad altare sancti Roperti confessoris
+                            et inquirendis cum omni utilitate, que ullo modo inde provenire potest,
+							sanctae dei ecclesiae ad altare sancti Roperti confessoris
                             in loco Salzburc dicto in proprium dedimus atque tradidimus ea videlicet
                             ratione, ut predictus archiepiscopus ceterique sui successores de
                             prefato predio liberam dehinc potestatem habeant tenendi commutandi

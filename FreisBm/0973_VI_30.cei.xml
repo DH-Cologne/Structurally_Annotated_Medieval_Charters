@@ -60,7 +60,8 @@
                         <cei:publicatio> Nouerit omnium industria fidelium nostrorum tarn presentium
                             quam futurorum,</cei:publicatio>
                         <cei:narratio> qualiter per interuentum dilecte matris nostre Adelheide et
-                            fidelis nostri uidelicet Heinrici ducis quasdam partes nostre
+                            fidelis nostri uidelicet Heinrici ducis</cei:narratio>
+                        <cei:dispositio> quasdam partes nostre
                             proprietatis sitas in ducatu prefati ducis et in comitatu Poponis
                             comitis quod Carniola uocatur et quod uulgo Creina marcha appellatur.
                             Est enim in ipso comitatu riuulüs paruus qui uocabulo Sclauorum Sabniza
@@ -72,8 +73,7 @@
                             deorsum usque ad ostium pretitulati riuuli Sabniza indeque sursum ad
                             caput uel exitum ipsius riuuli quicquid inter ipsa confluentia habuisse
                             uideamur, loca sie notninata Sabniza, Lonca, Susane, iterumque Celsah
-                            uel qualicumque uocabulo uocantur, </cei:narratio>
-                        <cei:dispositio>hoc totum in proprium cuidam nostro fideli nobisque satis
+                            uel qualicumque uocabulo uocantur, hoc totum in proprium cuidam nostro fideli nobisque satis
                             percaro episcopo Abraham uocitato donauimus cum omnibus rebus iure
                             legitime(que) ad pretitulata loca aspicientibus, cum curtilibus et
                             edifieiis, manieipiis utriusque sexus, si inibi nostri iuris

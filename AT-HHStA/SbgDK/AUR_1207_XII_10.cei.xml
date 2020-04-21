@@ -90,7 +90,8 @@
                         <cei:publicatio> Noverint igitur universi fideles imperii tam presentis evi
                             quam futuri,</cei:publicatio>
                         <cei:narratio> quod nos a preces dilecti fidelis nostri Alberti prepositi
-                            Salzeburgensis fratrumque eiusdem capituli pro spe eterne vite omnes
+                            Salzeburgensis fratrumque eiusdem capituli </cei:narratio>
+                        <cei:dispositio> pro spe eterne vite omnes
                             inibi utriusque sexus homines secundum * regulam beati Augustini deo
                             famulantes et divinis serviciis mancipatos et omnia bona eorum mobilia
                             et inmobilia ab antecessoribus nostris et eiusdem loci archiepiscopis
@@ -98,8 +99,7 @@
                             animarum ad sustentationem eis collata sunt, que in presentiarum iuste
                             ac rationabiliter possidere dinoscuntur aut in futurum concessione
                             pontificum, largitione regum vel principum seu oblatione aliorum Christi
-                            fidelium iuste adipisci poterunt, </cei:narratio>
-                        <cei:dispositio>sub * nostra recipimus protectione et regali confirmantes
+                            fidelium iuste adipisci poterunt,sub * nostra recipimus protectione et regali confirmantes
                             auctoritate ipsis eorumque successoribus firma * et illibata decernimus
                             permanere, in quibus hec propriis exprimenda duximus vocabulis: locum
                             ipsum, in quo ecclesia Salzpurgensis episcopalis sita est et a nostris

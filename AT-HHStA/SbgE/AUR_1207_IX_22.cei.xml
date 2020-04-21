@@ -89,7 +89,7 @@
                         <cei:publicatio> Ob memoriam itaque rei geste ad noticiam universorum tam
                             presentis etatis quam in eorum successure posteritatis hominum deduci
                             volumus,</cei:publicatio>
-                        <cei:dispositio> qualiter constitutis in presencia regie maigestatis dilecto
+                        <cei:narratio> qualiter constitutis in presencia regie maigestatis dilecto
                             fideli nostro Eberhardo venerabili Salzpurgensis ecclesie archiepiscopo
                             et Heinrico comite de Lechesgemunde evidentissima veritatis expressione
                             nobis est monstratum, quod inter dominum Cvnradum quondam Salzpurgensem
@@ -123,7 +123,8 @@
                             Lôshant reddidit sibi ministerialem. Denique ut omnem questionis
                             scrupulum rei geste sepedictus comes elideret, donationem ab antiquo
                             Salzpurgensi ecclesie factam in presencia regalis magnificencie
-                            recognovit et eandem donationem denuo libera voluntate innovavit. Hanc
+                            recognovit et eandem donationem denuo libera voluntate innovavit.
+							</cei:narratio><cei:dispositio> Hanc
                             igitur donationem rite et rationabiliter in presencia nostra factam
                             approbamus et regia auctoritate confirmamus statuentes et regia
                             sanctione firmiter precipientes, ut nulli de cetero persone alte vel

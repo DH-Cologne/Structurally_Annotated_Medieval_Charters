@@ -61,11 +61,12 @@
                             futuri,</cei:publicatio>
                         <cei:narratio> qualiter nos ob interuentum dilecte nostre coniugis
                             Chunigunde regine fidelisque nostri Gotescalchi Frisingensis ecelesie
-                            antistitis quoddam predium Strasista uocatum et quiequid intra tres
+                            antistitis </cei:narratio>
+                        <cei:dispositio>quoddam predium Strasista uocatum et quiequid intra tres
                             fluuios Libniza, Sabum, Zoura in regione Carniola et in comitatu
                             Vualtilonis comitis nostri iuris situm est, super gremium sanete Marie
-                            seinper uirginis sanctique Corbiniani ibidem Frisinge </cei:narratio>
-                        <cei:dispositio>corporaliter quiescentis in proprium donauiinus cum omnibus
+                            seinper uirginis sanctique Corbiniani ibidem Frisinge corporaliter
+							quiescentis in proprium donauiinus cum omnibus
                             ad idem predium pertinentibus edifieiis, maneipiis, agris, pratis,
                             siluis, paseuis, aquis aquarumqne decursibus, molendinis, piscationibus,
                             exitibus et reditibus, zidaluvedon<cei:sup>1</cei:sup>. foresto,

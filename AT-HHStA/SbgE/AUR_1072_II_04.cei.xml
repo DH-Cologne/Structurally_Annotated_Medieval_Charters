@@ -89,9 +89,10 @@
                         <cei:intitulatio> Heinricus divina favente clementia rex.</cei:intitulatio>
                     </cei:protocol>
                     <cei:context>
-                        <cei:narratio>Quotiens ea a nobis petuntur que religioni oouveniunt, prompta
+                        <cei:arenga>Quotiens ea a nobis petuntur que religioni oouveniunt, prompta
                             debemus concessione annuere et favoris nostri gratanter prebere
-                            assensum. Ergo quia fidelis noster Gebehardus Iuuauensis archiepiscopus
+                            assensum.</cei:arenga>
+						<cei:narratio> Ergo quia fidelis noster Gebehardus Iuuauensis archiepiscopus
                             de commissarum sibi animarum periculis dolens conquestus est, quod
                             episcopatum suum in montanis situm pre nimia parrochie amplitudine et
                             viarum difficultate per se solum regere nun sufficeret, consultu
