@@ -91,10 +91,11 @@
                             nostrisque fidelibus tam futuris quam presentibus,</cei:publicatio>
                         <cei:narratio> qualiter pro remedio anime nostre et ob interventum
                             dilectissime coniugis nostre imperatricis Agnetis necnon petitionem
-                            filii nostri karissimi Heinrici quarti regis quoddam predium nomino
+                            filii nostri karissimi Heinrici quarti regis</cei:narratio>
+                        <cei:dispositio> quoddam predium nomino
                             Naunzel, quod Durdogouuo Ozino comiti dederat et quod Otto filius
-                            eiusdem Ozini nobis per cartulam tradiderat,</cei:narratio>
-                        <cei:dispositio> in pago Foro Iulio et in comitatu Lvdowici comitis situm
+                            eiusdem Ozini nobis per cartulam tradiderat, in pago Foro Iulio et
+							in comitatu Lvdowici comitis situm
                             sancte Salzbvrgensi ecclesie concedimus donamus et confirmamus ea
                             videlicet racione, ut nullus archiepiscopus episcopus dux marchio comes
                             vicecomes nec aliqua magna vel parva nostri regni persona predictam

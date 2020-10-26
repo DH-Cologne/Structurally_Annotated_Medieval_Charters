@@ -111,8 +111,8 @@
                         <cei:publicatio> | Omnibus Christi nostrique fidelibus tarn futuris quam
                             praesentibus notum esse volumus,</cei:publicatio>
                         <cei:narratio> qualiter nos ob interventum ac petitionem dilectissimae
-                            genitricis nostrae Agnetis imperatricis augustae cuidem fideli nostro
-                            Cvono dicto decem regales mansos in villa
+                            genitricis nostrae Agnetis imperatricis augustae</cei:narratio>
+                        <cei:dispositio> cuidem fideli nostro Cvono dicto decem regales mansos in villa
                                 Gvzbretdesdorf<cei:sup>1</cei:sup> et deorsum Svarzaha et si ibi
                             aliquid defuerit, sursum Svarzaha adimplendos in marcha Karentana et in
                             comitatu Otacheres marchionis sitos cum omnibus suis pertinentiis, hoc
@@ -120,8 +120,7 @@
                             campis silvis venationibus aquis aquarumque decursibus molis molendinis
                             piscationibus exitibus et reditibus viis et inviis quaesitis et
                             inquirendis seu cum omni utilitate, quae ullo modo inde provenire
-                            potest,</cei:narratio>
-                        <cei:dispositio> in proprium dedimus atque tradidimus ea videlicet ratione,
+                            potest, in proprium dedimus atque tradidimus ea videlicet ratione,
                             ut praedictus Cvono de praefato praedio sibi a nobis tradito liberam
                             dehinc potestatem habeat tenendi dandi vendendi commutandi praecariandi
                             posteris relinquendi vel quicquid sibimet placuerit, inde

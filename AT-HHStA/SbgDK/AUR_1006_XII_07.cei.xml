@@ -79,12 +79,13 @@
                         <cei:publicatio> Quapropter generaliter omnium pateat
                             industriae,</cei:publicatio>
                         <cei:narratio>qualiter nos interveniente dilecta<cei:sup>b</cei:sup>)
-                            coniuge nostra Cunigunda videlicet regina quoddam nostri iuris predium
+                            coniuge nostra Cunigunda videlicet regina</cei:narratio>
+                        <cei:dispositio> quoddam nostri iuris predium
                             Slierbach dictum in comitatu Radpotonis situm, in pago vero
-                                Oliupestale<cei:sup>c)</cei:sup> Iubensi
-                                acclesiae<cei:sup>d</cei:sup>), ubi sanctus Rodbertus corporaliter
-                            requiescit, pro redemptione animae nostrae dilectaeque coniugis </cei:narratio>
-                        <cei:dispositio>per hoc regale testamentum donando firmamus, cum omnibus
+                            Oliupestale<cei:sup>c)</cei:sup> Iubensi
+                            acclesiae<cei:sup>d</cei:sup>), ubi sanctus Rodbertus corporaliter
+                            requiescit, pro redemptione animae nostrae dilectaeque coniugis
+							per hoc regale testamentum donando firmamus, cum omnibus
                             appendiciis et utilitatibus eidem predio adiacentibus cum familia
                             utriusque sexus, cum areis aedificiis terris
                                 culltis<cei:sup>d)</cei:sup> et incultis, viis inviis, exitibus et

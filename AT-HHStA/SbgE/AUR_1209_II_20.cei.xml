@@ -88,14 +88,14 @@
                             semper augustus. ++</cei:intitulatio>
                     </cei:protocol>
                     <cei:context>
-                        <cei:narratio>Regalis excellentie nostre decet equitatem subiectorum
+                        <cei:arenga>Regalis excellentie nostre decet equitatem subiectorum
                             commodis curam diligentem impendere et causas seu etiam lites, quociens
                             coram nobis emerserint, quo pacto decidantur, scripture amminiculo
                             perpetuare, ut inposterum omni careat ambiguitate, quod prius a
-                            plerisque deduci solebat perverse in questionem.</cei:narratio>
+                            plerisque deduci solebat perverse in questionem.</cei:arenga>
                         <cei:publicatio> Eapropter noverit universorum imperii fidelium presens etas
                             et successura posteritas,</cei:publicatio>
-                        <cei:dispositio>quod cum apud No/urinberc imperialem locum sub frequentia
+                        <cei:narratio>quod cum apud No/urinberc imperialem locum sub frequentia
                             principum curiam sollempnem celebraremus, Waltherus venerabilis
                             Gurcensis episcopus una cum ecclesie, sue familia cleri et populi in
                             nostra constitutus presentia exposuit nobis, quod ecclesia Gurcensis eo
@@ -125,7 +125,8 @@
                             principum videlicet Heinrici quarti Rom(anorum) regis et Friderici
                             imperatoris scriptis autenticis et vivo testimonio comprobasset. Quam
                             sententiam universi principes in nostra tunc constituti presentia equam
-                            et semper observandam uno ore firmiter proclamarunt. Nos itaque deo
+                            et semper observandam uno ore firmiter proclamarunt.</cei:narratio>
+							<cei:dispositio> Nos itaque deo
                             nobis auxiliante in cunctis agendis nostris iusticie semitam tenere
                             cupientes hiis et aliis, que dicta fuerunt, auditis et presertim, quia
                             iam dictus Gurcensis episcopus coram nobis est confessus, quod nec ipse
