@@ -1,12 +1,15 @@
 # Structurally_Annotated_Medieval_Charters
 A set of CEI annotated medieval german royal charters (originating from the virtual archive Monasterium.net) with added annotation of their formal structure.
+For more information regarding the scientific background as well as the training data and the program it was used for see also the **corresponding paper**:
+
+Alina Ostrowski: [*Automatische Erkennung und Klassifikation von Formularbestandteilen in Königsurkunden. Zur Aufbereitung digitaler Urkundenkorpora in der Mediävistik*](https://www.vr-elibrary.de/doi/10.7788/9783412520663.139), in: Étienne Doublier, Daniela Schulz and Dominik Trump (Ed.): *Die Historischen Grundwissenschaften heute. Tradition - Methodische Vielfalt - Neuorientierung*, Wien/Köln/Weimar 2021, p. 139-166
 
 Die CEI-annotierten Urkunden in diesem Repository stammen aus dem virtuellen Urkundenarchiv [Monasterium.net](https://www.monasterium.net/mom/home). Sie wurden eigenständig um die Annotation der Formularbestandteile (\<protocol\>, \<invocatio\>, \<dispositio\> etc.) ergänzt. Jede Datei enthält die originalen Meta-Daten der Urkunden (Stand ca. Herbst 2018), so dass diese identifizierbar sind. Weiter unten in dieser Readme befindet sich außerdem eine Konkordanz mit Hinweisen zu den jeweiligen Archiven und Sammlungen, aus denen die Urkunden stammen.
 
 Dieses Korpus wurde im Rahmen der Entwicklung eines Programms zur automatischen Erkennung und Klassifikation von Urkundenbestandteilen angelegt. Die Urkunden aus dem Korpus werden dort als Trainingsdaten für einen Machine Learning Algorithmus genutzt, der für die Klassifikation eingesetzt wird. Das Repository zum Programm findet sich unter  <https://github.com/DH-Cologne/Medieval-Charter-Classification>
 
 ## Konkordanz ##
-Es folgt eine Auflistung der auf Monasterium.net vertretenen Archive und Sammlungen, aus denen Urkunden zum Training des Machine Learning-Algorithmus benutzt worden sind.
+Es folgt eine Auflistung der auf Monasterium.net vertretenen Archive und Sammlungen, aus denen Urkunden zum Training des Machine Learning Algorithmus benutzt worden sind.
 Die Trainingsbasis beinhaltet Urkunden aus folgenden Archiven:
 
 ### Österreich, Haus- Hof- und Staatsarchiv (AT-HHStA) ###
